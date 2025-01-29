@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1500014"
+title: "Nasiona Regularne Four-Way"
+description: "Odmiana Regularna Four-Way to w 80% Indica. Ma geny indyjskie, afgańskie, pakistańskie i Skunk #1. Obfite plony oraz pikantny, słodki aromat i smak."
+image: "https://img.sensiseeds.com/pl/nasiona-konopi/sensi-seeds/four-way-image.png"
+slug: "/pl-nasiona-regularne-four-way"
+url: "https://sensiseeds.com/pl/nasiona-konopi/sensi-seeds/four-way?a_aid=cannastore"
+price: 57
+currency: "eur"
+number_of_seeds: 10
+category: "Uprawa domowa"
+flowering_min: 45
+flowering_max: 60
+strain_type: "Regular"
+climate_zone: "Słoneczny/śródziemnomorski"
+yield: "Duży plon"
+heigh_gain: "Średni przyrost wysokości"
+locale: "pl"
+---
+Odmiana Regularna Four-Way to w 80% Indica, co przejawia się poprawiającym nastrój, ciepłym i głęboko relaksującym hajem. Uzyskano ją z kilku innych wysoko wydajnych szczepów, co sprawia, że idealnie nadaje się do dalszego krzyżowania. W przypadku szczepu Four-Way można oczekiwać wysokich plonów, szczególnie przy uprawach indoor lub outdoor w ciepłych i słonecznych warunkach. Hodowcy szczególnie lubą jego mocny, pikantny aromat oraz smak z nutą pieprznej słodyczy. Wzór uprawy odmiany Regularnej Four-WayNasiona Regularne Four-Way to w 80% Indica i 20% Sativa. Szczep ten jest wynikiem kilku lat starannego krzyżowania, którego celem było uzyskanie stabilnego produktu końcowego charakteryzującego się zaletami roślin macierzystych. Każde udane pokolenie była krzyżowana wstecznie w celu zapewnia lepszej stabilności lub wprowadzane do kolejnego genotypu. W końcu uzyskano idealny szczep Four-Way, będący hybrydą zawierającą geny afgańskie, pakistańskie i indyjskie w połączeniu ze szczepem Skunk #1.Jest to odmiana Regularna, co oznacza, że z nasion powstają rośliny zarówno żeńskie, jak i męskie. Obecność roślin męskich przyda się hodowcom, którzy chcą uzyskać nasiona do dalszej hodowli lub do własnych eksperymentów z krzyżowaniem. Jest to multihybryda, zatem hodowcy powinni spodziewać się, że rośliny będą różnorodne, co może skutkować ekscytującymi kombinacjami cech.Czas kwitnienia odmiany Regularnej Four-Way jest stosunkowo krótki (od 45 do 60 dni), co jest jej kolejną ogromną zaletą. Oznacza to, że hodowcy mogą cieszyć się szybkimi wynikami, a nawet kilkoma zbiorami rocznie. Szczep ten ma stosunkowo niewielkie rozmiary, a przy uprawie indoor wysokość roślin osiąga jedynie ok. 100–180 cm. W sprzyjających warunkach uprawy ouotdoor ich wysokość może osiągać ok. 180–250 cm, z czym nadal można sobie poradzić w średniej wielkości ogrodzie. Rośliny mają atrakcyjny wygląd, z licznymi szczytami zgromadzonymi głównie wokół środkowej łodygi oraz podłużnymi, eleganckimi liśćmi. Ciężkie, ciasno upakowane szczyty są pokryte obfitą warstwą lśniącej żywicy. Kolejną godną uwagi cechą odmiany Regularnej Four-Way są uzyskiwane plony. Rośliny są mało wymagające i gwarantują dobre plony nawet początkującym hodowcom. Osoby uprawiające je indoor odnotowują plony na poziomie ok. 500 gramów na metr kwadratowy. W przypadku upraw outdoor plony wynoszą średnio 500 gramów na jedną roślinę. Odmiana Regularna Four-Way dobrze sprawdza się w klimacie słonecznym, a dla osiągnięcie pełnych możliwości wymaga długiego i ciepłego lata. Łatwo można ją jednak uprawiać w pomieszczeniach ze sztucznym oświetleniem, jak również w szklarniach. Doświadczeni hodowcy będą mogli się przekonać, że szczep ten dobrze reaguje na trening metodami „supercropping” i „lollipopping” (lizakowanie). Efekt, smak i aromat odmiany Regularnej Four-WayOdmiana Regularna Four-Way to w przeważającej części Indica z ograniczoną domieszką genów Sativa. W związku z tym haj ma charakter typowy dla odmiany Indica — mocne odurzenie całego ciała, które według użytkowników jest relaksujące i uspokajające. Mimo że nasiona wytwarzają różne fenotypy, rośliny zwykle pachną słodko z nutą pieprznej pikantności. Jest tam również odrobina ziemistości, która uwydatnia się wraz ze zbliżaniem się okresu zbioru szczytów. Użytkownicy określają smak jako słodki i pikantny z nutami ziemistymi i skunk, co jest związane z wpływem szczepu Skunk #1. Czy wiesz, że…? Odmiana Regularna Four-Way jest multihybrydą, co oznacza, że w przypadku uprawy z nasion może występować pewne zróżnicowanie. Mimo możliwego zróżnicowania większość roślin ma wspólne cechy, na przykład duże, pełne szczyty. Odmiana Regularna Four-Way zawdzięcza swoją nazwę temu, że genetycznie pochodzi od czterech szczepów: afgańskiego, pakistańskiego, indyjskiego i Skunk #1. Niektórzy hodowcy twierdzą, że aromat różni się od typowego aromatu Indica.Odmiana Regularna Four-Way została ponownie wprowadzona na rynek w 1995 roku i od tego momentu jest ulubioną odmianą hodowców.

@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1520032"
+title: "Semi di Banana Kush Femminizzati della White Label"
+description: "La Banana Kush Femminizzata della White Label è al 70% indica, al 30% sativa. Produce buoni rendimenti con odore di hashish. Effetto rilassante e loquace."
+image: "https://img.sensiseeds.com/it/semi-femminizzati/whitelabel/banana-kush-image.png"
+slug: "/it-semi-di-banana-kush-femminizzati-della-white-label"
+url: "https://sensiseeds.com/it/semi-femminizzati/whitelabel/banana-kush?a_aid=cannastore"
+price: 60
+currency: "eur"
+number_of_seeds: 10
+category: "Semi Femminizzati"
+flowering_min: 50
+flowering_max: 65
+strain_type: "Feminized"
+climate_zone: "Soleggiato / Mediterraneo"
+yield: "Resa pesante"
+heigh_gain: "Pianta compatta"
+locale: "it"
+---
+La Banana Kush vanta alcune caratteristiche genetiche sativa di alta qualità, è composta dalla leggendaria Silver Haze incrociata con la Skunk Kush, e la famosa e gustosa NYC Diesel, in gran parte sativa. Su entrambi i lati dell’albero genealogico sono presenti anche varietà di Afghan Kush. La Skunk Kush forma un importante elemento in linea paterna, mentre l’orgoglio della cannabis californiana, la OG Kush, è la pianta madre utilizzata per fare la Banana Kush della White Label.Coltivazione della Banana Kush Femminizzati della White LabelI semi di cannabis della Banana Kush Femminizzati sono per il 70% indica, per il 30% sativa, e mostrano la tipica coltivazione indica. L’influenza sativa di questa varietà si nota soprattutto nella struttura dei suoi fiori e nell’effetto cerebrale che ne deriva.La crescita della vegetazione è vigorosa e affidabile. La maggior parte delle piante sviluppa uno stelo principale produttivo spesso e rami robusti con brevi spazi internodali. Durante la fase di fioritura, l’altezza vegetativa della Banana Kush Femminizzata aumenta tipicamente dal 100% al 150%. La Banana Kush rallenta la sua crescita verso l’alto nelle prime settimane di fioritura quando si sviluppano i primi calici nei molti luoghi delle sue cime. Prima di raggiungere il punto centrale del suo periodo di fioritura da sette a nove settimane, questa varietà produce molti calici piccoli, solidi, resinosi a ciascun nodo, che generano nodi di cime.I gruppi di fiori assumono spesso una forma conica o piramidale, con un’ulteriore base che si restringe verso un punto arrotondato. Grazie alla presenza di cime extra vigorose, le cime terminali all’apice dello stelo principale di Banana Kush e i rami spesso si uniscono ai gruppi di fiori sottostanti, formando grandi cole. Questo avviene nonostante la tendenza dei calici a raggrupparsi verso i nodi, piuttosto che a “correre” fra loro.Nella fase di fioritura, la Banana Kush della White Label necessita di pochissime cure, e le piante possono essere lasciate nelle loro condizioni fino al momento del raccolto. Il livello di umidità dovrebbe essere mantenuto basso nella seconda metà della fioritura, per via della dimensione e della formazione compatta delle cime. Come molte varietà di indica, la Banana Kush necessita di molte sostanze nutritive per produrre ottimi risultati. Con il giusto livello di cure, le piante tendono a produrre raccolti enormi.Dopo il raccolto, le cime si seccano piuttosto velocemente, mantenendo gran parte delle loro dimensioni. Per ottenere raccolti maggiori si raccomanda un deumidificatore o una buona circolazione dell’aria nella zona di essicamento, poiché le cime della Banana Kush possono rilasciare grandi quantità d’acqua nell’aria. La potatura è un compito semplice, dato che le piante producono poche foglie nella fase di fioritura. Anche i grandi gruppi di fiori hanno relativamente poche foglie a lamina intera.Effetto, sapore ed odore della Banana Kush Femminizzata della White LabelLa Banana Kush della White Label è a dominante indica. Le cime sono grasse, fruttate e fragranti e ricche di ghiandole resinose. Sono anche facili da spezzettare, grazie ai loro calici relativamente piccoli. La rottura delle cime rilascia l’aroma pieno e complesso di questa varietà. Aspettatevi un sapore e un odore dolce di banana matura, zucchero di canna, agrume, e hashish ricco e speziato. Durante la crescita, l’odore non è dominante. Tuttavia i coltivatori dovrebbero ricordare che aumenta all’avvicinarsi del raccolto.Gli effetti sono soprattutto indica, ma è presente abbastanza sativa da elevare il suo potente effetto euforico sul corpo e farla emergere da altre varietà Kush. L’effetto caldo, rilassante ed euforico della Banana Kush si sente immediatamente. La parte offuscante del suo profilo di cannabinoide si verifica poco dopo, sollevando l’umore e rendendolo più propenso alla conversazione, alla risata e alla creatività.

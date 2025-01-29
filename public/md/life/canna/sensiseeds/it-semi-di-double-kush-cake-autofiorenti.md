@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1530017"
+title: "Semi di Double Kush Cake Autofiorenti"
+description: "La varietà è al 70% indica, al 10% sativa e al 20% ruderalis. Cresce in gran parte dei climi e ha un periodo di fioritura rapido. Effetto rilassante."
+image: "https://img.sensiseeds.com/it/research/double-kush-cake-autofiorenti-image.png"
+slug: "/it-semi-di-double-kush-cake-autofiorenti"
+url: "https://sensiseeds.com/it/research/double-kush-cake-autofiorenti?a_aid=cannastore"
+price: 60
+currency: "eur"
+number_of_seeds: 10
+category: "Sensi Seeds Research"
+flowering_min: 50
+flowering_max: 65
+strain_type: "Auto"
+climate_zone: "Fresco /Freddo"
+yield: "Resa pesante"
+heigh_gain: "Pianta compatta"
+locale: "it"
+---
+La famiglia Kush è diventata un elemento essenziale nella coltivazione della cannabis negli Stati Uniti. Kush miscelata ad altre cultivar ha creato molte delle specie di cannabis contemporanee più popolari. Double Kush Cake contiene tutte le migliori caratteristiche della famiglia delle Kush ed è il tributo di Sensi Seeds a questa gloriosa dinastia. I sapori dolci e fantastici e gli effetti rilassanti portano a casa l’esperienza Kush statunitense.Questa specie è al 70% indica, al 10% sativa e al 20 ruderalis. È una variante femminizzata autofiorente, e ciò la rende semplice da coltivare, anche per i principianti. Il suo pregiato patrimonio genetico comprende Hindu Kush Auto, Skunk Kush e Afghani #1, e produce un effetto che è piacevolmente rilassante con un’eccitazione indica reale. Il profumo è piacevolmente terroso, dolce e simile alla skunk, e le piante possono essere coltivate senza farsi notare, grazie alle loro dimensioni compatte.Coltivazione della Double Kush CakeQuesta specie ibrida ha origini prodigiose, con un patrimonio genetico che comprende Afghani #1, Skunk Kush e Hindu Kush Automatic. L’influenza ruderalis garantisce che le piante siano forti e che possano essere coltivate in una varietà di climi, e la dominante indica è evidente nel profumo e nell’effetto.È una specie al 70% indica, al 10% sativa e al 20% ruderalis, è femminizzata e autofiorente. Ciò significa che i semi producono piante che crescono e fioriscono come femmine e iniziano a fiorire automaticamente. Questo offre i vantaggi che i periodi di fioritura sono prevedibili e non c’è bisogno di cambiare i cicli di illuminazione se vengono coltivate all’interno. Quindi è una buona scelta per coloro che hanno un’esperienza di coltivazione limitata.Grazie ai geni ruderalis, la specie ha un breve periodo di fioritura di sole 7-9 settimane (da 49 a 63 giorni). È un periodo molto rapido, che consente ai coltivatori di avere un raccolto senza aspettare troppo a lungo. L’origine indica garantisce che le piante rimangano compatte, anche ad altezza piena. Questo le rende adatte ad essere coltivate senza farsi notare, sia all’interno sia all’esterno.Come molte specie a dominante indica, le piante sono basse, robuste e fitte, con una cima centrale spessa. I fiori di solito sono grandi e densi ricoperti di uno strato di resina. Anche se questa è una specie autofiorente, i raccolti sono abbastanza considerevoli. I coltivatori hanno riferito di aver avuto raccolti di circa 350-450 grammi/m2.Inoltre, gli esemplari di questa specie sono forti e prosperano anche in climi più freschi o temperati. In alternativa queste piante possono anche essere coltivate all’ interno durante tutto l’anno. I coltivatori con maggior esperienza possono voler sperimentare le tecniche SOG (Sea of Green = letteralmente mare di verde) o lollipopping per incrementare ulteriormente il raccolto.Effetto, sapore ed odore della Double Kush Cake Autofiorente Questa specie è indica al 70%, e il suo patrimonio genetico è fortemente evidente nell’aroma, nel gusto e nell’effetto. Al momento del consumo, i consumatori notano la sensazione piacevolmente distesa e rilassata, associata all’eccitazione tipicamente indica.Anche il profumo è di natura molto indica: terroso, fantastico e con un pizzico di dolcezza. L’aroma si intensifica quando le piante crescono ed è ancora più ricco quando i fiori vengono curati. In termini di sapore, i consumatori possono aspettarsi note di melassa e hashish.In breveQuesta specie è femminizzata e autofiorente, e ciò significa che è adatta per coltivatori principianti.È una pianta compatta e può essere coltivata senza farsi notare, sia all’interno sia all’esterno.La sua origine comprende Afghani #1, Skun Kush e Hindu Kush Auto.Le piante sono molto forti e possono essere coltivate all’esterno nella maggior parte dei climi, anche in quelli che sono più freschi con estati più brevi.

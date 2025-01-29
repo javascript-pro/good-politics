@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1560010"
+title: "Nasiona Feminizowane Skunk Kush"
+description: "Nasiona Feminizowane Skunk Kush to w 60% Indica i 40% Sativa. Skutkuje to mocnymi roślinami o dużej wydajności, które zapewniają silny haj."
+image: "https://img.sensiseeds.com/pl/nasiona-feminizowane/sensi-seeds/skunk-kush-feminizowane-image.png"
+slug: "/pl-nasiona-feminizowane-skunk-kush"
+url: "https://sensiseeds.com/pl/nasiona-feminizowane/sensi-seeds/skunk-kush-feminizowane?a_aid=cannastore"
+price: 101
+currency: "eur"
+number_of_seeds: 10
+category: "Nasiona Feminizowane"
+flowering_min: 50
+flowering_max: 60
+strain_type: "Feminized"
+climate_zone: "Słoneczny/śródziemnomorski"
+yield: "Duży plon"
+heigh_gain: "Średni przyrost wysokości"
+locale: "pl"
+---
+Wzór uprawy odmiany Feminizowanej Skunk KushZ nasion Feminizowanych Skunk Kush wyrastają wysokowydajne rośliny o średnim okresie kwitnienia. W szczepie tym nieznacznie przeważa Indica, której jest 60%, a pozostałe 40% to Sativa. Takie połączenie zapewnia zalety charakterystyczne dla obu tych odmian — dynamiczny wzrost i dobrą wydajność oraz silnie oddziałujący stan odurzenia. Nasiona są feminizowane, co jest korzystne dla początkujących hodowców, ponieważ eliminuje konieczność rozpoznawania i usuwania roślin męskich. Jest to również zaleta z punktu widzenia osób, którym zależy na łatwiejszej uprawie. Natomiast dla hodowców chcących uzyskiwać nasiona do dalszej hodowli lepszym rozwiązaniem jest odmiana Regularna Skunk Kush. Jedną z największych korzyści płynących z uprawy odmiany Feminizowanej Skunk Kush jest jej krótki okres kwitnienia — idealny dla osób, którym zależy na szybkim zbiorze. Okres kwitnienia trwa około 50 do 60 dni bez względu na to, czy roślina jest hodowana indoor czy outdoor. W przypadku uprawy w szklarni należy oczekiwać zbiorów pod koniec października. Umiarkowana wysokość roślin to kolejna zaleta, szczególnie gdy są uprawiane w specjalnie do tego przeznaczonym pomieszczeniu, w szklarni lub w miejscu z niskim dachem. Zwykle nie przekraczają wysokości 150 cm, a największa część wzrostu przypada na okres kwitnienia. Najczęściej jednak rośliny osiągają wysokość między 110 a 140 cm. Jest to rozmiar, który nie powoduje utrudnień. Zawartość Indica w odmianie Feminizowanej Skunk Kush objawia się w strukturze rośliny: grube łodygi i ciemnozielone, łykowate liście. Nie oznacza to, że nie widać dziedzictwa Skunk #1 — jest odpowiedzialne za rozmiar i dynamiczny schemat wzrostu. Szczyty łączą się w kiście przypominające winogrona, a kwiaty mają strzelisty pokrój. Hodowca oczekujący dużej wydajności zdecydowanie powinien wziąć ten szczep pod uwagę. Jeżeli uprawa jest prowadzona w odpowiednich warunkach, odmiana Feminizowana Skunk Kush zapewni obfite szczyty i okazałe zbiory. Hodując żeńskie rośliny, należy spodziewać się bujnych kwiatów typu Afghani-Skunk, a także napęczniałych kielichów. Powstają z nich gęste, na wpół otwarte szczyty o znacznej wadze. Poza tym, dzięki dużej powierzchni, szczyty wytwarzają spore ilości żywicy. Niektóre włoski są tak bulwiaste, że zdają się rosnąć i zmieniać kolor dosłownie z dnia na dzień — szczególnie, gdy zbliża się czas zbiorów. Odmiana Feminizowana Skunk Kush rośnie najlepiej w cieplejszym klimacie i sprzyja jej długie lato. Jest podatna na gnicie i pleśń, dlatego nie sprawdza się w miejscach bardziej wilgotnych i chłodniejszych. Zapalonych hodowców ucieszy informacja, że szczep ten reaguje dobrze na różne techniki uprawy, takie jak „lollipopping”, supercropping” czy SOG („morze zieleni”) i SCROG („zielony ekran”). Efekt, smak i aromat odmiany Feminizowanej Skunk KushWiększość osób jest zgodna co do tego, że odmiana Feminizowana Skunk Kush zapewnia intensywny haj. Charakteryzuje się uczuciem odprężenia i spokoju dzięki 60-procentowej zawartości Indica. Natomiast znajdująca się w niej Sativa odpowiada za efekt wzmożonej aktywności. Niektóre osoby zauważyły po zażyciu podwyższony poziom energii i podekscytowania. Oprócz tego, że silnie oddziałuje na użytkownika, odmiana ma również oryginalny zapach. Podczas wzrostu roślin zwykle wyczuwalna jest delikatnie pikantna i słodka woń, przez którą przebija się również charakterystyczny aromat skunky. W zapachu obecna jest także nuta cytrusowa, która wzmacnia się stopniowo wraz ze zbliżaniem się czasu zbioru. Ten świeży, cytrusowy aromat przenosi się również na smak wraz z towarzyszącą mu szczyptą mentolu, który ma przyjemne właściwości orzeźwiające. Czy wiesz, że…? Ta odmiana dostępna jest również jako odmiana Regularna Skunk Kush.Odmiana Skunk Kush jest czasem określana jako Hindu Skunk.We właściwych warunkach uprawy zapewnia imponujące zbiory.

@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1560002"
+title: "Super Skunk Gefeminiseerde zaden"
+description: "Super Skunk Gefeminiseerd is een onderhoudsarme cannabissoort met grote oogst. Het bevat 80% indica en 20% sativa en heeft een ontspannen, verkwikkend effect."
+image: "https://img.sensiseeds.com/nl/gefeminiseerde-zaden/sensi-seeds/super-skunk-gefeminiseerd-image.png"
+slug: "/nl-super-skunk-gefeminiseerde-zaden"
+url: "https://sensiseeds.com/nl/gefeminiseerde-zaden/sensi-seeds/super-skunk-gefeminiseerd?a_aid=cannastore"
+price: 61
+currency: "eur"
+number_of_seeds: 10
+category: "Gefeminiseerde zaden"
+flowering_min: 45
+flowering_max: 50
+strain_type: "Feminized"
+climate_zone: "Zonnig / mediterraan klimaat"
+yield: "Enorme oogst"
+heigh_gain: "Gemiddelde groei in de hoogte"
+locale: "nl"
+---
+Super Skunk Gefeminiseerd doet haar naam eer aan en is een van onze populairste soorten. Super oogsten grove toppen, kweekvriendelijk en (natuurlijk) een geweldig lid van de skunk familie! We hebben de opbrengst en effecten van de originele Skunk #1 een boost gegeven: We hebben het gekruist met een zorgvuldig gekozen Afghaan en vervolgens het resultaat gefeminiseerd, zodat er geen mannelijke planten verwijderd hoeven te worden. Net als elke cannabissoort met veel indica geeft het een betrouwbare ontspanning, met een 20% sativa component dat het humeur verbetert en moeheid op afstand houdt.Groeipatroon Super Skunk GefeminiseerdDe door Sensi Seeds gekweekte Super Skunk Gefeminiseerde cannabiszaden zijn gemaakt voor een sterkere versie met een grotere opbrengst van de wereldberoemde Skunk #1. Door de genetica van een pure, gekweekte, harsrijke Afghaanse hasjplant toe te voegen, hebben we dit bereikt.Zoals met alle gefeminiseerde zaden, is een groot voordeel dat de mannelijke planten niet hoeven te worden verwijderd. Daardoor is dit een eenvoudige kweekoptie voor de minder ervaren kwekers. Dit is echter niet het enige voordeel dat Super Skunk Gefeminiseerd biedt. Deze zaden produceren een extreme uniform gewas dat tijdens de bloeifase een gemiddelde hoogte bereikt. Hij is stevig en kegelvormig en kunnen allemaal ongeveer tegelijkertijd worden geoogst, op dezelfde hoogte, en dat is handig voor de kweker.De betrouwbaarheid, in combinatie met de kortere hoogte, is handig voor tuinders die de Sea of Green (SOG) of Screen of Green (SCROG) technieken gebruiken om de planten te kweken of die de homogeniteit van een kloonplant wensen met het gemak van kweken vanuit zaden. Super Skunk Gefeminiseerd heeft een relatief korte bloeiperiode van maximaal 50 dagen. Dat is handig voor binnenkwekers die van twee of zelfs drie oogsten per jaar willen genieten. Zodra de bloemen gaan groeien, zullen ze ook snel in omvang toenemen. Ze groeien soms zelfs zo snel dat het verschil per dag te zien is. De toppen zijn felgroen, met stekelige, grote kelken.Kwekers kunnen een grote oogst verwachten, zelfs als je nog maar weinig ervaring hebt.De skunk-familie was van origine gekweekt als goede mogelijkheid voor de binnenkweek en Super Skunk Gefeminiseerd is een geweldig voorbeeld van het succes van deze inspanningen. Dat betekent echter niet dat de planten per sé binnen gekweekt moeten worden. In een Middellandse-Zeeklimaat doet Super Skunk Gefeminiseerd het ook prima. Of in een kas. Als je ze in deze omstandigheden kweekt, is het niet ongewoon dat de plant de hoogte van een kleine boom bereikt, vooral als de zomer lang en warm is. Effect, smaak en geur van Super Skunk GefeminiseerdDoorgaans hebben skunk-soorten een sterke geur (vandaar ook de naam). Super Skunk Gefeminiseerd is ietsje anders en heeft een zachter, fruitiger aroma. De Afghaanse afkomst is ook duidelijk dankzij haar aardse, kruidige basistonen met een sterke geur tijdens de bloeifase. Binnenkwekers moeten er zich bewust van zijn dat deze geur sterker wordt naarmate de oogst nadert.Zodra de toppen zijn gedroogd, hebben ze een zachtere versie van de originele geur en deze komt ook terug in de smaak. De zoete citrus wordt aangevuld door warme, aardse tonen. Over het effect van Super Skunk Gefeminiseerd zeggen de meeste gebruikers over het algemeen het volgende: het is een mengeling van verkwikkende tevredenheid en ontspanning. Het euforische gevoel wordt veroorzaakt door de sativa-inhoud en de dominante indica-genetica geven een soort rust. Veel gebruikers waarderen deze soort vanwege de mogelijkheid om stress en spanning tegen te gaan. Wist je dat?Super Skunk werd uitgebracht in 1990 en sindsdien altijd populair is geblevenHet kort na lancering de Mostly Indica award heeft gewonnen tijdens de Cannabis CupSensi Seeds ook Super Skunk Regulier en Super Skunk Automatic aanbiedt

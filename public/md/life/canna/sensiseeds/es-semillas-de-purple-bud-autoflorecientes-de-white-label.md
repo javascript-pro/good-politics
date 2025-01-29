@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1520023"
+title: "Semillas de Purple Bud Autoflorecientes de White Label"
+description: "La Purple Bud Autofloreciente de White Label es un 75% indica y un 25% sativa. Crece incluso en climas fríos, y su gama de tonos púrpura es muy apreciada."
+image: "https://img.sensiseeds.com/es/semillas-feminizadas/whitelabel/purple-bud-autofloracion-image.png"
+slug: "/es-semillas-de-purple-bud-autoflorecientes-de-white-label"
+url: "https://sensiseeds.com/es/semillas-feminizadas/whitelabel/purple-bud-autofloracion?a_aid=cannastore"
+price: 40
+currency: "eur"
+number_of_seeds: 10
+category: "Semillas Feminizadas"
+flowering_min: 50
+flowering_max: 65
+strain_type: "Auto"
+climate_zone: "Frío / Fresco"
+yield: "Rendimiento medio"
+heigh_gain: "Planta compacta"
+locale: "es"
+---
+La Purple Bud Autofloreciente de White Label es una de nuestras variedades de semillas más fáciles de cultivar y de consumir. Adora los climas fríos, y muchas de las plantas desarrollan colores lila, violeta y burdeos. La combinación de una ruderalis autofloreciente con nuestra Purple Bud Feminizada original genera una cosecha fiable que proporciona felicidad y relajación. Patrón de cultivo de Purple Bud Autofloreciente de White LabelLas semillas de marihuana Purple Bud Autoflorecientes contienen genes de dos plantas de hachís Afghan de calidad premium. Este parentesco se hace evidente en la forma rechoncha de la Purple Bud Autofloreciente, así como en su rápida floración. Sin embargo, no se trata de una variedad totalmente indica. Una variedad jamaicana le proporciona a la Purple Bud un 25% de la genética sativa, y los genes ruderalis añaden la capacidad autofloreciente. El componente sativa propicia que las plantas tengan una altura ligeramente mayor que la media de las indica, llegando a medir entre los 90 y 140 centímetros cuando están maduras. El cultivo normalmente dura unas 14 semanas. La etapa de floración se extiende entre las 8 y las 10 semanas. Como sucede con las variedades autoflorecientes, los cultivadores pueden disfrutar de rendimientos sustanciosos sin necesidad de dedicar mucho esfuerzo o tener una amplia experiencia. Los cogollos de Purple Bud Autofloreciente aparecen inicialmente como cálices puntiagudos alrededor de las brácteas y nudos en las ramas superiores y en el tallo. Seguidamente, las flores aumentan de tamaño, haciéndose más corpulentas y densas. En las últimas semanas de la floración, los cogollos se fusionan formando colas. Debido a la naturaleza de las plantas de marihuana autoflorecientes, el rendimiento es por lo general ligeramente inferior a las versiones regulares o feminizadas. La mayoría de los cultivadores opinan que merece la pena porque a cambio el cultivo es más sencillo y las plantas crecen en climas más fríos. Esta variedad autofloreciente se puede cultivar prácticamente en cualquier parte, incluso en interiores o en un alféizar soleado. Como ocurre con la mayoría de las plantas de marihuana autoflorecientes, la Purple Bud Autofloreciente no se adapta a la mayoría de las técnicas de cultivo. Sin embargo, aquellos jardineros que quieran experimentar pueden probar con el Mar de Verde (SOG), Pantalla de Verde (SCROG) y lollipopping.La Purple Bud Autofloreciente posee un ciclo de floración rápido, lo que significa que los cultivadores de climas cálidos pueden llegar a obtener dos cosechas en un solo verano. Esto puede ser fácil si el primer cultivo comienza a finales de marzo, y el segundo justo después de la recogida.Efecto, sabor y aroma de Purple Bud Autofloreciente de White LabelLa Purple Bud Autofloreciente de White Label posee un aroma terroso muy agradable, con notas a pino. La fragancia al principio es muy sutil, pero se va intensificando conforme la floración alcanza sus últimas etapas. Los cogollos cosechados y curados son visiblemente resinosos, con un marcado aroma a pino y sándalo, con ciertas notas frutales subyacentes. Tras el consumo, los usuarios disfrutarán de una potente sensación de relax. El elemento sativa aporta un estímulo que potencia la calma y la tranquilidad.¿Sabías que…?Las semillas de marihuana Purple Bud producen plantas que muestran una gama de colores que van del verde mar oscuro y el burdeos, hasta el lavanda, violeta y rojo. Estos colores son evidentes en las hojas, cálices y cogollos. Esta variedad tolera con facilidad las bajas temperaturas. Los climas fríos a menudo intensifican el color violeta.White Label también ofrece semillas Purple Bud Feminizadas.Junto con la White Skunk de White Label, la Purple Bud es una de nuestras variedades más asequibles, siendo ideal para los principiantes.

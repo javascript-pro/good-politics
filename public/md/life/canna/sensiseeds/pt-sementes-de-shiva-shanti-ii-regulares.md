@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1500029"
+title: "Sementes de Shiva Shanti II Regulares"
+description: "Um dos nossos maiores êxitos ao seu alcance com estas sementes! Cultive esta híbrida Indica em quase qualquer lado; é ideal para principiantes. Compre aqui."
+image: "https://img.sensiseeds.com/pt/sementes-de-cannabis/sementes-sensi/shiva-shanti-ii-image.png"
+slug: "/pt-sementes-de-shiva-shanti-ii-regulares"
+url: "https://sensiseeds.com/pt/sementes-de-cannabis/sementes-sensi/shiva-shanti-ii?a_aid=cannastore"
+price: 22
+currency: "eur"
+number_of_seeds: 10
+category: "Interior / Estufa"
+flowering_min: 45
+flowering_max: 55
+strain_type: "Regular"
+climate_zone: "Temperado / Continental"
+yield: "Grande Rendimento"
+heigh_gain: "Crescimento médio"
+locale: "pt"
+---
+A Shiva Shanti II Regular é uma variedade 75% índica. Os produtores apreciam-na há décadas, devido ao seu efeito relaxante e calmante, assim como a sua acessibilidade. As plantas são convenientemente compactas, o que as torna ideais para pessoas com espaço limitado. A Shiva Shanti II também produz rendimentos abundantes, sem necessitar do habitual esforço envolvido. O seu perfume é uma reminiscência de lavanda e terra fresca, com um sabor igualmente agradável. Padrão de crescimento da Shiva Shanti II Regular As sementes de canábis Shiva Shanti II Regular são 75% índica e 25% sativa. A variedade foi originalmente desenvolvida pela Sensi Seeds nos anos noventa, com o objetivo de ser simultaneamente acessível e versátil. A sua genética inclui características genéticas de alho e Kush, misturadas com uma variante afegã. Isso garante que as plantas produzam bons rendimentos e sejam fáceis de cultivar. Esta é uma variedade regular, o que significa que as sementes produzirão plantas macho e fêmea. A presença de plantas masculinas é útil para aqueles que desejam produzir as suas próprias sementes para cultivo futuro, ou que desejam criar seus próprios híbridos. A Shiva Shanti II Regular tem a vantagem de ter um período de floração curto, de apenas 45 a 55 dias. O que combinado com o facto de ser uma variedade de baixa manutenção, significa que os produtores podem obter resultados rápidos sem muito esforço. É popular entre aqueles que não têm muito espaço para cultivar, pois as plantas tendem a atingir apenas 100 a 160 cm em ambientes de interior. No exterior, podem crescer um pouco mais, mas geralmente não excedem 150 a 180 cm, o que significa que podem desenvolver-se confortavelmente dentro de uma estufa média. Como tal, são uma boa opção para produtores que desejem cultivar as plantas discretamente.Estruturalmente, a Shiva Shanti II Regular é baixa e resistente, com um caule central sólido. Este rapidamente fica carregado de botões, por altura das colheitas. Os botões são grandes, pesados e revestidos de resina. Os produtores, geralmente, conseguem excelentes colheitas das suas plantas; cerca de 400 a 450 gramas por metro quadrado quando cultivadas no interior e 600 a 800 gramas por planta no exterior. De facto, alguns produtores relataram mesmo terem obtido um quilo de uma única planta. A variedade dá-se bem em climas mais quentes, embora também possa prosperar em regiões mais temperadas. É possível cultivá-la dentro de casa durante todo o ano. Quanto às técnicas de criação, os produtores relatam um bom sucesso tanto com técnicas de lollipopping como de supercropping. Efeito, sabor e aroma da Shiva Shanti II Regular A Shiva Shanti II Regular é uma variedade 75% índica e o efeito relaxante que dela resulta tem uma personalidade principalmente índica. Os utilizadores afirmam que relaxa os músculos e cria uma sensação de calma e serenidade. No entanto, graças aos 25% de sativa, também proporciona um leve impacto de energia, o que a torna mais estimulante do que o estado de entorpecimento normal da índica. Não é tão potente como algumas outras variedades, como tal trata-se duma opção sólida para relaxar à noite. As plantas têm um aroma clássico de skunk enquanto crescem, com o almíscar da sua planta-mãe, o alho. À medida que os botões ficam prontos para a colheita, também adquirem o perfume da lavanda, que se torna evidente no sabor. Sabia que? A Shiva Shanti II recebeu o nome das filhas gémeas do fundador da Sensi Seeds, Ben Dronkers. Também está ligado ao Deus Hindu Shiva, que muitas vezes aparece relacionado com a canábis. Alguns dos fenótipos da variedade podem produzir um forte cheiro a alho.A Shiva Shanti II Regular foi desenvolvida para ser mais fácil de cultivar do que a variedade Shiva Shanti original.É amplamente resistente a bolores e pragas, o que torna ainda mais simples o seu cultivo.

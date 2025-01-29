@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1560101"
+title: "Super Skunk Automatic zaden"
+description: "Super Skunk Automatic is bloeit automatisch en bevat 80% indica. Het kan binnen of buiten worden gekweekt en is ideaal voor minder ervaren kwekers."
+image: "https://img.sensiseeds.com/nl/gefeminiseerde-zaden/sensi-seeds/super-skunk-automatic-image.png"
+slug: "/nl-super-skunk-automatic-zaden"
+url: "https://sensiseeds.com/nl/gefeminiseerde-zaden/sensi-seeds/super-skunk-automatic?a_aid=cannastore"
+price: 66.01
+currency: "eur"
+number_of_seeds: 10
+category: "Gefeminiseerde zaden"
+flowering_min: 60
+flowering_max: 65
+strain_type: "Auto"
+climate_zone: "Gematigd / landklimaat"
+yield: "Gemiddelde oogst"
+heigh_gain: "Gemiddelde groei in de hoogte"
+locale: "nl"
+---
+Sterk, zoet, kweekvriendelijk, onze Super Skunk Automatic is een favoriet onder de beginners en kwekers met weinig tijd, ruimte of energie. De planten doen het buiten prima, zelfs bij een korte zomer of nat weer. Kwekers die op zoek zijn naar een compacte plant die niet veel onderhoud behoeft en toch stevige toppen wil kweken is deze soort een perfecte keuze. Groeipatroon Super Skunk AutomaticSuper Skunk Automatic cannabiszaden produceren krachtige, snelbloeiende planten. Ze zijn 80% indica, wat betekent dat ze vrij compact zijn. Ze zijn automatisch bloeiend end at is ideaal voor mensen met weinig ervaring, energie of tijd. De planten beginnen na een vaste periode te bloeien, zo’n drie tot vijf weken nadat de zaailingen verschijnen.Hoewel het uiterlijk van de bloemen niet wordt beïnvloed door de hoeveelheid daglicht die de plant krijgt, profiteren de planten wel van een langere lichtcyclus (14 tot 18 uur per dag) voor extra kracht en oogst. De bloeifase duurt doorgaans zeven tot negen weken en de planten nemen geen vegetatieve fase aan, zelfs niet als de fotosyntheseperiode onvoorspelbaar is.Doorgaans wordt Super Skunk binnen gekweekt bij verlichting. Deze Automatic variant van Super Skunk doet het echter ook goed in een gematigd klimaat. Als de zomer koeler is, zorgt de automatisch bloeiende eigenschap van deze plant ervoor dat de bloeitijd gelijk loopt aan de langste dagen van het seizoen. Dit is te zien in de toppen en de hars die zich ontwikkelt in de zon, in plaats van gedurende de koudere, vochtigere herfstmaanden.Super Skunk automatisch bloeiende planten zijn relatief compact, waardoor technieken zoals toppen en supercroppen niet geschikt zijn. De meeste tuinders gebruiken Automatic soorten om zoveel mogelijk onderhoud en onderbrekingen te voorkomen. Als je meer ervaring hebt en een nieuwsgierige aard, dan kun je experimenteren met Sea of Green (SOG), Screen of Green (SCROG) en lollipoppen. Deze doen het goed met het ‘toppen op een stok’ groeipatroon van deze plant. De toppen zijn dicht, mooi van formaat en felgroen, met een mooie laag trichomen en grote kelken. Super Skunk Auto geeft niet de grootste opbrengst, maar levert wel een mooie oogst op. Een grotere kweekruimte en meer licht tijdens de bloeiperiode helpen de oogst te maximaliseren. Er is echter geen twijfel over mogelijk dat de toppen van deze plant heerlijk bevredigend en absoluut niet klein zijn. Effect, smaak en geur van Super Skunk AutomaticDe geur van Super Skunk Automatic verrast men vaak. In tegenstelling tot andere soorten van deze familie, is de geur niet al te overweldigend en doet denken aan zoete citrus. De basistonen zijn warm en kruidig, zoals van andere skunk-cannabis, wat de indica afkomst van de plant laat zien.De aroma’s worden duidelijker merkbaar wanneer de bloei begint, maar zijn niet zo overweldigend als van de Reguliere en Gefeminiseerde zaden van Super Skunk. De geur bereikt haar piek in de laatste week. Na het drogen wordt de citroengeur van de toppen minder duidelijk, maar bij consumptie zijn de smaken direct merkbaar. De effecten van Super Skunk Automatic zijn geschikt voor zowel recreatieve als medicinale gebruikers. De algehele sensatie is die van ontspanning (dankzij de 80% indica), hoewel de toppen ook een verkwikkend effect hebben dankzij het stukje sativa.Planten die buiten worden gekweekt zijn vaak minder krachtig dan binnen. Dat geldt voor de meeste cannabissoorten. Deze afname van kracht is vaak aantrekkelijk voor mensen die een cannabisplant zoeken met een goede pijn- of stressverlichting, minus de intensiteit. Daardoor is het een goede keuze voor mensen die niet gewend zijn aan het consumeren van cannabis. Wist je dat?Super Skunk voor het eerst werd gelanceerd in 1990Het verscheidene prijzen heeft gewonnen, met inbegrip van de prestigieuze Cannabis CupKwekers van alle ervaringsniveaus met succes Super Skunk kunnen kweken Sensi Seeds ook Super Skunk Regulier en Super Skunk Gefeminiseerd aanbiedt

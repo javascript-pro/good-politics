@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1530015"
+title: "Blackberry Cake Gefeminiseerde Zaden"
+description: "Blackberry Cake bestaat uit 70% indica en 30% sativa. Het heeft bekroonde ouderplanten en geeft een citrusgeur en -smaak. De high is ontspannend en warm."
+image: "https://img.sensiseeds.com/nl/research/blackberry-cake-gefeminiseerd-image.png"
+slug: "/nl-blackberry-cake-gefeminiseerde-zaden"
+url: "https://sensiseeds.com/nl/research/blackberry-cake-gefeminiseerd?a_aid=cannastore"
+price: 53
+currency: "eur"
+number_of_seeds: 10
+category: "Sensi Seeds Research"
+flowering_min: 55
+flowering_max: 70
+strain_type: "Feminized"
+climate_zone: "Zonnig / mediterraan klimaat"
+yield: "Grote oogst"
+heigh_gain: "Compacte plant"
+locale: "nl"
+---
+Deze kruising heeft een zeer bijzondere stamboom. De genetische samenstelling bestaat uit Wedding Cake, Black Domina en de wereldberoemde Durban. Wedding Cake, ook bekend als Pink Cookies, is een heerlijk decadente variant uit Amerika die smaakt naar gebak en krachtige, ontspannende effecten heeft, zodat het voor ons een plezier is om ermee te werken. Deze komen van de ouderplanten, de alom bekende Girl Scout Cookies, en een naar zoete kersen smakende Amerikaanse cultivar, Cherry Pie. Deze Amerikaanse genetische componenten belichamen de tonen van Blueberry Cake in een nieuwe, zoete en krachtige Sensi Seeds sensatie.Het groeipatroon van Blackberry Cake GefeminiseerdBlackberry Cake bestaat uit 70% indica en 30% sativa, en de planten zijn compact en bossig en zitten vol met grote, kleverige toppen. De indica-dominantie komt duidelijk naar voren in de aardeachtige, volle geur en smaak, om nog maar te zwijgen van de warme, ontspannende high. Kwekers zullen waarschijnlijk overvloedige opbrengsten uit deze soort halen, vooral als ze worden gekweekt in een warm, zonnig klimaat. De 70% indica komt duidelijk naar voren in de ontspannende, geruststellende high, hoewel de gebruiker zich door de sativa-invloed van Durban ook opgepept zal voelen. Net als andere indica-dominante soorten kan met deze planten zonder al te veel moeite een hoge opbrengst worden gerealiseerd. De planten zullen groeien en bloeien als vrouwelijke planten, omdat de zaden gefeminiseerd zijn. Dit is een voordeel voor onervaren kwekers, omdat het niet nodig is om tijdens de teelt mannelijke planten te zoeken en te verwijderen. De bloeiperiode van deze variëteit ligt op het gemiddelde en duurt 55 tot 70 dagen. Dit betekent dat kwekers niet te lang hoeven te wachten om te kunnen oogsten. Hoewel er wel sprake is van een sativa-invloed, zijn de planten meestal indica in hun groeipatroon en blijven ze vrij compact, zelfs als ze helemaal zijn volgroeid. Kwekers die op zoek zijn naar een soort die ze onopvallend kunnen kweken, zullen dit ongetwijfeld als een voordeel beschouwen. De planten zijn stevig, kort en bossig, met een dikke centrale stengel en veel takken. Tijdens de bloeifase vormen zich veel toppen, die er meestal groot en zwaar uitzien. Als er onder de juiste omstandigheden wordt geteeld, kan de teler rekenen op een hoge opbrengst, zowel binnen als buiten. Het ideale klimaat voor deze soort is het Middellandse Zeegebied, of elk land waar de zomers lang en warm zijn en waar veel zonlicht is. Bij deze soort kan het merendeel van de cultivatietechnieken worden toegepast, zoals SCROG (Screen of Green), SOG (Sea of Green) en supercropping. Effect, smaak en geur van Blackberry Cake GefeminiseerdDe soort is 70% indica en 30% sativa, en de invloed van de bekroonde ouderplanten is waarneembaar in de geur, smaak en de verkregen high. Zoals veel indica-dominante soorten is het effect intens ontspannend en geeft het de gebruiker een gevoel van warmte en tevredenheid, wat kenmerkend is voor Wedding Cake. De sativa-invloed van Durban voegt een vleugje euforie en creativiteit toe. De planten verspreiden een aangename en rijke, aarde- en houtachtige geur, met tonen van citrusvruchten. Deze tonen van citrusvruchten zijn ook aanwezig in de smaak, samen met een romig en kruidig accent. Dit is een heel bijzondere combinatie waardoor de Amerikaanse genetische eigenschappen en die die van Sensi Seeds het beste tot hun recht komen. In het kort Deze variëteit is compact en kan als daarom onopvallend worden gekweekt, zowel bij de binnen- als bij de buitenteelt.De stamboom is geweldig en bevat onder andere Wedding Cake, Durban en Black Domina.Alle ouderplanten van deze variëteit hebben prijzen gewonnen. Ze verspreiden een aangename, warme, fruitige citrusgeur, met romige tonen, wat ook terug te vinden is in de smaak. Ook al zijn de planten enigszins resistent tegen ongedierte en schimmels, moeten beginnelingen toch goed opletten bij de cultivatie.

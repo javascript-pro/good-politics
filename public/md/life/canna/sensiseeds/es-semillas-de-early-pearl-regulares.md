@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1500032"
+title: "Semillas de Early Pearl Regulares"
+description: "La Early Pearl Regular es 75% sativa y 25% indica. Crece bien en climas fríos y puede producir hasta 2 kg/planta. El aroma recuerda a la naranja y al pino."
+image: "https://img.sensiseeds.com/es/semillas-de-cannabis/sensi-seeds/early-pearl-image.png"
+slug: "/es-semillas-de-early-pearl-regulares"
+url: "https://sensiseeds.com/es/semillas-de-cannabis/sensi-seeds/early-pearl?a_aid=cannastore"
+price: 61
+currency: "eur"
+number_of_seeds: 10
+category: "Exterior"
+flowering_min: 50
+flowering_max: 70
+strain_type: "Regular"
+climate_zone: "Frío / Fresco"
+yield: "Rendimiento elevado"
+heigh_gain: "Planta alta"
+locale: "es"
+---
+La Early Pearl Regular es una variedad sativa dominante (un 75% frente a un 25% indica). Por tanto, es habitual que los usuarios experimenten el subidón clásico de las sativa: alegre, ligero y cerebral. Debido a ello estamos frente a una opción estupenda para su consumo durante el día. La Early Pearl crece hasta alcanzar alturas impresionantes, generando cosechas formidables. Si se cuidan bien, ¡las plantas en exterior pueden generar hasta 2 kilos cada una! Los cultivadores también disfrutan de su aroma característico: notas frescas a cítrico dulce y pino, combinadas con incienso y madera.Patrón de cultivo de Early Pearl RegularLas semillas de marihuana Early Pearl Regulares son un 75% sativa y un 25% indica. Es la primera variedad sativa dominante que se ha desarrollado específicamente para que prospere bien en regiones de veranos cortos y climas fríos. La genética indica añade robustez y facilidad de mantenimiento (a la vez que potencia el rendimiento), pero el subidón es el característico de una sativa pura: vibrante, estimulante y vigorizante. Las semillas son regulares, lo que significa que generarán plantas femeninas y masculinas, siendo una buena opción para quienes desean obtener sus propias semillas para futuros cultivos, o quieren experimentar cruzándolas con otras variedades. Presenta un periodo de floración relativamente corto, entre los 50 y 70 días. Para maximizar la cosecha, los cultivadores recomiendan plantar las semillas en interior a finales de invierno, y luego colocarlas en un punto soleado en el exterior después del equinoccio de primavera. Cuando se cultivan en exteriores pueden alcanzar alturas impresionantes. De hecho, ¡no es raro que lleguen a medir entre los 200 y 400 cm! Sin embargo, en interiores el crecimiento es más moderado, entre los 100 y 190 cm. Como ocurre con muchas variedades sativa dominante, la Early Pearl Regular es alta y elegante, con ramas extendidas y hojas oscuras. Los cogollos tienden a estar densamente agrupados y son grandes. Si el clima es frío pueden adoptar un color violáceo. Conforme se acerca el momento de la cosecha generan una generosa cobertura de resina blanca y resplandeciente. Una de las razones que explican por qué la Early Pearl Regular es tan popular entre los cultivadores es, sin duda, su capacidad para generar grandes cosechas. Cuando se cultiva en interiores no es raro generar alrededor de 500 gramos por metro cuadrado. Pero es en exteriores donde esta variedad brilla con esplendor. Bajo las condiciones adecuadas, los cultivadores pueden llegar a obtener hasta 2 kilogramos por planta. Estamos ante una variedad dura y resistente, y por ello se comporta bien en climas fríos de veranos cortos. Sin embargo, las plantas necesitan mucha luz solar para alcanzar su máximo potencial. Los cultivadores veteranos informan de que las técnicas de lollipopping y supercropping dan buenos resultados. Efecto, sabor y aroma de Early Pearl RegularLa Early Pearl Regular es un 75% sativa y un 25% indica, y el subidón refleja este dominio sativa a la perfección. Los usuarios informan de un efecto enérgico que actúa rápidamente, que les proporciona una sensación estimulante y alegre. Este subidón es también bastante duradero, haciendo que la variedad sea una opción muy atractiva para su uso durante el día.Las plantas producen un aroma fresco y ácido mientras crecen, con notas a naranja y pino. Conforme los cogollos alcanzan la madurez completa, el olor crece en intensidad, y adquiere toques a madera cortada e incienso. El aroma a naranja y pino también se detecta en el sabor.¿Sabías que…?Es una buena variedad para realizar cruces, y añade estabilidad y fuerza a los futuros híbridos.La Early Pearl Regular se presentó por primera vez allá por los años 80, y desde entonces es una de las variedades de exterior favoritas de muchos cultivadores.Es una opción viable para los principiantes, ya que las plantas no necesitan mucho mantenimiento o experiencia.

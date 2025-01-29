@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1500036"
+title: "Semillas de Ruderalis Skunk Regulares"
+description: "La Ruderales Skunk Regular es un 90% indica, 10% sativa. Robusta, crece bien en climas fríos. El aroma es terroso, especiado y dulce, con un toque a café."
+image: "https://img.sensiseeds.com/es/semillas-de-cannabis/sensi-seeds/ruderalis-skunk-image.png"
+slug: "/es-semillas-de-ruderalis-skunk-regulares"
+url: "https://sensiseeds.com/es/semillas-de-cannabis/sensi-seeds/ruderalis-skunk?a_aid=cannastore"
+price: 48
+currency: "eur"
+number_of_seeds: 10
+category: "Exterior"
+flowering_min: 45
+flowering_max: 65
+strain_type: "Regular"
+climate_zone: "Frío / Fresco"
+yield: "Rendimiento grande"
+heigh_gain: "Planta alta"
+locale: "es"
+---
+La Ruderalis Skunk Regular es un 90% indica. Combina la fortaleza y resistencia de la clásica ruderalis con la potencia de la Skunk #1. Las plantas son bastante compactas, lo suficiente como para cultivarlas incluso en pequeños espacios de interior. También prospera en exteriores en la mayoría de los climas, por lo que son muy fáciles de cultivar. Los usuarios afirman que el subidón es relajante, sedante, y su aroma es un skunk muy agradable: terroso y dulce, con notas a café y regaliz. Patrón de cultivo de Ruderalis Skunk RegularLas semillas de marihuana Ruderalis Skunk Regulares son un 90% indica y un 10% sativa. La variedad se desarrolló para ofrecer la fortaleza de la ruderalis clásica y la capacidad de floración rápida y subidón potente de la Skunk #1. Esto dio como resultado una planta que es fácil de cultivar, capaz de prosperar en la mayoría de los climas, y con un nivel de THC superior a gran parte de las variedades ruderalis existentes. Esta es una versión regular, o sea, que las semillas producen plantas tanto femeninas como masculinas. De esta forma, los cultivadores pueden generar su propio suministro de semillas para futuras cosechas, o utilizarlas para su cruce con otras plantas. Hay que tener en cuenta que aproximadamente el 50% de las semillas darán lugar a plantas autoflorecientes, y el resto dependerá de los fotoperiodos.El periodo de floración de la Ruderalis Skunk Regular es increíblemente corto, de unos 40 a 50 días para ser exactos. Esta característica puede resultar muy atractiva a aquellos que quieren obtener cosechas rápidas, o que desean obtener varias al año. En general, las plantas no alcanzan mucha altura, ni en interiores ni en exteriores. Varía entre los 60 y 120 cm como máximo, aunque algunas plantas autoflorecientes pueden llegar a medir 200 cm de alto.Como ocurre con muchas variedades indica dominante, aunque la Ruderalis Skunk Regular no es muy alta, es bastante frondosa. Las plantas están cubiertas con numerosas hojas y ramas, con poca separación internodal. ¿Y los cogollos? Son grandes, pesados y recubiertos de resina pegajosa.Los rendimientos son bastante impresionantes para ser una variedad de bajo mantenimiento. Los cultivadores informan de que recogen alrededor de 300 gramos por metro cuadrado cuando el cultivo es interior. Crecen bien en casas, pero también se sienten cómodas en el exterior, incluso en climas fríos. Es una variedad fuerte, robusta, además de presentar una notable resistencia a plagas y hongos.Efecto, sabor y aroma de Ruderalis Skunk RegularLa Ruderalis Skunk Regular es claramente indica dominante. Aunque su genética incluye muchos especímenes de ruderalis (cuyo nivel de THC es típicamente bajo), es capaz de producir un colocón mucho más potente que una planta de ruderalis normal. Los usuarios aprecian el subidón de naturaleza duradera, acompañado por la sensación de relajación y calma. Aunque es bastante potente, no es excesivo, por lo que es una variedad apta para el uso diario. El aroma de las plantas tiene una personalidad marcadamente skunk: terroso y rico, con notas a granos de café y regaliz dulce. Estos aromas sutiles se intensifican conforme se acerca el momento de la cosecha de los cogollos, y también se pueden notar en el sabor. ¿Sabías que…?La Ruderalis Skunk Regular es una de las variedades autoflorecientes más importantes del mundo (aproximadamente la mitad de las semillas autoflorecerán).Se considera que es una de las variedades más fáciles de cultivar que existen.Las Ruderalis Skunk Regulares que son sensibles a los fotoperiodos (alrededor de la mitad de ellas) pueden ser activadas para que florezcan al mismo tiempo que otras variedades populares, como la Early Skunk. Esto significa que los cultivadores pueden beneficiarse de una doble cosecha.Las plantas que son sensibles a los fotoperiodos por lo general son más altas, y suelen producir también mayores rendimientos.

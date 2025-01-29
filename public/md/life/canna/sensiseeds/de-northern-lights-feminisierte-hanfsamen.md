@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1560011"
+title: "Northern Lights Feminisierte Hanfsamen"
+description: "Northern Lights Feminisiert (90 % Indica) ist legendär. Sie bietet große Erträge, ist kompakt und riecht nur wenig. Ideal für diskreten Anbau."
+image: "https://img.sensiseeds.com/de/feminisierte-samen/sensi-seeds/northern-lights-image.png"
+slug: "/de-northern-lights-feminisierte-hanfsamen"
+url: "https://sensiseeds.com/de/feminisierte-samen/sensi-seeds/northern-lights?a_aid=cannastore"
+price: 130
+currency: "eur"
+number_of_seeds: 10
+category: "Feminisierte Samen"
+flowering_min: 45
+flowering_max: 50
+strain_type: "Feminized"
+climate_zone: "Sonniges / Mediterranes Klima"
+yield: "Üppiger Ertrag"
+heigh_gain: "Kompakte Pflanze"
+locale: "de"
+---
+Northern Lights Feminisiert lässt sich leicht anbauen und bietet hervorragende Erträge. Es handelt sich um eine zu 90 % Indica-dominante Sorte. Das heißt, sie ist kompakt und kann diskret kultiviert werden. Konsumenten berichten von einem angenehmen Rauschzustand, der die Muskeln entspannt und den Geist beruhigt. Das Aroma ist sehr Indica: erdig, intensiv und kräftig. Dies kommt auch im Geschmack zum Vorschein, der Frucht- und Kräuternoten bietet. Wachstumsmuster der Northern Lights FeminisiertDie Northern Lights Feminisierte Hanfsamen bestehen zu 90 % aus Indica und zu 10 % aus Sativa. Die Cannabis-Sorte hat thailändische und afghanische Genetiken und wurde von Sensi Seeds neu entwickelt. Jetzt zeigt sie viele der Vorteile einer Indica-dominanten Pflanze: kompakte Größe, entspannendes High und eine kurze Blütezeit. Dies ist eine feminisierte Variante der Sorte. Das heißt, männliche Pflanzen sind extrem unwahrscheinlich. Dies vereinfacht die Kultivierung, was hilfreich für Einsteiger ist. Daneben hat die Northern Lights Feminisiert eine äußerst kurze Blütezeit (nur 45 bis 50 Tage). Für Grower, die schnelle Ergebnisse oder mehrere Ernten pro Jahr wünschen, ist dies ein Vorteil. Wie viele Indica-dominante Cannabis-Sorten ist die Northern Lights Feminisiert relativ klein. In Innenräumen werden die Pflanzen in der Regel ca. 80 bis 130 cm groß. Dies sind gute Nachrichten für Grower, die nur begrenzt Platz haben. Bei der Kultivierung im Freien können die Pflanzen jedoch eine Höhe von 1,50 bis 2 m erreichen. Das heißt, sie benötigen mehr Raum zum Wachsen. Die Northern Lights Feminisiert ist buschig, mehrfach verzweigt und kräftig. Unter optimalen Bedingungen entwickelt sie viele breite Blätter und große Buds und ermöglicht umfassende Erträge. In Innenräumen können ca. 500 Gramm pro m2 erzielt werden. Grower, die Pflanzen im Freien kultivieren, können ca. 600 Gramm pro Pflanze erwarten. Die Buds sind charakteristisch. Wenn sie sich ausbilden, entsteht ein dicker Harzüberzug. In der Regel sind sie sehr dicht angeordnet. Die Pflanzen gedeihen in wärmerem Klima, insbesondere an Orten wie dem Mittelmeer. Sie können auch in Innenräumen oder in einem Gewächshaus angebaut werden. Das SOG-Trimm-System (Sea of Green) ist ideal für die Northern Lights Feminisiert und sorgt für exzellente Ergebnisse. SCROG (Screen of Green) funktioniert auch gut und Lollipopping und Supercropping sind ebenfalls effektiv. Wirkung, Geschmack und Geruch der Northern Lights FeminisiertDie Northern Lights Feminisiert-Genetiken sind überwiegend Indica (90 %). Dies zeigt sich deutlich im resultierenden High. Wie von einer Indica-dominanten Sorte erwartet werden kann, ist der Rauschzustand sehr beruhigend und intensiv. Konsumenten berichten, dass sie die Muskeln entspannt und den Geist beruhigt. Das High ist ziemlich stark. Unerfahrene Konsumenten sollten dies wissen. Das Aroma ist auch typisch Indica. Es ist kräftig, erdig und intensiv, aber nicht zu penetrant. Dies ist ein Vorteil für die Kultivierung in Innenräumen oder Diskretion beim Anbau im Freien. Der Geruch intensiviert sich leicht, wenn die Buds geerntet werden können, und wird nach dem Aushärten komplexer. Die Frucht- und Kräuternoten werden dann besonders deutlich und sind auch beim Rauchen spürbar. Wusstest du schon? Die Northern Lights hat bereits verschiedene Preise gewonnen.Sie ist so erfolgreich, dass einige darum gebeten haben, sie bei Cannabis Cups nicht mehr antreten zu lassen, um anderen Sorten eine Chance zu geben. Die Northern Lights Feminisiert wurde in verschiedenen Songs erwähnt; insbesondere Rap-Stücken. Diese Sorte ist auch in zwei anderen Varianten verfügbar: Northern Lights Regular und Northern Lights Automatic.Sie wächst gut, wenn der Boden stickstoffhaltig ist.Northern Lights Feminisiert erzeugt beim Wachsen keinen starken Geruch, was ideal für die Kultivierung zuhause ist.

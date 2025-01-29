@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1500014"
+title: "Four-Way Reguliere zaden"
+description: "Spannende indica-dominante hybride. Indiase, Afghaanse en Pakistaanse planten gemixt met Skunk #1. Plakkerig en zoet. Koop jouw Four Way hier!"
+image: "https://img.sensiseeds.com/nl/cannabis-zaden/sensi-seeds/four-way-image.png"
+slug: "/nl-four-way-reguliere-zaden"
+url: "https://sensiseeds.com/nl/cannabis-zaden/sensi-seeds/four-way?a_aid=cannastore"
+price: 57
+currency: "eur"
+number_of_seeds: 10
+category: "Binnen"
+flowering_min: 45
+flowering_max: 60
+strain_type: "Regular"
+climate_zone: "Zonnig / mediterraan klimaat"
+yield: "Grote oogst"
+heigh_gain: "Gemiddelde groei in de hoogte"
+locale: "nl"
+---
+Four-Way Regulier is 80% indica en dit komt terug in de high; opbeurend, warm en intens ontspannend. Het werd ontwikkeld vanuit andere goed presterende soorten, waardoor het perfect is om verder mee te kruisen. Verwacht een grote opbrengst van Four-Way, vooral binnen of buiten in een warm en zonnig klimaat. Kwekers genieten vooral van het sterke, kruidige aroma en de smaak, die een vleugje pittige zoetheid bevat. Groeipatroon Four-Way RegulierFour-Way Reguliere cannabiszaden zijn 80% indica en 20% sativa. Deze soort is het gevolg van vele jaren zorgvuldig hybridiseren, met een focus op het creëren van een stabiel eindproduct waarin de voordelen van de oorspronkelijke planten terugkomen. Met elke opeenvolgende generatie werden specifieke planten teruggekruist om het verder te stabiliseren of werden geïntroduceerd voor het volgende genotype. Daarna werd Four-Way verder geperfectioneerd - een hybride met Afghaanse, Pakistaanse en Indiaanse genetica, gecombineerd met Skunk #1.Het is een reguliere variant, wat betekent dat de zaden zowel mannelijke als vrouwelijke planten zullen produceren. De aanwezigheid van mannelijke planten is handig voor als je zaden wil genereren voor kweken in de toekomst of voor eigen kruisingen. Het is een meervoudige hybride dus kwekers kunnen heel wat variatie verwachten in de planten, wat kan leiden tot een spannende combinatie aan mooie kenmerken.Four-Way Regulier heeft een relatief korte bloeitijd (45 tot 60 dagen) en dat is nog een voordeel eraan. Dat betekent dat kwekers snel resultaat zullen zien en zelfs meerdere oogsten per jaar kunnen hebben. De soort is vrij compact en planten bereiken een hoogte van 100 tot 180 cm als ze binnen worden gekweekt. Buiten, in de juiste omstandigheden, groeien ze vaak hoger tot een lengte van circa 180 tot 250 cm. Dit kan echter goed onder controle gehouden worden in een gemiddelde tuin. De planten zien er aantrekkelijk uit en hebben vooral rondom de hoofdstengel talloze toppen en lange, elegante bladeren. De toppen zien er zwaar en compact uit, met een dikke laag glanzende hars. De opbrengst is nog een prachtig aspect van Four-Way Regulier. De planten hebben niet al te veel onderhoud nodig en hebben een goede opbrengst voor nieuwe kwekers. Indien binnen gekweekt, kunnen kwekers een opbrengst van rond de 500 gram per vierkante meter verwachten. Buiten is de opbrengst zon 500 gram per plant. Four-Way Regulier doet het goed in een zonnig klimaat en heeft lange, warme zomers nodig om tot haar ware kracht te komen. Het is echter eenvoudig binnen te kweken bij kunstlicht en kan ook worden gekweekt in een kas. Ervaren kwekers zullen ondervinden dat supercroppen en lollipoppen effectieve trainingstechnieken zijn voor deze soort. Effect, smaak en geur van Four-Way RegulierFour-Way Regulier bevat voornamelijk indica en heeft beperkte sativa genetica. Daardoor is de high voornamelijk indica qua persoonlijkheid en ervaar je een krachtige stone in het gehele lichaam, die gebruikers als ontspannen en verdovend ervaren. Hoewel de zaden verschillende fenotypes produceren, ruiken de planten vaak zoet met een vleugje pittige kruidigheid. Er is ook een vleugje aardsheid in te vinden, dat duidelijker aanwezig wordt naarmate de toppen de oogsttijd naderen. Dankzij de invloed van Skunk #1 beschrijven gebruikers de smaak als zoet en kruiding, met een toon van aarde en skunk. Wist je dat? Four-Way Regulier een meervoudige hybride is, wat betekent dat er enige variatie kan ontstaan wanneer de planten vanuit zaden worden gekweekt. Hoewel variatie waarschijnlijk is, de meeste planten de algemene kenmerken met elkaar delen, zoals grote, vette toppen. De naam Four-Way Regulier afkomstig is van het feit dat de genetica uit vier soorten bestaat; een Afghaanse, Pakistaanse, en Indiase soort, en Skunk #1. Bepaalde kwekers aangeven dat het aroma niet zoveel op een typische indica lijkt.Four-Way Regulier opnieuw werd gelanceerd in 1995 en sindsdien de favoriet is onder de kwekers.

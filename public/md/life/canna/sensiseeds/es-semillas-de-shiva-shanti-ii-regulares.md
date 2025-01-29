@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1500029"
+title: "Semillas de Shiva Shanti II Regulares"
+description: "La Shiva Shanti II Regular es 75% indica, 25% sativa. Es compacta, de alto rendimiento, con aroma skunk. El subidón es relajante, con notas estimulantes."
+image: "https://img.sensiseeds.com/es/semillas-de-cannabis/sensi-seeds/shiva-shanti-ii-image.png"
+slug: "/es-semillas-de-shiva-shanti-ii-regulares"
+url: "https://sensiseeds.com/es/semillas-de-cannabis/sensi-seeds/shiva-shanti-ii?a_aid=cannastore"
+price: 22
+currency: "eur"
+number_of_seeds: 10
+category: "Interior / Invernadero"
+flowering_min: 45
+flowering_max: 55
+strain_type: "Regular"
+climate_zone: "Templado / Continental"
+yield: "Rendimiento grande"
+heigh_gain: "Aumento medio en altura"
+locale: "es"
+---
+La Shiva Shanti 2 Regular es una variedad 75% indica. Los cultivadores la aprecian desde hace décadas debido a su subidón calmante, y por ser económica. Las plantas son compactas, algo muy práctico, especialmente para aquellos que tienen el espacio limitado. La Shiva Shanti II también produce unos rendimientos abundantes sin el esfuerzo al que acostumbran necesitar otras variedades. El aroma nos recuerda a la lavanda y a la tierra fresca, y su sabor es igualmente agradable. Patrón de cultivo de Shiva Shanti II RegularLas semillas de marihuana de Shiva Shanti II Regulares son un 75% indica y un 25% sativa. La variedad la desarrolló originalmente Sensi Seeds en los años 90 con el objeto de ofrecer una opción versátil y económica. Incorpora la genética de las variedades Garlic y Kush, mezcladas con una variante afgana. Esto garantiza que las plantas produzcan buenos rendimientos y sean fáciles de cultivar. Esta es la versión regular, lo que significa que las semillas producirán plantas masculinas y femeninas. La presencia de plantas masculinas es útil para quienes quieren producir sus propias semillas para futuros cultivos, o para quienes desean probar a crear sus propios híbridos. El corto periodo de floración de la Shiva Shanti II Regular es una de sus ventajas, siendo de tan solo 45-55 días. Esto, combinado con el hecho de que estamos ante una variedad de bajo mantenimiento, hace que los cultivadores puedan disfrutar de resultados rápidos sin mucho esfuerzo.Es muy popular entre quienes no tienen mucho espacio disponible, ya que las plantas tienden a alcanzar una altura moderada, entre los 100 y 160 cm en interiores. En exteriores pueden subir algo más, pero por lo general se quedan entre los 150 y 180 cm, por lo que entran fácilmente en un invernadero normal. Por eso son una buena opción para quienes desean cultivar las plantas de forma discreta. Estructuralmente, la Shiva Shanti II Regular es de aspecto rechoncho y robusto, con un tallo central firme. Conforme nos acercamos a la cosecha se carga de cogollos rápidamente. Estos cogollos son grandes, pesados y recubiertos de resina.Los cultivadores normalmente generan cosechas excelentes con esta variedad: entre los 400 y 450 gramos por metro cuadrado en interiores, y entre 600 y 800 gramos por planta en exteriores. De hecho, algunos de ellos han informado incluso de la obtención de un kilo por planta. La variedad se comporta bien en climas cálidos, aunque puede prosperar en regiones más templadas. Es posible cultivarla en interiores todo el año. Y en lo referente a las técnicas de entrenamiento, los cultivadores informan de resultados positivos con lollipopping y supercropping.Efecto, sabor y aroma de Shiva Shanti II RegularLa Shiva Shanti II Regular es un 75% indica, y el subidón resultante es por tanto de fuerte personalidad indica. Los usuarios afirman que relaja los músculos, creando una sensación de calma y serenidad. Sin embargo, gracias al 25% de sativa, también proporciona un suave golpe de energía, por lo que el colocón es más estimulante que el típico indica. No es tan potente como otras variedades, haciendo que sea una opción muy interesante para relajarse al final de la tarde.Las plantas desprenden el clásico aroma a skunk mientras crecen, con el almizcle añadido de la planta progenitora Garlic. Cuando los cogollos están listos para cosecharse, adquieren también un olor a lavanda, lo que se hace evidente en el sabor.¿Sabías que…?La Shiva Shanti II recibe su nombre de las hijas del fundador de Sensi Seeds, Ben Dronkers. También debe su nombre al dios hindú, que a menudo se le relaciona con la marihuana. Algunos de los fenotipos de esta variedad pueden producir un fuerte olor a ajo.La Shiva Shanti II Regular se desarrolló para que fuera más fácil de cultivar que la variedad Shiva Shanti original.Es muy resistente al moho y a las plagas, lo que la hace más sencilla de cultivar.

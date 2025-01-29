@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1560010"
+title: "Sementes de Skunk Kush Feminizadas"
+description: "A Skunk Kush Feminizada é 60% índica e 40% sativa. O que resulta em plantas vigorosamente robustas, com grandes rendimentos e um efeito relaxante poderoso."
+image: "https://img.sensiseeds.com/pt/sementes-feminizadas/sensi-seeds/skunk-kush-feminizada-image.png"
+slug: "/pt-sementes-de-skunk-kush-feminizadas"
+url: "https://sensiseeds.com/pt/sementes-feminizadas/sensi-seeds/skunk-kush-feminizada?a_aid=cannastore"
+price: 101
+currency: "eur"
+number_of_seeds: 10
+category: "Sementes Feminizada"
+flowering_min: 50
+flowering_max: 60
+strain_type: "Feminized"
+climate_zone: "Solarengo/Mediterrânico"
+yield: "Grande Rendimento"
+heigh_gain: "Crescimento médio"
+locale: "pt"
+---
+Padrão de crescimento da Skunk Kush FeminizadaAs sementes de canábis Skunk Kush Feminizadas produzem plantas de alto rendimento, com um período médio de floração. A variedade tem marginalmente predominância índica (60% índica e 40% sativa), esta hibridização oferece o melhor dos dois mundos – crescimento vigoroso e desempenho sólido, combinados com um efeito relaxante potente e inebriante. As sementes são feminizadas, o que é útil para produtores principiantes, pois significa que não há necessidade de identificar plantas-macho e retirá-las. Também é vantajoso para quem procura um crescimento mais fácil. No entanto, a Skunk Kush Regular é uma opção mais atrativa para os produtores que desejam produzir sementes para cultivo posterior. Uma das principais vantagens do cultivo da Skunk Kush Feminizada é que ela tem um período de floração curto; ideal para quem deseja gerar uma colheita em “tempo recorde”. O estágio de floração leva cerca de 50 a 60 dias, no interior ou no exterior. Se cultivar as plantas em estufa, espere colhê-las por volta do final de outubro. A altura moderada das plantas é outro bónus, especialmente se estiverem a ser cultivadas numa sala de cultivo, numa estufa ou num local com teto baixo. Normalmente, elas não ultrapassam os 150 cm, com a maior parte do crescimento a ocorrer durante o período de floração. De facto, as plantas têm normalmente entre 110 a 140 cm, o que é uma altura fácil de controlar. A ascendência índica da Skunk Kush Feminizada é evidente na estrutura da planta; caules grossos, com folhas verde-escuras e grossas. No entanto, a Skunk #1 também é detetável; no tamanho e no vigoroso padrão de crescimento. Os botões formam aglomerados parecidos com cachos de uvas e as flores têm formas gigantescas. Se conseguir rendimentos extensos é a sua grande prioridade, esta é definitivamente uma variedade a levar em consideração. Quando cultivada nas condições adequadas, a Skunk Kush Feminizada produz botões abundantes e colheitas satisfatoriamente abundantes. Pode-se esperar obter pepitas Afghani-Skunk ao cultivar plantas-fêmea e também cálices dilatados. Estas geram botões densos e semiabertos com um peso generoso. Os botões também produzem bastante resina, graças à sua grande área de superfície. De facto, alguns dos tricomas são tão bulbosos que parecem expandir e mudar de cor todos os dias, especialmente perto da época da colheita. A Skunk Kush Feminizada cresce melhor em climas mais quentes e prospera em verões longos. Estas são suscetíveis ao apodrecimento e ao bolor, como tal, não se dão bem em locais mais húmidos e mais frios. Os produtores interessados ficarão satisfeitos em saber que esta variedade responde bem a várias técnicas de cultivo, tais como lollipopping, supercropping, e aos métodos SOG (Sea of Green) e SCROG (Screen of Green). Efeito, sabor e aroma da Skunk Kush FeminizadaA maioria das pessoas concorda que a Skunk Kush Feminizada produz um efeito poderoso e abrangente. Tanto relaxante como calmante graças à sua herança índica a 60%. A sua herança sativa proporciona um efeito estimulante, com algumas pessoas a notar um aumento de energia e entusiasmo após o consumo.A variedade não só tem um efeito potente quando consumida; também tem um perfume distinto. Enquanto as plantas crescem, os produtores normalmente percebem um toque de especiarias e doçura, com o aroma familiar almiscarado e skunk que também transparece. Também há um toque de citrinos, que se torna gradualmente mais forte à medida que os botões se aproximam da colheita. Este sabor cítrico fresco também é transportado para o paladar, juntamente com um toque de mentol, o que é agradavelmente revigorante. Sabia que? Esta variedade também está disponível como Skunk Kush Regular.A Skunk Kush é muitas vezes denominada de Hindu Skunk.É capaz de produzir colheitas impressionantes em condições adequadas de crescimento.

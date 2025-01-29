@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1520034"
+title: "Semillas de Guava Jelly Feminizadas de White Label"
+description: "La Guava Jelly de White Label es 50% indica, 50% sativa. Presenta colas cubiertas de cristal de sabores frutales exóticos. El subidón es cálido y positivo."
+image: "https://img.sensiseeds.com/es/semillas-feminizadas/whitelabel/guava-jelly-image.png"
+slug: "/es-semillas-de-guava-jelly-feminizadas-de-white-label"
+url: "https://sensiseeds.com/es/semillas-feminizadas/whitelabel/guava-jelly?a_aid=cannastore"
+price: 75
+currency: "eur"
+number_of_seeds: 10
+category: "Semillas Feminizadas"
+flowering_min: 55
+flowering_max: 75
+strain_type: "Feminized"
+climate_zone: "Soleado/Mediterráneo"
+yield: "Rendimiento grande"
+heigh_gain: "Planta alta"
+locale: "es"
+---
+Los cogollos de Guava Jelly son una delicia de dulce aroma incluso antes de consumirse. Las hojas delgadas de la planta son de un color verde intermedio, y los racimos de flores presentan un color lima debido a los brillantes tricomas dorados. Los cálices son grandes y de forma ovalada. Sus largos pistilos comienzan siendo más amarillos que blancos, y luego cambian a un rosa intenso conforme los brotes maduran. Patrón de cultivo de Guava Jelly Feminizada de White LabelLas semillas de marihuana Guava Jelly Feminizadas de White Label son 50% indica, 50% sativa. Crecen bien en un invernadero o en exteriores en un clima mediterráneo, siempre y cuando tengan acceso diario a la luz solar directa. El cultivo en exteriores permite a este híbrido alcanzar toda su altura, y eso aumenta enormemente el rendimiento. La Guava Jelly es una variedad vigorosa y puede prosperar en condiciones exteriores favorables. Sin embargo, puede necesitar el apoyo de estacas o de un enrejado, ya que sus ramas esbeltas pueden ceder con el peso de los cogollos a final del verano.La altura de la Guava Jelly puede controlarse en interiores provocando la floración de las plantas cuando son todavía de pequeño tamaño. Como esta variedad por lo general triplica su altura en la etapa de floración, se pueden poner clones a florecer a 20 o 30 cm, para así conseguir que la altura final esté por debajo de los 100 cm. Tiene tendencia a producir ramas que crecen de forma ascendente en vez de lateralmente, por lo que es apta para el método de entrenamiento Mar de Verde (SOG). Las plantas nacidas de las semillas originales de Guava Jelly a menudo presentan un mayor periodo vegetativo. Se puede optimizar tanto su altura como su estructura, para adaptarse así a espacios de cultivo interiores mediante la poda de las mismas, creando varios tallos (también llamado topping). Los métodos de supercropping y Pantalla de Verde (ScrOG) también son efectivos. La estructura de los cogollos de los mejores fenotipos de la Guava Jelly adopta la forma de grandes cálices que crecen en racimos, unos sobre otros, formando hileras. Estas cuerdas de cálices se entretejen en cada nodo, formando largos nudos de cogollos con varias puntas creciendo en todas direcciones. Durante la floración también se expanden para cubrir los espacios internodales, envolviendo el tallo y las ramas de la Guava Jelly en el momento de la cosecha.La densidad de los cogollos es mayor en los nodos y brácteas, donde los cálices sobredimensionados de la Guava Jelly prácticamente tienen que luchar por el espacio. Las cuerdas de cálices recorren los racimos de flores, uniéndolos para formar colas que presentan una estructura bastante abierta, sin ser plumosas o de poco peso. Debido a la gruesa cobertura de las glándulas resinosas, incluso las hebras individuales de cálices se convierten en fragmentos de cogollos frágiles y pegajosos cuando se secan.Efecto, sabor y aroma de Guava Jelly Feminizada de White LabelLa Guava Jelly tiende a desprender muy poco olor cuando está creciendo. El aroma intenso y afrutado de esta variedad solo se libera una vez que los cogollos se han cosechado, secado y desmenuzado. La Guava tan solo es una de las frutas de su perfil de terpenos. Una inhalación profunda también revela las notas a bayas de la Strawberry Kush, el anís y cítricos de la Durban, y un dulce sabor skunky subyacente procedente de la Wedding Cheesecake.La Guava Jelly de White Label provoca un subidón potente con trasfondo tanto indica como sativa. La mayoría de los usuarios afirman que experimentan una sensación cálida y positiva en el cuerpo, herencia de sus ancestros Kush y Skunk. El lado sativa de la Guava Jelly potencia este efecto con un subidón estimulante, vigorizante y eléctrico. Muchos aficionados quedan tan absortos con el “colocón” inicial alegre que no se dan cuenta del efecto hasta que tratan de levantarse.

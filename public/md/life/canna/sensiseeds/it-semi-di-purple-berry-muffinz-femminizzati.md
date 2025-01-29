@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1540002"
+title: "Semi di Purple Berry Muffinz Femminizzati"
+description: "Vero ibrido: 50% indica/50% sativa. Gli effetti coprono l'intero spettro, perfetti per il giorno. Profumi di caramelle con note diesel. Fioritura rapida."
+image: "https://img.sensiseeds.com/it/breeding-grounds/humboldt-seed-company/purple-berry-muffinz-feminizzati-image.png"
+slug: "/it-semi-di-purple-berry-muffinz-femminizzati"
+url: "https://sensiseeds.com/it/breeding-grounds/humboldt-seed-company/purple-berry-muffinz-feminizzati?a_aid=cannastore"
+price: 85
+currency: "eur"
+number_of_seeds: 10
+category: "Breeding Grounds"
+flowering_min: 0
+flowering_max: 0
+strain_type: "Regular"
+climate_zone: ""
+yield: ""
+heigh_gain: ""
+locale: "it"
+---
+La Purple Berry Muffinz Femminizzata è una delizia allettante per chi cerca profili dinamici. Dolce e cremosa, ma anche pungente e gassosa, termina la sua fioritura in un massimo di 55 giorni, offrendo al coltivatore lopportunità di più cicli di coltivazione ogni anno. La statura è perfetta per colture indoor con tende piccole o soffitti bassi. Stupisci i tuoi amici con uno dei profili più nuovi per i tuoi party.Modello di crescita della Purple Berry Muffinz FemminizzataLa Purple Berry Muffinz Femminizzata ha una linea genetica che comprende la Purple Bud (della Sensi Seeds) incrociata con cultivar di altre banche come la Blueberry Muffin e Zkittlez, creata nellambito della nostra collaborazione esclusiva con la Humboldt Seed Company, nel progetto Breeding Grounds. Il risultato è una pianta dai profili straordinari e con tutti gli effetti che si possano desiderare. Pur essendo un ibrido al 50% indica e al 50% sativa, il modello di crescita è tipico della genetica indica.I semi di Purple Berry Muffinz Femminizzati si sviluppano in una pianta molto compatta con breve spazio internodale. Gli steli inferiori si trasformano in rami robusti, che raggiungono rapidamente il grado di sviluppo dello stelo centrale. La statura finale è generalmente compresa tra gli 80 e i 100 cm nelle colture all’interno, mentre all’esterno, in un clima ideale, si possono raggiungere 100 cm o anche più.Nella sua forma Femminizzata la Purple Berry Muffinz offre ai coltivatori il vantaggio di non dover eliminare i maschi durante la crescita. La durata di fioritura è straordinariamente rapida, tra i 45 e i 55 giorni. Ciò permette, nelle colture all’interno, di raccogliere più volte durante l’anno.Questa varietà produce un abbondante resa in un ambiente ideale: all’interno 500 - 550 g/m² e all’esterno, in climi temperati/continentali, 600 g per pianta o, talvolta, anche maggiori quantità. Per aumentare la produzione e sorreggere al meglio la pianta possono essere utilizzate tutte le tecniche di allevamento (SCROG, SOG, supercropping e lollipopping).I fiori sono prevalentemente verde oliva, con sfumature viola che abbelliscono le foglie disposte tutte attorno e in prossimità delle cime. Completa questo quadro colorato un avvolgente strato di tricomi carichi di resina viscosa, ad alto contenuto di cannabinoidi e terpeni. Le cime sono dense e tendono a raggrupparsi in cole più grandi allestremità di ogni ramo.Effetti, gusto e aroma della Purple Berry Muffinz FemminizzataLa Purple Berry Muffinz Femminizzata si colloca a metà strada tra lindica e la sativa, offrendo il meglio delle due genetiche in termini di effetti. Subito dopo aver provato questa varietà, un high edificante e cerebrale sfocerà in un senso di felicità e in un’irrefrenabile, seppur sommessa, ridarella. Questo senso di consapevolezza accentuato si trasforma in uno sballo corporeo rilassante e calmante, assolutamente non debilitante, Purple Berry Muffinz Femminizzata è ideale per un divertente consumo diurno.La Purple Berry Muffinz Femminizzata ha un profumo deliziosamente dolce di caramelle, compensato dalla penetrante fragranza diesel. Il contrasto tra i due aromi crea nellaria un’esperienza olfattiva unica e audace. Durante la crescita, in particolare nelle ultime settimane di fioritura, la Purple Berry Muffinz Femminizzata emette un aroma floreale leggermente pungente, temperato da un profumo dolce e pastoso.Rispetto all’aroma, il profilo gustativo è leggermente più complesso. Il sapore è sia dolce che pungente, completato da note floreali, che si sovrappongono a un sottofondo di sandalo esotico e biscotti cremosi.Lo sapevi? La progenitrice Blueberry Muffinz ha vinto un premio alla Emerald Cup Light 2017.La progenitrice Zkittlez ha vinto il premio come cime migliori alla competizione Emerald Cup 2016.Zkittlez una volta si chiamava Skittles, finché il marchio di caramelle non ha fatto causa al creatore.

@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1530013"
+title: "Sementes de Banana Frosting Feminizadas"
+description: "Espécie 70% indica, 30% sativa. Planta compacta com um tempo de floração relativamente rápido. Efeito de relaxamento e euforia."
+image: "https://img.sensiseeds.com/pt/research/banana-frosting-feminizada-image.png"
+slug: "/pt-sementes-de-banana-frosting-feminizadas"
+url: "https://sensiseeds.com/pt/research/banana-frosting-feminizada?a_aid=cannastore"
+price: 49
+currency: "eur"
+number_of_seeds: 10
+category: "Sensi Seeds Research"
+flowering_min: 50
+flowering_max: 65
+strain_type: "Feminized"
+climate_zone: "Solarengo/Mediterrânico"
+yield: "Grande Rendimento"
+heigh_gain: "Planta compacta"
+locale: "pt"
+---
+Esta espécie apresenta uma impressionante ascendência, com um património genético que inclui a Skunk Kush, a Hindu Kush, a Diesel e a Silver Haze. Os 70% indica e 30% sativa da espécie são evidentes no período de floração relativamente rápido da planta, e ainda no aroma e sabor cítrico. Graças às qualidades das suas plantas-mãe, os produtores podem esperar rendimentos abundantes, com muitos brotos resinosos. Vale ainda a pena mencionar o efeito – intenso, de elevação e profundamente relaxante. É muito parecida com algumas espécies de canábis de estilo americano.Padrão de crescimento da Banana Frosting FeminizadaO impressionante património genético desta híbrida inclui plantas-mãe como a Silver Haze, a Skunk Kush e a Hindu Kush. Graças à Silver Haze, é evidente a influência sativa, levando a uma incrível sensação de euforia aquando do consumo. Contudo, a influência indica da ascendência Kush é evidente nos brotos abundantes e elevados rendimentos, sendo que a Diesel pode ser detetada no aroma e efeito cerebral. Tratando-se de sementes feminizadas, é muito pouco provável que a embalagem contenha plantas macho. Trata-se de uma vantagem para os produtores principiantes já que não terão de identificar e remover determinadas plantas durante o cultivo. O seu período de floração relativamente curto, entre 50 e 65 dias, é outra vantagem desta espécie, sendo útil para aqueles que querem colher as plantas num curto espaço de tempo. Apesar de ser essencialmente sativa, a espécie não cresce até atingir uma altura excessiva. Na realidade, trata-se de uma variedade relativamente compacta que pode ser cultivada discretamente, tanto no interior como no exterior. Em termos de aspeto, a espécie é robusta e densa, um remanescente do seu património indica. A haste principal é espessa e robusta e apresenta ramos com entrenós curtos. Os produtores podem esperar a formação de muitos brotos durante as fases de floração, o que leva geralmente a uma colheita abundante. Grandes e densas, as colas apresentam-se sob forma piramidal. Uma das maiores vantagens desta espécie prende-se com os elevados rendimentos. Se for cultivada no exterior e nas condições adequadas, os produtores podem produzir uma quantidade significativa. Por outro lado, as plantas também crescem bem no interior. Se as plantas forem cultivadas no exterior, o clima deve ser quente e ensolarado, com um verão longo e fiável. Os países mediterrânicos são ideais. As plantas respondem bem a maioria das técnicas de cultivo, tais como a SCROG (Screen of Green), SOG (Sea of Green) a “supercropping” (danificar o tecido interno do caule mas sem rompê-lo) e a “lollipopping” (corte dos galhos e dos ramos da parte inferior da planta). Efeito, sabor e aroma da Banana Frosting FeminizadaA espécie é 70% indica e 30% sativa e a maioria dos utilizadores reparam na predominância sativa no aroma e no sabor e, em certa medida, no efeito.Sem surpresas (tendo em conta a sua ascendência), a espécie produz um efeito intenso e de rápida atuação. Os utilizadores podem esperar um relaxamento físico sem o efeito colado ao sofá, bem como uma sensação de aconchego e alegria. A genética sativa traz ainda uma sensação de euforia e a medida certa de elevação. Ao crescerem, as plantas apresentam um aroma doce, de banana e cítrico, que se intensifica à medida que se aproxima o período de floração. Podem ainda ser detetados outros aromas frutados, especialmente perto da fase de colheita. Aquando do consumo, os utilizadores notam a predominância do sabor cítrico com um toque de banana, e ainda uma nota de especiarias e de açúcar mascavado. Esta doçura frutada revela o lado californiano da Banana Frosting.Resumidamente Esta espécie é relativamente compacta e pode ser cultivada discretamente.Produz um agradável aroma e sabor cítrico e de banana. A sua ascendência inclui a Silver Haze, a Hindu Kus e a Skunk Kush.Durante o cultivo, tenha em conta que as plantas podem ser vulneráveis aos fungos e parasitas.

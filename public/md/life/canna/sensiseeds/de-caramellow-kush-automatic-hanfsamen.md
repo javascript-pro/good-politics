@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1530039"
+title: "Caramellow Kush Automatic Hanfsamen"
+description: "Caramellow Kush Automatic ist selbstblühend. Die Blütezeit dauert 55–70 Tage. Große mit Trichomen bedeckte Buds, die süße und fruchtige Terpene vereinen."
+image: "https://img.sensiseeds.com/de/research/caramellow-kush-automatic-image.png"
+slug: "/de-caramellow-kush-automatic-hanfsamen"
+url: "https://sensiseeds.com/de/research/caramellow-kush-automatic?a_aid=cannastore"
+price: 65
+currency: "eur"
+number_of_seeds: 10
+category: "Sensi Seeds Research"
+flowering_min: 55
+flowering_max: 70
+strain_type: "Auto"
+climate_zone: "Gemäßigtes / Kontinentales Klima"
+yield: "Großer Ertrag"
+heigh_gain: "Kompakte Pflanze"
+locale: "de"
+---
+Die Genetik von Caramellow Kush Automatic beruht auf Gorilla und Zkittles Automatic, zwei erstklassige und exotische Linien, die zu etwas Magischem zusammengeführt worden sind. Die Wirkung dieser Sorte entfaltet sich im ganzen Körper; sie lässt einem die Anstrengungen des täglichen Lebens vergessen. Während die Wirkung von Caramellow Kush die Gorilla-Seite der genetischen Linie repräsentiert, erwartet Züchter dank des Zkittles-Einflusses eine Geschmacksexplosion.Wachstumsmuster von Caramellow Kush AutomaticCaramellow Kush ist eine selbstblühende Sorte, was sich in der kurzen und kompakten Natur der Pflanzen zeigt. Wie bei Indica-Sorten üblich, haben die starken Seitenzweige keine Mühe, die schweren Buds zu tragen. Aufgrund des buschigen und dichten Charakters der Caramellow Kush Auto ist regelmäßiges Entlauben angesagt, um den Luftstrom innerhalb des Baldachins zu verbessern.Sobald Gärtner an den Knotenpunkten der oberen Zweige die weiblichen Blütenstempel wachsen sehen, beginnt die Blütephase. Sie dauert 55 bis 70 Tage. Diese Pflanze hat eine durchschnittliche Streckzeit. Im Innenbereich erreicht Caramellow Kush Automatic eine Höhe von 80 bis 100 cm. Outdoor-Gärtner können mit etwas höheren Pflanzen von 90 bis 120 cm rechnen.Caramellow Kush Automatic ist in verschiedenen Zuchtmedien eine ertragreiche Cannabis-Sorte – egal, ob Erde, Kokos, Hydrokulturen oder lebende Böden. Indoor sind gute Erträge von bis zu 550 Gramm pro Quadratmeter möglich. Im Freien haben Gärtner bis zu 450 Gramm pro Pflanze geerntet. Autoflowering-Sorten ermöglichen im Freien mehrere Ernten pro Jahr.Die Buds der Caramellow Kush sind groß und mächtig. Sie reihen sich nahtlos in die kurzen und starken Zweige ein. Die Buds fühlen sich klebrig an und glänzen mit einer dichten Trichom-Bedeckung. Ihre Erscheinung erinnert an andere beliebte Kush-Sorten. Caramellow Kush ist einfach anzubauen. Mit dieser pflegeleichten Sorte sind keine speziellen Anbaumethoden erforderlich, um große Erträge zu erzielen.Wirkung, Geschmack und Geruch von Caramellow Kush AutomaticCaramellow Kush Automatic Cannabis-Samen erzeugen spektakuläre Pflanzen, die hinsichtlich Wirkung und Duft mit echten High-End-Indica-Sorten vergleichbar sind. Die Wirkung erinnert an die Gorilla-Elternlinie, geschmacklich ist der Einfluss von Zkittles Auto unverkennbar. Wenn die Arbeit erledigt und Entspannung angesagt ist, zeigt sich Caramellow Kush Automatic von ihrer besten Seite. Eine warme Welle kribbelnder Energie breitet sich von Kopf bis Fuß aus, danach macht sich im Körper ein angenehmes Stone-Gefühl bemerkbar. Die Muskeln beginnen sich lockerer anzufühlen, die Anspannung fällt ab. Gerade nach einem anstrengenden Training hat sich Caramellow Kush Automatic als eine tolle Option erwiesen. Die Aromen halten sich während der Wachstumsphase dezent im Hintergrund. Sie werden intensiver, sobald Caramellow Kush Automatic weiter heranreift. Spezielle Filteranlagen sind nicht unbedingt erforderlich, weil die Gerüche nie zu stark werden.Caramellow Kush Automatic begeistert mit einer tollen Terpenmischung, die gleichermaßen von den Eltern geerbt wurde. Terpene, die auf die Gorilla-Genetik zurückzuführen sind, machen sich in Form von erdigen und holzigen Aromen bemerkbar. Sie teilen sich die Bühne mit den berauschend süßen und fruchtigen Aromen des Zkittles-Einflusses, dazu gesellt sich ein Hauch von erfrischendem Pinen. Im Gegensatz zum Geruch, der durch beide elterlichen Linien geprägt wird, ist der Geschmack von Caramellow Kush Automatic ganz Zkittles. Die getrockneten Buds schmecken dekadent süß auf der Zunge. Das Aroma verschiedener Früchte bezaubert den Gaumen. Wer die Augen schließt, muss unweigerlich an eine fast reife und saftige Mango denken, sanft umhüllt mit Pinen.Wussten Sie?Beide Elternsorten haben zahlreiche Preise gewonnen, darunter Auszeichnungen für Potenz und Terpenausprägung. Eine einfach anzubauende Cannabis-Sorte, die sich auch für Grower ohne Erfahrung eignet.

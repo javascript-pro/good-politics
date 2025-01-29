@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1500003"
+title: "Sementes de Northern Lights Regulares"
+description: "A Northern Lights Regular é uma variedade premiada, 90% de índica e 10% de sativa, que produz até 1,5 kg/ planta, possui um aroma telúrico e doce de mel."
+image: "https://img.sensiseeds.com/pt/sementes-de-cannabis/sementes-sensi/northern-lights-image.png"
+slug: "/pt-sementes-de-northern-lights-regulares"
+url: "https://sensiseeds.com/pt/sementes-de-cannabis/sementes-sensi/northern-lights?a_aid=cannastore"
+price: 120
+currency: "eur"
+number_of_seeds: 10
+category: "Interior"
+flowering_min: 45
+flowering_max: 50
+strain_type: "Regular"
+climate_zone: "Solarengo/Mediterrânico"
+yield: "Forte Rendimento"
+heigh_gain: "Planta compacta"
+locale: "pt"
+---
+A Northern Lights Regular é uma variedade galardoada com vários prémios e por boas razões. As plantas 90% índicas são fáceis de cultivar tanto em ambiente interior como exterior, são compactas e de floração rápida. Os produtores poderão esperar bastantes botões volumosos e brilhantes além de grandes colheitas. O perfume é agradavelmente aromático: telúrico, rico e com um toque de mel. O efeito relaxante também é formidável e poderosamente relaxante para o corpo e a mente. Padrão de crescimento da Northern Lights Regular As sementes de canábis Northern Lights Regular são 90% índica e 10% sativa. Julga-se que esta variedade, várias vezes premiada, teve origem nos Estados Unidos, antes de ser levada para os Países Baixos. Onde a Sensi Seeds a transformou na variedade que é hoje, aprimorando a sua genética afegã e tailandesa. As sementes são regulares e, por isso, os produtores poderão gerar plantas fêmea e macho a partir da embalagem. Isto é uma boa opção para quem deseja produzir as suas próprias sementes ou para quem deseja experimentar o cruzamento com outras variedades. As plantas têm um período de floração rápido, de apenas 45 a 50 dias, o que significa que os produtores podem desfrutar de uma colheita bastante rápida. Tal como acontece com muitas variedades predominantemente índicas, a Northern Lights Regular é compacta, com plantas relativamente pequenas tanto em ambientes de interior como de exterior. Quando cultivadas no interior, as plantas atingem, em média 80 a 130 cm de altura. No exterior, podem ficar mais altas, mas provavelmente nunca ultrapassarão os 150 a 200 cm. As plantas são robustas e de aparência baixa, com vários ramos e folhas. Isso é vantajoso porque, assim, são capazes de suportar os botões resinosos de tamanho considerável. Esses botões, geralmente, proporcionam um grande rendimento. Os produtores que cultivam a Northern Lights Regular no interior podem atingir uma produção de cerca de 500 gramas por metro quadrado. E quanto às plantas cultivadas no exterior nas condições certas? Alguns produtores relataram ter colhido até 1,5 kg de uma única planta!A Northern Lights Regular precisa de muita luz solar e calor para alcançar todo o seu potencial. Como tal, as plantas precisam de ser cultivadas num país que beneficie de verões longos e quentes. Os países Mediterrânicos são o local ideal para cultivar esta variedade. Como alternativa, as plantas podem ser cultivadas em espaços interiores durante todo o ano, em qualquer local do mundo. Os produtores mais experientes afirmam que os métodos de criação lollipopping e supercropping são os mais eficazes com esta variedade e aumentam ainda mais as colheitas. Efeito, sabor e aroma da Northern Lights Regular A Northern Lights Regular é 90% índica e a sua genética percebe-se claramente no efeito relaxante proporcionado. Os utilizadores relatam um estado de entorpecimento intenso em todo o corpo com esta variedade, que relaxa os músculos e acalma a mente. O perfume também é tipicamente de natureza índica: pungente, profundo e telúrico. No entanto, também há no seu aroma um toque de mel e ervas, que se torna mais percetível à medida que os botões atingem a época da colheita. Geralmente, as plantas não produzem um perfume avassalador enquanto crescem, o que é útil para quem deseja cultivá-las discretamente. Após o consumo, os utilizadores podem esperar um sabor rico e aromático, com notas de doçura que perpassam de forma bastante forte. Sabia que? A Northern Lights Regular da Sensi Seeds é uma variedade galardoada com vários prémios.É uma das variedades mais influentes disponíveis e é frequentemente usada como planta-mãe para outras variedades. A Northern Lights Regular apresenta-se também em duas outras variantes; a Northern Lights Feminizada e a Northern Lights Automática.Esta variedade é relativamente fácil de cultivar, mas é necessário um certo nível de experiência para gerar colheitas abundantes.

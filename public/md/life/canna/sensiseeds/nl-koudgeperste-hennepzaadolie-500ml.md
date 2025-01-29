@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "5201002"
+title: "Koudgeperste hennepzaadolie (500ml)"
+description: "Koop koudgeperste hennepzaadolie van Sensi Seeds Hemp Foods. Topkwaliteit, organisch en een heerlijke smaak. Snel leverbaar in 500 ml en 250 ml"
+image: "https://img.sensiseeds.com/nl/hennepvoedsel/koudgeperste-hennepzaadolie-500ml-image.png"
+slug: "/nl-koudgeperste-hennepzaadolie-500ml"
+url: "https://sensiseeds.com/nl/hennepvoedsel/koudgeperste-hennepzaadolie-500ml?a_aid=cannastore"
+price: 19.95
+currency: "eur"
+number_of_seeds: 0
+category: "BOEKEN"
+flowering_min: 0
+flowering_max: 0
+strain_type: ""
+climate_zone: ""
+yield: ""
+heigh_gain: ""
+locale: "nl"
+---
+De logica van hennepzaad als voedsel Wilt u hennepzaadolie ervaren als gezonde superfood? Onze koudgeperste hennepzaadolie zit tjokvol essentiële voedingsstoffen die elk eetpatroon perfect aanvullen. Hennepzaadolie is bijzonder smakelijk en veelzijdig te gebruiken, zo geeft het niet alleen smaak aan rauw bereid voedsel maar is het tevens een hoogwaardig huidverzorgingsproduct. Biologische hennepzaadolie Hennepzaadolie is één van de rijkste bronnen aan essentiële onverzadigde vetzuren en antioxidanten. Het stimuleert het cardiovasculaire systeem en beschermt het lichaam tegen de effecten van veroudering. Onze biologische hennepzaadolie is volledig onverzadigd en ongeraffineerd. Zijn zachte notenaroma is heerlijk in salades, dressings en dips. Zachte notensmaak Wij vinden hennepzaadolie heerlijk in rauw bereid voedsel. Verse pesto (gemaakt van een mix van basillicum en hennepzaad) en een kruidige vinaigrette (met balsamicoazijn en verse tijm) zijn twee van onze absolute favorieten. De olie komt onverhit het meest tot zijn recht want dan blijven alle essentiële aminozuren behouden. Slechts 30 ml per dag is voldoende om de aanbevolen dagelijkse hoeveelheid essentiële vetzuren binnen te krijgen. Dat zijn twee eetlepels tjokvol voedingsstoffen. Smakelijk en veelzijdig Wist u dat hennepzaadolie een SPF-zonbeschermingsfactor van 6 heeft? Smeer hem dus op de huid en gebruik de olie als een natuurlijke zonnebrandcrème. Het is 100% plantaardig en dat maakt het geschikt voor veganisten en mensen met lastige dieetvoorschriften. Hennepzaadolie is echt geweldig. De vele voordelen van hennepzaad als superfood Al eeuwenlang wordt er olie uit hennepzaad gewonnen en wereldwijd gebruikt om de gezondheidsvoordelen die het biedt. Hennepzaad is om vele redenen voedzaam. Het meest opvallende zijn echter de hoogwaardige vetten die koudgeperste hennepzaadolie bevat. De vele fytonutriënten, gezonde vetten en antioxidanten geven op allerlei manieren een boost aan uw gezondheid. Van stabilisatie van de hormoonspiegel en bescherming van de huid tot het tegengaan van verouderingsverschijnselen. Huidverzorging: De vitamine E in hennepolie remt ontstekingen en voorkomt uitdroging, en dat heeft een gunstig effect op huidaandoeningen als eczeem, psoriasis en andere vormen van huiduitslag. Glanzende haren: Het regelmatig consumeren van hennepzaadolie of wekelijks gebruik als conditioner verbetert de vochthuishouding van uw haar. En dat zorgt voor glanzender haar dat er gezond uitziet. Verzacht artritis: De werking van essentiële vetzuren op het immuunsysteem en de ontstekingsremmende effecten van vitamine E en omega-3, verlichten de symptomen van artritis. Antioxidanten tegen veroudering: Antioxidanten spelen een cruciale rol bij vitaal oud worden. Vrije radicalen uit de omgeving beschadigen in de loop der jaren het lichaam. Door voedsel met een hoog gehalte aan antioxidanten te eten, worden deze vrije radicalen geneutraliseerd en beschadigen de cellen niet. Evenwichtige hormoonhuishouding: Onderzoek toont aan dat gamma-linoleenzuur (GLA) helpt bij het handhaven van een evenwichtige hormoonhuishouding. Bij vrouwen kan GLA premenstruele klachten en menstruatiepijnen helpen verlichten. Stimuleert het immuunsysteem: Hennepzaad is om vele redenen voedzaam. Het meest opvallende zijn echter de hoogwaardige vetten die de koudgeperste olie bevat. Vetzuren zijn essentieel voor de effectiviteit van het immuunsysteem. Gezond voor hart, bloedvaten en zenuwstelsel: Het is algemeen bekend dat essentiële vetzuren gezond zijn voor het hart. GLA kan slechte cholesterolniveaus verlagen en voorkomt dat er zich verzadigd vet afzet in de aderen. Essentiële vetzuren zijn bovendien cruciaal voor het zenuwstelsel. Alle Sensi Seeds Hemp Foods-producten zijn vrij van additieven en 100% natuurlijk. Al onze hoogwaardige biologische producten zijn getest en EKO-gecertificeerd. Dus geef uw gezondheid een boost en koop nu hennepzaadolie!

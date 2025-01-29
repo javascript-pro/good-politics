@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1500026"
+title: "Semillas de Skunk Kush Regulares"
+description: "Las semillas de marihuana Skunk Kush Regulares son 60% indica, 40% sativa. Producen un subidón cerebral, intenso y relajante. Crece bien en climas cálidos."
+image: "https://img.sensiseeds.com/es/semillas-de-cannabis/sensi-seeds/skunk-kush-image.png"
+slug: "/es-semillas-de-skunk-kush-regulares"
+url: "https://sensiseeds.com/es/semillas-de-cannabis/sensi-seeds/skunk-kush?a_aid=cannastore"
+price: 90
+currency: "eur"
+number_of_seeds: 10
+category: "Interior / Invernadero"
+flowering_min: 50
+flowering_max: 60
+strain_type: "Regular"
+climate_zone: "Templado / Continental"
+yield: "Rendimiento grande"
+heigh_gain: "Aumento medio en altura"
+locale: "es"
+---
+Patrón de cultivo de Skunk Kush Regular Las semillas de marihuana Skunk Kush Regulares son un 60% indica, 40% sativa. Como sugiere el propio nombre, esta variedad es un híbrido de Hindu Kush (con sus genes puros de Afghani) y Skunk #1. La combinación produce plantas que son vigorosas, de gran rendimiento, con un aroma y sabor inconfundible similar al del skunk.Se trata de una versión regular de la variedad, es decir, que las semillas producen plantas masculinas y femeninas. Esto es una ventaja para los cultivadores más avanzados que estén buscando crear sus propios híbridos. Es también útil para quienes desean generar sus propias semillas. Sin embargo, los rendimientos iniciales pueden estar ligeramente limitados debido a la presencia de plantas masculinas.Como variedad regular, la Skunk Kush Regular necesita un clima templado o continental para alcanzar su máximo potencial. La variedad tiene un tiempo de floración corto, entre 50 y 60 días (tanto en interiores como en exteriores). Los cogollos están listos para su cosecha a finales de septiembre o primeros de octubre cuando se cultivan en exteriores. La floración es impresionante, y la palabra que la describe mejor es “de altura”.La Skunk Kush Regular no es una de las variedades más altas del mercado. La planta crece hasta alcanzar una altura moderada (normalmente un máximo de 150 cm, tanto en interiores como en exteriores). Esto es útil para aquellos que utilicen armarios de cultivo o ubicaciones que tengan limitada la altura. La Skunk Kush Regular va tomando la forma de un “candelabro” conforme va creciendo. Al ser ligeramente indica-dominante, las hojas son de un verde oscuro típico, correosas, y las ramas son fuertes y robustas. Ofrece un rendimiento excepcionalmente generoso, y los cogollos por lo general están recubiertos de tricomas de aspecto escarchado.La herencia Afghani se hace visible inmediatamente cuando empiezan a desarrollarse los cogollos. Los cálices espumosos dan lugar a cogollos densos, semiabiertos, de gran peso. Tienen una superficie amplia, lo que garantiza una producción abundante de resina. Algunos de los tricomas desarrollan cabezas que son tan bulbosas que podrás verlas hincharse y cambiar de color en las últimas etapas de su crecimiento. Si dejamos crecer a las plantas por sí mismas, el cogollo central ocupa alrededor de la mitad el tallo principal, o hasta un 75% en las plantas femeninas más abiertas. La Skunk Kush Regular prolifera en climas cálidos, mediterráneos. Bajo estas condiciones soleadas, templadas, es capaz de producir unos rendimientos increíblemente elevados, y sin sucumbir al moho. Las técnicas de lollipopping y supercropping generan buenos resultados con esta variedad. Efecto, sabor y aroma de Skunk Kush RegularLa Skunk Kush Regular es ligeramente indica dominante. Resulta evidente por el subidón que produce: un colocón con cuerpo, intenso, que es tanto cerebral como profundamente físico. La influencia de la sativa a veces induce un estado de risas incontrolables, mientras que la indica proporciona una sensación de relajación profunda. Te advertimos no obstante que esta no es una variedad para aquellos que no están acostumbrados a consumir marihuana, ya que es bastante potente. Mientras crecen, las plantas producen un aroma almizclado a skunk. El olor resinoso y profundo a Afghani se potencia gracias a un fuerte toque a cítrico fresco. Cuando se acerca la etapa de la cosecha, el aroma afrutado se hace más fuerte, dejando un agradable perfume a limón y menta de fondo. Estos sabores se muestran al paladar, contribuyendo a una experiencia refrescante y estimulante. ¿Sabías que…?Esta variedad también está disponible en formato Skunk Kush Feminizada.La Skunk Kush se conoce también como Hindu Skunk.Produce rendimientos excepcionalmente altos bajo las condiciones correctas de crecimiento.

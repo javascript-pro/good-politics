@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1530021"
+title: "Black Lights CBD Automatic Hanfsamen"
+description: "Black Lights CBD Automatic ist eine Indica/Sativa-Hybride. THC/CBD-Verhältnis 2:1, die Wirkung ist sowohl entspannend als auch aufbauend."
+image: "https://img.sensiseeds.com/de/research/black-lights-cbd-automatic-image.png"
+slug: "/de-black-lights-cbd-automatic-hanfsamen"
+url: "https://sensiseeds.com/de/research/black-lights-cbd-automatic?a_aid=cannastore"
+price: 68
+currency: "eur"
+number_of_seeds: 10
+category: "Sensi Seeds Research"
+flowering_min: 75
+flowering_max: 80
+strain_type: "Auto"
+climate_zone: "Kühles / Kaltes Klima"
+yield: "Üppiger Ertrag"
+heigh_gain: "Kompakte Pflanze"
+locale: "de"
+---
+Die Black Harlequin ist das Ergebnis der Kreuzung unserer eigenen Black Domina mit der US-Sorte Harlequin. Aufgrund seines CBD-Gehalts ist die Harlequin eine der beliebtesten CBD-Sorten und wurde mehrfach ausgezeichnet (u.a. mit Cannabis Cups). Die Eigenschaften der Harlequin werden durch die Vereinigung mit der Black Domina auf ein höheres Niveau gebracht. Schließlich haben wir der Black Harlequin die Stärke der Northern Lights #5 (ebenfalls ein mehrfacher Preisträger) hinzugefügt, was den CBD-Fans eine neue Erfahrung bringt.Die Black Lights CBD Auto ist eine Indica/Sativa/Ruderalis-Hybride. Sie ist eine selbstblühende Variante, was bedeutet, dass sie super-einfach zu kultivieren ist. Das genetische Erbe der Northern Lights #5 und Black Harlequin CBD erklärt das Verhältnis von THC zu CBD von 2:1 und die 12 % -15 % THC-Werte. Anwender können ein entspannendes, glückliches High erwarten, wobei die Pflanzen einen süßen, fruchtigen Duft produzieren. Die Sorte wächst auch gut in kühlen und gemäßigten Klimazonen. Wachstumsmuster der Black Lights CBD AutomaticDiese Hybridsorte hat eine beeindruckende Genetik, mit Elternpflanzen wie der mit dem Cannabis Cup ausgezeichneten Northern Lights #5 und The Black Harlequin. Sie hat ein THC/CBD-Verhältnis von 2:1 und einen THC-Gehalt von 12 % bis 15 %. Die Samen sind feminisiert und autoflowering. Das bedeutet, dass sie wie die weiblichen Pflanzen wachsen und blühen, während ihr Wachstum und ihre Blütezeit nicht durch die Menge an Lichtstunden beeinflusst werden. Das Ergebnis? Eine Sorte, die selbst für Anfänger wirklich einfach zu growen ist. Die Blütezeit beträgt 60 bis 70 Tage, was in etwa dem Durchschnitt entspricht. Ebenso neigen die Pflanzen dazu, durchschnittlich hoch zu werden, und werden in der Regel etwa 100 cm hoch. Dies ist der Indica-Abstammung zu verdanken und bedeutet, dass sie sowohl im Innen- als auch im Außenbereich diskret kultiviert werden können. Die Pflanzen sind buschig und kompakt in ihrem Aussehen, mit vielen Seitenzweigen. Die Buds sind lang und dick und sind zur Erntezeit im Allgemeinen recht reichlich vorhanden. Obwohl es sich um eine selbstblühende Variante handelt, sind die Erträge dennoch beeindruckend. Es ist nicht ungewöhnlich, dass die Züchter etwa 450 g pro Quadratmeter erzielen. Die Black Lights CBD Automatic produziert robuste Pflanzen, die selbst kaltem Klima standhalten. Sie können auch zu jeder Jahreszeit indoor angebaut werden. Erfahrene Züchter können mit Anbautechniken wie SOG (Sea of Green) und Lollipopping erfolgreich sein. Wirkung, Geschmack und Geruch der Black Lights CBD AutomaticDie Sorte ist eine Mischung aus Indica, Sativa und Ruderalis. Die beiden wichtigsten Elternpflanzen, Black Harlequin und die legendäre Northern Lights #5, sind an dem entspannenden High, dem saftigen Duft und dem fruchtigen Geschmack zu erkennen.Nach dem Konsum berichten Anwender oft von einem tief entspannenden, typischen Indica-Stone, gefolgt von einem willkommenen, erhebenden Gefühl. Mit THC-Werten von 12 - 15 % ist die entspannende Wirkung von Black Lights CBD angenehm intensiv, ohne dass es zu einem totalen Couch-Lock kommt. Während die Pflanzen wachsen, produzieren sie ein süßes, fruchtiges Aroma, das ziemlich subtil ist. Auch dies ist vorteilhaft für diejenigen, die die Sorte kultivieren möchten, ohne Aufmerksamkeit zu erregen. Der Geschmack ist ähnlich wie der Geruch, obwohl die Süße des Black Harlequin-Elternteils wirklich in den Vordergrund tritt und ihm einen köstlichen Geschmack verleiht. Kurz gefasstDiese Sorte ist feminisiert und selbstblühend, was bedeutet, dass sie einfach zu züchten ist.Sie hat ein Verhältnis von THC zu CBD von 2:1 und THC-Werte von 12 -15 %Sie ist relativ kompakt und kann diskret angebaut werden.Der Duft und Geschmack sind süß und fruchtigDie Wirkung ist zutiefst entspannend, aber ohne totales Couch-LockZu den Mutterpflanzen gehören Northern Lights #5 und Black HarlequinDie Pflanzen wachsen gut unter kühlen und gemäßigten Bedingungen

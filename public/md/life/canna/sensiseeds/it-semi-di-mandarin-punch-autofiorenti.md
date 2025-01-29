@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1530018"
+title: "Semi di Mandarin Punch Autofiorenti"
+description: "Questa specie è al 60% indica, al 20% sativa e al 20% ruderalis. È compatta, fitta e discreta. L’effetto è rilassante, anche se di euforia e felicità."
+image: "https://img.sensiseeds.com/it/research/mandarin-punch-autofiorenti-image.png"
+slug: "/it-semi-di-mandarin-punch-autofiorenti"
+url: "https://sensiseeds.com/it/research/mandarin-punch-autofiorenti?a_aid=cannastore"
+price: 63
+currency: "eur"
+number_of_seeds: 10
+category: "Sensi Seeds Research"
+flowering_min: 65
+flowering_max: 70
+strain_type: "Auto"
+climate_zone: "Fresco /Freddo"
+yield: "Resa pesante"
+heigh_gain: "Pianta compatta"
+locale: "it"
+---
+Questa specie vanta origini impressionanti, quali la vincitrice di premi NYC Diesel, Hindu Kush, White Widow e Maple Leaf Indica. È al 60% indica e ciò spiega l’effetto rilassato e disteso, anche se l’influenza sativa del 20% è evidente nella sensazione euforica. Il 20% di Ruderalis rende Mandarin Punch una varietà auomatica e pertanto in grado di prosperare nella maggior parte dei climi. Le piante sono abbastanza compatte da essere coltivate senza farsi notare, e producono un aroma agrumato e tropicale.La dinastia delle Punch è una delle nuove tendenze della cannabis proveniente dagli Stati Uniti, che offre sapori fruttati alle altre specie. Mandarin Punch è una nuova aggiunta alla linea, che evidenzia aromi di mandarino dolcemente agrumati nella sua composizione.Coltivazione della Mandarin Punch AutofiorenteQuesta specie, sviluppata da Sensi Seeds, ha un formidabile patrimonio genetico. Le sue origini comprendono White Widow, Maple Leaf Indica, NYC Diesel e Hindu Kush; specie che sono fortemente apprezzate in tutto il mondo.È al 60% indica, al 20% sativa e al 20% ruderalis. La dominante indica è evidente nell’aspetto delle piante, che sono basse e forti, e nell’effetto, che è di potente distensione. Tuttavia, l’influenza sativa si può sentire nel senso di euforia e di felicità. I semi sono femminizzati e autofiorenti, e ciò significa che sono facili da coltivare, anche per i principianti.Le piante hanno un periodo di fioritura di 9 settimane (63 giorni) e sono compatte nelle dimensioni, anche quando raggiungono la piena maturità. Ciò è vantaggioso per i coltivatori che vogliono coltivarle senza farsi notare, all’interno oppure all’esterno.Visivamente somigliano alle altre varietà dalla dominante indica, con uno stelo centrale spesso e molti rami fitti. I fiori di solito si formano intorno alla cola centrale, piuttosto che sui rami stessi. I coltivatori possono aspettarsi che le piante producano un raccolto di buone dimensioni, soprattutto visto che questa è una specie autofiorente.Uno dei maggiori vantaggi di una varietà automatica è la sua capacità di prosperare nella maggior parte dei climi, e questa specie non è diversa. Le piante crescono bene in gran parte delle località, anche in Paesi con estati più fresche e più brevi.Le piante rispondono bene alle tecniche di coltivazione più popolari, come SOG (Sea of Green = mare di verde), super cropping e lollipopping, quando i coltivatori hanno acquisito un po’ di esperienza.Effetto, sapore ed odore della Mandarin Punch AutofiorenteQuesta specie è al 60% indica, e in quanto tale, i consumatori possono aspettarsi un effetto di distensione di tutto il corpo dopo il consumo. Tuttavia, l’influenza sativa si può notare nel senso di euforia e nella creatività.Mentre le piante crescono, producono un aroma piacevolmente dolce e intenso agrumato, grazie alla combinazione di Diesel e Maple Leaf Indica. Questo profumo tende a rafforzarsi quando i bud si avvicinano al periodo del raccolto, ed è anche evidente durante la fase della stagionatura. Per quanto riguarda il sapore, aspettatevi che le note di frutta tropicale risaltino in primo piano, insieme a una dolcezza gustosa.In breveQuesta specie è a dominante indica, e di conseguenza le piante sono compatte. Ciò significa che sono più facili da coltivare senza farsi notare.L’aroma e il gusto sono entrambi fruttati, tropicali e agrumati.Aspettatevi un effetto che è profondamente rilassante per il corpo, mentre si crea un senso di felicità e di creatività.Il suo patrimonio genetico comprende le varietà vincitrici di premi Maple Leaf Indica, NYC Diesel, White Widow e Hindu Kush dalla reputazione impressionante.Come specie automatica può essere coltivata in gran parte dei climi, anche in quelli con temperature più fresche.La specie è anche femminizzata, e ciò significa che è più facile da coltivare, poiché i coltivatori non dovranno identificare ed eliminare le piante maschili.

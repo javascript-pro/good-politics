@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1520028"
+title: "Strawberry Kush Feminisierte Hanfsamen von White Label"
+description: "Die Strawberry Kush Feminisiert von White Label: 70 % Indica, 30 % Sativa. Ausgeprägtes Beerenaroma, intensives, entspannendes und glückliches High."
+image: "https://img.sensiseeds.com/de/feminisierte-samen/whitelabel/strawberry-kush-image.png"
+slug: "/de-strawberry-kush-feminisierte-hanfsamen-von-white-label"
+url: "https://sensiseeds.com/de/feminisierte-samen/whitelabel/strawberry-kush?a_aid=cannastore"
+price: 50
+currency: "eur"
+number_of_seeds: 10
+category: "Weibliche Samen"
+flowering_min: 50
+flowering_max: 70
+strain_type: "Feminized"
+climate_zone: "Sonniges / Mediterranes Klima"
+yield: "Großer Ertrag"
+heigh_gain: "Hochwachsende Pflanze"
+locale: "de"
+---
+Die Strawberry Kush Feminisiert von White Label ist eine Indicadominante Sorte mit süßem Erdbeergeschmack und -duft. Ihre Elternpflanzen sind die Strawberry Cough, eine legendäre kalifornische Sorte, und die OG Kush, eine gefeierte Indica. Die Sorte ist in der Lage, großzügige Erträge zu produzieren, insbesondere die höheren Phänotypen. Wachstumsmuster von Strawberry Kush Feminisiert von White Label Die Strawberry Kush Feminisiert ist zu 70 % Indica, 30 % Sativa. Obwohl sie indicadominant ist, weist sie viele wünschenswerte Sativa-Eigenschaften auf. Aus Samen gezogen, drückt sich die Varietät des Phänotyps meist durch kleine Unterschiede im Höhenwachstum und in der Blütezeit aus. Die Knospenbildung bleibt bei verschiedenen Phänotypen konsistent. Indoor gezogene Pflanzen haben eine Blütezeit von sieben bis zehn Wochen und verdreifachen in der Regel während der Blütezeit ihre Wuchshöhe. Erfahrene Züchter von Cannabis-Samen der Strawberry Kush Feminisiert von White Label neigen dazu, die höheren, länger blühenden Phänotypen für ihre höheren Erträge auszuwählen.Ursprünglich war die Strawberry Kush nur in geklonter Form erhältlich. Viele Indoor-Züchter dieser Saatgut-Sorte erzielen optimale Ergebnisse durch blühende Stecklinge von ausgewählten Mutterpflanzen. Pflanzen, die aus Samen gezogen werden, können einfach normal blühen und werden gute Ergebnisse erzielen, solange der zusätzliche Höhengewinn berücksichtigt wird. Dies macht die Cannabis-Samen der Strawberry Kush Feminisiert zu einer guten Wahl für die Kultivierung im Gewächshaus oder im Freien in einem warmen, sonnigen Klima, wo ihr sativabeeinflusster Höhengewinn ein Vorteil ist.Im Innenbereich eignen sich Strawberry Kush-Klone gut für ScrOG/SOG und Super-Cropping-Techniken. Größere Phänotypen eignen sich auch gut für Lollipopping, da sie den größten Teil ihres Ertrags in der oberen Hälfte jeder Pflanze erbringen. Obere Zweige neigen dazu, in einem steilen Winkel zu wachsen und oft mit der zentralen Cola zu verschmelzen. Wenn man also die ausladenden, weniger produktiven unteren Zweige entfernt, können Strawberry Kush-Pflanzen näher zusammen wachsen. In der Blütephase zeigt die Strawberry Kush das Beste aus ihrem Indica- und Sativa-Erbe. An jedem Knoten bilden sich schnell Kelchblätter, die dann die Lücken zwischen den Knoten bedecken. Die Blütentrauben verbinden sich schließlich miteinander und bilden große Colas am Hauptstamm und an der Spitze der Zweige. Diese Expansion im Haze-Stil wird durch die Dichte und Harzproduktion der afghanischen Indica (alias Kush) verstärkt. Das Endergebnis sind lange, funkelnde, feste Knospen, die nach der Ernte einen guten Teil ihrer Größe und ihres Gewichts behalten. Diskrete Züchter sollten beachten, dass das charakteristische Aroma dieser Sorte oft schon in der Blütephase vorhanden ist.Wirkung, Geschmack und Geruch von Strawberry Kush Feminisiert von White LabelDie Blütenstempel einiger wertvoller Strawberry Kush-Phänotypen beginnen rosa und verfärben sich mit zunehmender Reife der Blüten in ein tiefes Rot. Dies verleiht den getrockneten Knospen ein exotisches Aussehen, das zu ihrem spektakulären Aroma passt. Wenn sie richtig geerntet und getrocknet werden, werden ihr köstlicher Erdbeerduft und -geschmack viel stärker. Für einige Kenner ist der Duft der Blüten der Strawberry Kush schon fast berauschend.Obwohl dieses einzigartige Geschmacksprofil eines der erkennbarsten und ansprechendsten Merkmale der Strawberry Kush von White Label ist, darf nicht vergessen werden, dass es sich um eine hochwirksame Sorte handelt. Mit einer ausgezeichneten Harzproduktion, die sowohl von ihren Haze- als auch von ihren Kush-Eltern vererbt wird, verleiht die Strawberry Kush einen kraftvoll entspannenden Indica-Körperbuzz, der durch ein glückliches Sativa-High angehoben und verlängert wird.

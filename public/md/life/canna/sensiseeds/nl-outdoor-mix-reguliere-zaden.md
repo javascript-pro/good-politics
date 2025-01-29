@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1500033"
+title: "Outdoor Mix Reguliere zaden"
+description: "Outdoor Mix Regulier bevat 5 soorten; Early Skunk, Early Girl, Guerrilla’s Gusto, Ruderalis Skunk en Ruderalis Indica. Groeit goed in een koel klimaat."
+image: "https://img.sensiseeds.com/nl/cannabis-zaden/sensi-seeds/outdoor-mix-image.png"
+slug: "/nl-outdoor-mix-reguliere-zaden"
+url: "https://sensiseeds.com/nl/cannabis-zaden/sensi-seeds/outdoor-mix?a_aid=cannastore"
+price: 48
+currency: "eur"
+number_of_seeds: 25
+category: "Buiten"
+flowering_min: 40
+flowering_max: 40
+strain_type: "Regular"
+climate_zone: "Koel / koud klimaat"
+yield: "Mixed"
+heigh_gain: "Mixed"
+locale: "nl"
+---
+Outdoor Mix Regulier is de perfecte optie voor kwekers die verschillende variaties cannabis met veel indica tegelijkertijd willen uitproberen. Elke pack bevat een willekeurige mix van Guerilla’s Gusto, Ruderalis Indica, Early Girl, Early Skunk en Ruderalis Skunk. Ze produceren Regulier planten, wat goed van pas komt voor groei in de toekomst of voor experimenteel kruisen. Hoewel de planten allemaal van verschillende soorten zijn, hebben ze allemaal de typische indica geur; lekker skunky en scherp. De high is ook klassiek indica; kalmerend en verdovend. Groeipatroon Outdoor Mix RegulierOutdoor Mix Reguliere cannabiszaden zijn een willekeurige mix van 5 verschillende variëteiten met veel indica. Dit zijn: Early Skunk, Early Girl, Ruderalis Indica, Ruderalis Skunk en Guerrilla’s Gusto. De subtiele variaties tussen de soorten bieden nieuwe kwekers de mogelijkheid om te leren ze van elkaar te onderscheiden.De zaden zijn allemaal regulier, dus er wordt een mix van mannelijke en vrouwelijke planten geproduceerd. Dit is aantrekkelijk voor de meer ervaren kweker die in de toekomst mogelijk wil experimenteren met het kruisen van soorten. Dit betekent ook dat zaden kunnen worden gegenereerd voor toekomstige kweken. Omdat deze pack 5 verschillende soorten bevat, variëren de bloeitijden van plant tot plant. De bloeiperiodes zijn echter vrij kort omdat ze allemaal indica zijn. Dit komt van pas voor diegenen die binnen korte tijd resultaat willen. De eerste planten die toppen produceren zijn de van nature automatisch bloeiende variëteiten; eerst Ruderalis Indica, gevolgd door Ruderalis Skunk. Daarna zullen de andere soorten gaan bloeien. Early Girl kan vrij snel worden geoogst, op de voet gevolgd door Guerrillas Gusto. De laatste die geoogst kan worden is Early Skunk. De planten van Outdoor Mix Regulier groeien allemaal tot verschillende hoogten. Doorgaans zijn ze compacter als ze binnen gekweekt worden bij kunstlicht en geen van de planten wordt extra hoog als ze buiten gekweekt worden. Ze zien er allemaal anders uit, maar ze bezitten allemaal enkele van de indica kenmerken zoals meerdere takken en over het algemeen allemaal dik begroeid en stevig. De oogst is vaak ook heel goed met deze soorten, hoewel de automatisch bloeiende variëteiten vaak een kleinere oogst opleveren dan de andere planten. Kwekers waarderen vaak de eigenschap van Outdoor Mix Regulier om het goed te doen in een koeler klimaat. Dat komt omdat alle soorten stevig en veerkrachtig zijn, zelfs als het weer koud is. Lollipoppen en supercroppen zijn effectieve trainingstechnieken voor deze mix. Effect, smaak en geur van Outdoor Mix RegulierAlle planten van Outdoor Mix Regulier bevatten vele indica. Dit betekent dat de high doorgaans indica is van persoonlijkheid; een diepe, ontspannen stone voor het gehele lichaam die vaak lang aanhoudt. De automatisch bloeiende variëteiten zijn vaak minder krachtig. Daardoor geven veel gebruikers aan dat ze een goede optie zijn voor dagelijks gebruik.De geur van de plant is ook voornamelijk indica. Er zit een karakteristieke toon skunk in, gecombineerd met een algeheel aroma van aardsheid en een vleugje zoetheid en kruiden. De geur wordt vaak beter merkbaar naarmate de oogsttijd van de planten nadert en dit komt ook terug in de smaak. Wist je dat? Outdoor Mix Regulier een willekeurige mix van 5 variëteiten is en je geen idee hebt welk zaadje van welke soort is. Dit een goede keuze is voor mensen die hun identificatievaardigheden op de proef willen nemen.Alle 5 variëteiten zijn ontwikkeld om het goed te doen bij een koudere temperatuur. De soorten zorgvuldig zijn geselecteerd zodat ze elkaar aanvullen.Alle zaden van Outdoor Mix Regulier samen kunnen worden gekweekt.De mix het een geheel buitenseizoen volhoudt. Hoewel de planten bepaalde kenmerken met elkaar gemeen hebben (uiterlijk, geur en hoogte), bestaan er subtiele verschillen tussen de soorten.

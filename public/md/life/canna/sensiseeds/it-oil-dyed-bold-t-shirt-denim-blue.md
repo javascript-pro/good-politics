@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "3530113"
+title: "Oil Dyed Bold T-Shirt Denim Blue"
+description: "Rilassatevi con la Sensi Seeds Oil Dyed Bold T-Shirt: una t-shirt unisex in bel design urban e logo Sensi Seeds discreto. Acquistatela ora!"
+image: "https://img.sensiseeds.com/it/prodotti-sensi/original-streetwear/oil-bold-t-shirt-denim-blue-image.png"
+slug: "/it-oil-dyed-bold-t-shirt-denim-blue"
+url: "https://sensiseeds.com/it/prodotti-sensi/original-streetwear/oil-bold-t-shirt-denim-blue?a_aid=cannastore"
+price: 25.49
+currency: "eur"
+number_of_seeds: 0
+category: "Magliette"
+flowering_min: 0
+flowering_max: 0
+strain_type: ""
+climate_zone: ""
+yield: ""
+heigh_gain: ""
+locale: "it"
+---
+Rilassatevi con questa t-shirt discreta La Sensi Seeds Oil Dyed Bold T-Shirt è una t-shirt unisex in 100% cotone, in comodo design urban e tipico logo Sensi Seeds. La festa è pronta, così come il vostro look. Avete un look deciso ma vi sentite comodi nella vostra Sensi Seeds Oil Dyed Bold T-Shirt; essa riporta il tipico logo Sensi Seeds stampato dallinterno allaltezza del petto, per un bel effetto discreto. Con la finitura ad olio ed orli non rifiniti alle maniche ed al fondo, questa t-shirt è lindumento perfetto per la vostra serata fuori – perfetta per rilassarvi il giorno seguente. Il puro cotone di alta qualità rende la t.shirt particolarmente comoda, soffice e traspirante. Le cuciture esterne e la fettuccia al collo, che va da spalla a spalla, la rendono comoda e resistente. Tessuto di elevata qualità, colorata con colori ad olio e con etichette ricamate sul davanti e sulla manica. Il moderno design urbano di questa comoda t-shirt è unisex ed il suo stile casual si abbina bene a qualunque altro indumento. La Sensi Seeds Oil Dyed Bold T-Shirt è lindumento perfetto per le vostre notti selvagge fuori e le giornate pigre - e per tutte le occasioni in cui volete abbinare licona di Sensi Seeds al vostro look. 100% cotone: ultra morbida e calda Unisex Comodo design urban Disponibile in blu denim e grigio Logo stampato dallinterno per un effetto discreto Cuciture esterne e fettuccia al collo da spalla a spalla La Sensi Seeds Oil Dyed Bold T-Shirt fa parte della nostra collezione Sensi Seeds Streetwear – capi casual ma unici che rispecchiano il vostro stile di vita ed il vostro umore. La collezione urban basica è bella e confortevole – perfetta per uscire con stile – di elevata qualità, per un comfort duraturo. Dettagli del prodotto Materiale: 100% cotone Lavabile in lavatrice XS-XXL Per la Sensi Seeds Oil Dyed Bold T-Shirt abbiamo scelto un tessuto morbidissimo e duraturo, per la massima comodità. La t-shirt è disponibile nelle taglie da XS a XXL; scegliete la misura che vi sta meglio. Realizzata in 100% cotone, lavabile in lavatrice. Abbiatene cura e la Sensi Seeds Oil Dyed Bold T-Shirt resisterà alla prova del tempo diventando il vostro capo più indossato. Nota bene: i tessuti oil dyed possono differire dallimmagine

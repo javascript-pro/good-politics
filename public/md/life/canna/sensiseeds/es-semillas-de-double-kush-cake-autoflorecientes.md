@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1530017"
+title: "Semillas de Double Kush Cake Autoflorecientes"
+description: "Esta cepa 70 %, 10 % sativa y 20 % ruderalis, y con un tiempo de floración rápido, se cultiva en la mayoría de climas. Su efecto es relajante y calmado."
+image: "https://img.sensiseeds.com/es/research/double-kush-cake-autoflorecientes-image.png"
+slug: "/es-semillas-de-double-kush-cake-autoflorecientes"
+url: "https://sensiseeds.com/es/research/double-kush-cake-autoflorecientes?a_aid=cannastore"
+price: 60
+currency: "eur"
+number_of_seeds: 10
+category: "Sensi Seeds Research"
+flowering_min: 50
+flowering_max: 65
+strain_type: "Auto"
+climate_zone: "Frío / Fresco"
+yield: "Rendimiento elevado"
+heigh_gain: "Planta compacta"
+locale: "es"
+---
+La familia Kush se ha convertido en un elemento esencial de la reproducción de marihuana en los EE. UU. La Kush, mezclada con otras variedades, ha creado la mayoría de las cepas de marihuana más populares de los últimos años. La Doble Kush Cake contiene todos los mejores rasgos de la mayoría de nuestras variedades Kush, y es el tributo de Sensi Seeds a nuestra dinastía Kush. El sabor dulce y húmedo y los efectos relajantes traen la experiencia de la US Kush en casa.Esta cepa es 70 % indica, 10 % sativa y 20 % ruderalis. Es una variedad autofloreciente feminizada, lo que la convierte en una opción fácil de cultivar, incluso para los principiantes. Su impresionante patrimonio genético incluye las variedades Hindu Kush Auto, Skunk Kush y Afghani #1, y produce un efecto agradable y relajante, con un auténtico subidón indica. Las plantas desprenden un aroma agradable a tierra, dulce y skunky, y se pueden cultivar discretamente gracias a su tamaño compacto. Patrón de crecimiento de la Double Kush Cake Autofloreciente Esta variedad híbrida tiene un patrimonio genético prodigioso que incluye Afghani #1, Skunk Kush e Hindu Kush autoflorecientes. Gracias a la influencia ruderalis, las plantas son resistentes y se pueden cultivar en una gran variedad de climas; la dominación indica se hace evidente en el perfume y en la subida. Es una variedad feminizada y autofloreciente, 70 % indica, 10 % sativa y 20 % ruderalis. Esto significa que las semillas producen plantas que crecerán y florecerán como si fueran hembras, y empezarán a florecer automáticamente. Esto es una ventaja ya que los tiempos de floración son predecibles y no hay necesidad de cambiar los ciclos de luz si se cultivan en el interior. Como tal, es una buena opción para aquellos que no tienen demasiada experiencia en el cultivo. Gracias a los genes ruderalis, la variedad tiene un tiempo de floración corto de tan solo 7-9 semanas (de 49 a 63 días), lo que permite a los cultivadores disfrutar de una cosecha sin tener que esperar demasiado tiempo. La genética indica garantiza que las plantas sean compactas, incluso una vez alcanzada la altura máxima, de manera que son adecuadas para cultivarlas discretamente, tanto en interiores como al aire libre. Al igual que muchas variedades con dominación indica, las plantas son bajas, robustas y tupidas, con una cola central gruesa. Normalmente, los cogollos son grandes y densos, revestidos de una capa de resina. Aunque es una variedad automática, las cosechas son bastante grandes. Los cultivadores indican que se pueden conseguir entre 350 y 450 g/m2. Las plantas también son resistentes y crecen bien incluso en climas más temperados y fríos. Como opción alternativa, se puede cultivar en interiores durante todo el año. Los cultivadores más expertos pueden experimentar con las técnicas SOG (Mar verde) o Lollipopping para aumentar aún más los rendimientos. Efecto, sabor y aroma de la Double Kush Cake Autofloreciente Esta variedad es 70 % indica y su genética se hace muy evidente en el aroma, el sabor y el efecto. Al consumirla, los usuarios destacan la sensación agradable de relajación, combinada con un típico subidón indica. El perfume también es muy indica: terroso, húmedo y con un toque dulce. El aroma se intensifica a medida que la planta crece e, incluso, es más rico durante el proceso de curado de los cogollos. En cuanto al sabor, los usuarios pueden esperar unas notas de melaza y hachís. En resumen Esta variedad es feminizada y autofloreciente, lo que significa que es adecuada para cultivadores sin experiencia.Es una planta compacta que se puede cultivar discretamente tanto en interiores como al aire libre.El aroma es terroso, húmedo y con notas de hachís.Su patrimonio genético incluye Afghani #1, Skunk Kush e Hindu Kush Autoflorecientes.Las plantas son muy robustas y se pueden cultivar al aire libre en la mayoría de climas, incluso en aquellos más fríos y con veranos más cortos.

@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "4100034"
+title: "Vaporizador PAX 2"
+description: "Mejora tu experiencia de cannabis Sensi Seeds con el vaporizador PAX 2 portátil, compacto, fácil de usar y de alta tecnología. ¡Compre en línea hoy!"
+image: "https://img.sensiseeds.com/es/medicinal/vaporizadores/vaporizador-pax-2-image.png"
+slug: "/es-vaporizador-pax-2"
+url: "https://sensiseeds.com/es/medicinal/vaporizadores/vaporizador-pax-2?a_aid=cannastore"
+price: 149.99
+currency: "eur"
+number_of_seeds: 0
+category: "Vaporizers"
+flowering_min: 0
+flowering_max: 0
+strain_type: ""
+climate_zone: ""
+yield: ""
+heigh_gain: ""
+locale: "es"
+---
+Vaporizar la marihuana se considera una forma más saludable y más eficiente de beneficiarse de los cannabinoides. Potencialmente menos perjudicial que fumar, al tiempo que proporciona una experiencia satisfactoria para el consumidor, se ha convertido rápidamente en una opción muy popular. Los vaporizadores calientan las flores secas y liberan los compuestos en forma de vapor para que el consumidor los disfrute.Los dispositivos de vaporización PAX fueron creados para liberar los compuestos activos en el material vegetal a niveles de calor inferiores a la combustión, proporcionando lo mejor de los cannabinoides a los usuarios en un vapor suave.Sofisticado y Sin HumoEl vaporizador PAX 2 es refinado y elegante - de diseño compacto que cabe en tu bolsillo y con acabado en aluminio, viene disponible en cuatro colores. Es simple de usar: PAX 2 tiene un botón y un indicador LED que muestra la potencia y la temperatura. También es de alta duración ya que está construido con partes de gran calidad y respaldado con una garantía de 2 años, PAX 2 es un vaporizador en el que se puede confiarEquipado con una batería de alta capacidad que puede durar hasta cinco sesiones, el vaporizador PAX 2 está diseñado para un uso eficiente y duradero. Tiene cuatro controles de calor para que puedas ajustar tu experiencia de vapeo y el horno interno proporciona un calor constante y una producción óptima de vaporIncluso viene con algunas características de sorpresa, como juegos ocultos, ajustes de luz y tonos ... trata de encenderlo y girarlo tres veces!¿Qué hay en la caja?Cuando tu compras un vaporizador PAX 2, obtendrás todo lo que necesitas en una caja:Vaporizador PAX 2 Uno boquilla de siliconaUna base de carga magnética con cable USBUn kit de limpieza con alcohol isopropílico y limpiadores de tubosEnciende tu PAX Para poder utilizar el PAX 2 primero tienes que cargarlo. Conecta la base y el cable a una toma de corriente. Los pétalos blancos empezarán a pulsar y cuando se enciendan todos a la vez y dejen de ser intermitentes significa que la batería está completamente cargada. esto lo puedes comprobar agitándola suavemente.Retira la tapa magnética y cubre el horno fírmemente al menos a la mitad con el material de hoja suelta. Vuelve a colocar la tapa.Prueba ambas boquillas para ver cuál prefieres - son fáciles de cambiar. Presiona el centro de la boquilla para encender el vaporizador PAX 2 y espera a que los pétalos púrpuras pulsantes se vuelvan verdes. Estará listo a la temperatura más baja en unos 45 segundos. Un horno completo debe durar entre 10 y 25 inhalaciones.El vaporizador PAX 2 tiene cuatro ajustes de temperatura para que puedas personalizar tu experiencia. Simplemente tienes que mantener presionado el botón de la boquilla mientras el dispositivo está encendido y los pétalos cambiarán de amarillo a naranja y rojo a medida que aumenta la temperatura. Puedes cambiar de temperatura manteniendo presionado el botón de la boquilla de nuevo o agitando el dispositivo.Si el PAX no detecta tus labios por 20 segundos bajará unos pocos grados para preservar la temperatura interna de su material y lograr un drenaje perfecto. Después de 30 segundos, el horno se enfriará para conservar la vida de la batería - simplemente haz otra inhalación para calentarla automáticamente a la temperatura elegida. Después de tres minutos, el dispositivo se apagará por completo.Limpieza y mantenimiento.Para una mejor experiencia, limpia tu vaporizador PAX 2 cada pocos usos:Retire la boquilla y la tapa del horno.Toma un limpiador de pipa del kit de limpieza, sumergirlo en el alcohol isopropílico e insertarlo en la vía de vapor para hacer salir la pantalla del horno. Deslizar hacia adelante y hacia atrás para eliminar los residuos.Remoja la boquilla de silicona y la pantalla del horno en una taza de alcohol isopropílico, pero nunca sumerjas la tapa del horno en alcohol o agua.Limpia el interior del horno y la parte superior del dispositivo usando alcohol isopropílico. Asegúrate de que la pantalla del horno y la boquilla estén completamente secas antes de reemplazarlas.

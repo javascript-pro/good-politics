@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1500012"
+title: "Semillas de Shiva Shanti Regulares"
+description: "La Shiva Shanti Regular es un 85% indica. Posee un aroma agridulce, skunk. De buen rendimiento (sobre los 500g), su subidón es calmante, feliz y potente."
+image: "https://img.sensiseeds.com/es/semillas-de-cannabis/sensi-seeds/shiva-shanti-image.png"
+slug: "/es-semillas-de-shiva-shanti-regulares"
+url: "https://sensiseeds.com/es/semillas-de-cannabis/sensi-seeds/shiva-shanti?a_aid=cannastore"
+price: 36
+currency: "eur"
+number_of_seeds: 10
+category: "Interior"
+flowering_min: 50
+flowering_max: 55
+strain_type: "Regular"
+climate_zone: "Soleado/Mediterráneo"
+yield: "Rendimiento elevado"
+heigh_gain: "Planta compacta"
+locale: "es"
+---
+La Shiva Shanti Regular es un 85% indica, por lo que el colocón que provoca es potente y calmante a nivel corporal. Es una variedad asequible, fácil de cultivar, que alcanza una altura media y prospera bien en climas soleados. Los cultivadores a menudo disfrutan de su aroma agridulce y de su sabor skunk penetrante, además de los grandes rendimientos que ofrece sin necesidad de dedicarle mucho esfuerzo. Patrón de cultivo de Shiva Shanti RegularLas semillas de marihuana Shiva Shanti Regulares poseen una genética donde predomina la indica (un 85% para ser exactos). La variedad se desarrolló en los años 90 para celebrar la formación del Sensi Seed Bank, y es producto de un cruce entre una planta afgana llamada Garlic Bud y una variedad clásica de Kush.Esta es una versión regular de la variedad, lo que hace que sea la opción preferida para aquellos cultivadores que desean generar sus propias semillas. En este pack, las semillas producen plantas masculinas y femeninas. Las semillas regulares también son adecuadas para quienes quieren realizar cruces con otras variedades.La Shiva Shanti Regular posee un periodo de floración relativamente corto, tan solo entre 50 y 55 días. Esto significa que los cultivadores pueden alcanzar bastante rápido la etapa de la cosecha. Gracias a su genética indica, las plantas no tienden a alcanzar grandes alturas. De hecho, cuando se cultiva en interiores, es posible limitar su crecimiento entre los 100 y 160 cm. En exteriores estas cifras aumentan, situándose entre los 190 y 200 cm de media.Estructuralmente, las plantas son bastante frondosas, con hojas estrechas y oscuras. Pueden tener una apariencia rechoncha, con un tallo central grueso. La mayoría de los cogollos se forman alrededor del mismo, y por lo general son grandes y densos. También son duros al tacto, a menudo con forma de lanza. Los cultivadores informan que obtienen cosechas abundantes con la Shiva Shanti Regular sin necesidad de dedicar mucho esfuerzo. Cuando se cultiva en interiores, el rendimiento medio está en torno de los 500 gramos por metro cuadrado, y en exteriores gira alrededor de los 500 gramos por planta.Esta variedad se comporta especialmente bien en climas cálidos y soleados, como el mediterráneo. Debido a su ascendencia Kush, las plantas suelen estar listas para su cosecha a finales de septiembre o primeros de octubre. También se pueden cultivar en interiores (todo el año) o en un invernadero. La altura media permite que unos techos bajos no sean un problema. Las técnicas de entrenamiento de supercropping y lollipopping son ambas efectivas con la Shiva Shanti Regular, y proporcionan buenos resultados. Sin embargo, la mayoría de los cultivadores pueden disfrutar de unas cosechas considerables sin demasiado esfuerzo. Efecto, sabor y aroma de Shiva Shanti RegularLa Shiva Shanti Regular es indica dominante, y esto se nota en el subidón resultante. Es un colocón potente que experimenta todo el cuerpo, el cual es calmante, mejorando también los sentidos físicos, según indican los usuarios. El 15% de influencia sativa añade un toque estimulante al subidón. Las plantas no producen mucho olor, lo cual es útil para todos aquellos que quieren cultivarlas sin llamar la atención. Sin embargo, producen algo de aroma, agridulce por lo general, con toques skunk. Tras el curado, el olor se nota menos, pero el sabor skunk todavía resulta evidente. ¿Sabías que…?La Shiva Shanti Regular se nombró en honor a las hijas gemelas de Ben Dronkers, fundador de Sensi Seeds. También referencia al dios hindú, que a menudo se asocia con la marihuana. Algunos fenotipos desprenden un aroma notable a ajo.Debido a la altura media de la Shiva Shanti Regular y su aroma discreto, es la favorita entre quienes buscan que sus cultivos no llamen la atención.Es una variedad que se considera fácil de mantener, lo que significa que es una elección popular entre los cultivadores principiantes.

@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "4100034"
+title: "Vaporizador PAX 2"
+description: "Aperfeiçoe a sua experiência com canábis da Sensi Seeds com o Pax 2, um vaporizador portátil, compacto, simples e avançado. Compre já!"
+image: "https://img.sensiseeds.com/pt/uso-medicinal/vaporizadores/pax-2-vaporiser-image.png"
+slug: "/pt-vaporizador-pax-2"
+url: "https://sensiseeds.com/pt/uso-medicinal/vaporizadores/pax-2-vaporiser?a_aid=cannastore"
+price: 149.99
+currency: "eur"
+number_of_seeds: 0
+category: "Vaporizadores"
+flowering_min: 0
+flowering_max: 0
+strain_type: ""
+climate_zone: ""
+yield: ""
+heigh_gain: ""
+locale: "pt"
+---
+A vaporização de canábis é considerada uma forma mais saudável e eficiente de tirar partido dos canabinóides. Esta rapidamente ganhou popularidade, pois é, potencialmente, menos nociva do que fumar e a experiência proporcionada ao consumidor é satisfatória. Os vaporizadores aquecem as flores secas e libertam compostos na forma de vapor para o consumidor desfrutar.Os vaporizadores PAX foram criados para libertar os compostos activos das plantas com temperaturas inferiores às da combustão, proporcionando, deste modo, o melhor dos canabinóides com um vapor suave.Sem fumo e com muito estiloO vaporizador PAX 2 é requintado, cheio de estilo e conta com um design compacto (cabe no bolso) e um acabamento em alumínio escovado disponível em quatro cores. É muito fácil de usar: O PAX 2 tem um botão e um indicador LED que indica se está ligado e a temperatura. Foi feito para durar com materiais de alta qualidade e vem com 2 anos de garantia. O PAX 2 é um vaporizador com o qual pode contar.O PAX 2 foi concebido para uma utilização eficiente e duradoura e vem equipado com uma bateria de alta capacidade que pode durar até cinco sessões. Possui quatro configurações de temperatura para poder ajustar a sua experiência de vaporização e a câmara profunda proporciona uma temperatura consistente e uma produção de vapor optimizada.Inclui ainda algumas funcionalidades surpresa, como jogos ocultos, definições de luz e sons... Experimente ligá-lo e rodá-lo três vezes!O que vem na caixa?Quando compra um vaporizador PAX 2, receberá tudo o que precisa numa só caixa:O vaporizador PAX 2Um bocal de siliconeUma base de carregamento magnética com fio USB.Ligar o PAXTem de carregar o vaporizador PAX 2 antes de o usar pela primeira vez. Ligue a base e o fio a uma fonte de alimentação e coloque o vaporizador PAX na base para carregar. As pétalas brancas piscarão para indicar que está a carregar. Quanto estiver totalmente carregado, as quatro pétalas ficam acesas e param de piscar. Com o PAX ligado, agite-o cuidadosamente para verificar o estado da bateria, que é indicado pelas pétalas brancas.Retire a tampa magnética e encha a câmara até meio, pelo menos, com as folhas soltas, compactando-as. Volte a colocar a tampa.Experimente ambos os bocais para ver qual prefere – são fáceis de trocar. Pressione o centro do bocal para ligar o vaporizador PAX 2 e aguarde até as pétalas roxas ficarem verdes. Estará pronto a usar, na temperatura mínima, em cerca de 45 segundos. Uma câmara cheia permite entre 10 a 25 inalações.O vaporizador PAX 2 tem quatro configurações de temperatura para poder personalizar a sua experiência. Com o vaporizador ligado, pressione o botão do bocal e as pétalas passam de amarelo a laranja e, por fim, vermelho, à medida que a temperatura aumenta. Para sair do modo de temperatura, pressione novamente o botão do bocal ou agite o vaporizador.Se o PAX não sentir os seus lábios durante 20 segundos, este baixa a temperatura alguns graus para manter a temperatura interna do material e proporcionar-lhe a inalação perfeita. Após 30 segundos, a câmara arrefece para poupar a bateria. Basta inalar novamente para a voltar a aquecer automaticamente até à temperatura seleccionada. Após três minutos, o vaporizador desliga-se por completo.Limpeza e manutençãoPara uma melhor experiência, limpe o vaporizador PAX 2 após algumas utilizações:Retire o bocal e a tampa da câmara de aquecimento.Pegue num limpa-cachimbos, que é fornecido com o kit de limpeza, mergulhe-o no álcool isopropílico e insira-o no percurso do vapor para retirar o filtro da câmara de aquecimento. Empurre-o para a frente e para trás para remover os resíduos. Mergulhe o bocal de silicone e o filtro da câmara num recipiente com álcool isopropílico. Não mergulhe a tampa da câmara de aquecimento em álcool ou água.Limpe o interior da câmara e o topo do vaporizador com álcool isopropílico. Certifique-se de que o filtro da câmara e o bocal estão completamente secos antes de os voltar a colocar no vaporizador.

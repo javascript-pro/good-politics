@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1520024"
+title: "Pure Power Plant Automatic Hanfsamen von White Label"
+description: "Pure Power Plant Automatic von White Label: 50 % Indica. Euphorisierendes, anregendes High durch 30 % Sativa der kompakten Pflanze."
+image: "https://img.sensiseeds.com/de/feminisierte-samen/whitelabel/pure-power-plant-autoflowering-image.png"
+slug: "/de-pure-power-plant-automatic-hanfsamen-von-white-label"
+url: "https://sensiseeds.com/de/feminisierte-samen/whitelabel/pure-power-plant-autoflowering?a_aid=cannastore"
+price: 99.99
+currency: "eur"
+number_of_seeds: 10
+category: "Weibliche Samen"
+flowering_min: 45
+flowering_max: 55
+strain_type: "Auto"
+climate_zone: "Kühles / Kaltes Klima"
+yield: "Mittlerer Ertrag"
+heigh_gain: "Kompakte Pflanze"
+locale: "de"
+---
+Pure Power Plant Automatic von White Label kombiniert das Beste aus beiden Welten: eine einfache Kultivierung und ein intensives, belebendes High. Die Pflanzen haben eine wunderbaren speziellen pfeffrigen, würzigen Geruch und die Buds verströmen leckere Zitrusnoten. Dank des Indica-Erbes handelt es sich um eine kompakte Sorte, die diskret angebaut werden kann. Die Einbeziehung von Ruderalis-Genetiken bedeutet, dass die Pflanzen sogar in einem kälteren Klima gedeihen. Wachstumsmuster der Pure Power Plant AutomaticDie White Label Pure Power Plant Auto Hanfsamen kombinieren Indica-Genetiken (50 %) mit Sativa und Ruderalis (jeweils 30 % und 20 %). Diese beliebte Sorte wurde in den 1990ern entwickelt und ist seitdem ein starker Favorit bei Growern weltweit. Das Gleichgewicht zwischen Indica und Sativa bietet die Vorteile beider Cannabis-Typen: kompakte Größe und schnelleres Wachstum kombiniert mit einem vitalisierenderen High. Die Pflanzen enthalten auch 20 % Ruderalis, was sie widerstandsfähiger und robuster macht. Es handelt sich um eine autoflowering Cannabis-Sorte, wodurch sie sich für Einsteiger eignet. Die kräftigen Pflanzen wachsen schnell: Die Blüte beginnt ungefähr drei oder vier Wochen nach der Keimung, wobei die Blütezeit ca. 45 bis 55 Tage dauert. Der komplette Wachstumszyklus vom Säen bis zum Ernten erstreckt sich ca. über 70 Tage, was ideal für schnelle Ergebnisse ist. Einige Grower holen das Maximum aus diesem schnellen Wachstum heraus und profitieren von mehreren Ernten pro Jahr. Die Indica-Gene der White Label Pure Power Plant Auto bedeuten, dass die Pflanzen in der Regel kompakt sind. Tatsächlich werden die meisten nur ca. 80 bis 100 cm groß. Das heißt, sie können diskret in einem Gewächshaus oder Garten kultiviert werden. In Innenräumen sind sie normalerweise noch kleiner, mit einer durchschnittlichen Höhe von ca. 50 bis 70 cm. Dies ist bei begrenztem Platz ein Vorteil. Die Struktur der Pflanzen ist auch größtenteils Indica, mit einer kieferähnlichen Form und kurzen Internodien. Es sind in der Regel auch nicht viele seitliche Zweige vorhanden. Hinsichtlich der Ernte können Grower 250 bis 400 Gramm pro m2 oder 120 bis 180 Gramm bei Züchtung im Freien erwarten. Wenn die Buds sich entwickeln, werden die Sativa-Genetiken offensichtlicher. Sie sind von unzähligen dichten und klebrigen Trichomen bedeckt. Die Buds sind jedoch auch kompakt (was eher typisch für Indica-Varianten ist).Pure Power Plant Automatic ist eine widerstandsfähige, robuste Cannabis-Sorte, die gut in den meisten Klimazonen gedeiht; sogar mit kälteren, kürzeren Sommern. Die Pflanzen müssen gegen Ende der Blütephase ausreichend belüftet werden, um Probleme mit Schimmel zu vermeiden. Ansonsten sind sie außergewöhnlich leicht anzubauen. Wirkung, Geschmack und Geruch der Pure Power Plant AutomaticDank des Gleichgewichts zwischen Indica und Sativa ist die Pure Power Plant Automatic von White Label anregend, wirkungsvoll und stimuliert auch den Geist. Konsumenten berichten, dass diese Sorte für Energie und Enthusiasmus sorgt, wodurch sie sich gut für gesellige Ereignisse eignet. Sie ist auch unglaublich wirkungsvoll, was unerfahrene Konsumenten im Hinterkopf haben sollten. Beim Wachsen erzeugen die Pflanzen ein spezielles pfeffriges, holziges Aroma. Die Buds verströmen auch einen würzigen, berauschenden Geruch mit einer Zitrusnote, die geschmacklich spürbar ist. Wussten Sie? Die Pure Power Plant von White Label hat den 1. Platz in der Kategorie Best Medical Hybrid (Cannabis Cup) gewonnen.Sie zählt zu den am einfachsten anzubauenden Cannabis-Sorten.Die Pure Power Plant ist auch in einer anderen Variante verfügbar: Pure Power Plant Feminisiert von White Label.Sie wird seit den 1990ern in holländischen Coffeeshops verkauft und gehört weiterhin fest zum Inventar.

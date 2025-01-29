@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1500014"
+title: "Four-Way Reguläre Hanfsamen"
+description: "Four-Way Regular: 80 % Indica. Indian-, Afghani-, Pakistani- und Skunk #1-Genetiken. Große Erträge; Aroma und Geschmack: würzig und süß."
+image: "https://img.sensiseeds.com/de/hanfsamen/sensi-seeds/four-way-image.png"
+slug: "/de-four-way-regulare-hanfsamen"
+url: "https://sensiseeds.com/de/hanfsamen/sensi-seeds/four-way?a_aid=cannastore"
+price: 57
+currency: "eur"
+number_of_seeds: 10
+category: "Drinnen"
+flowering_min: 45
+flowering_max: 60
+strain_type: "Regular"
+climate_zone: "Sonniges / Mediterranes Klima"
+yield: "Großer Ertrag"
+heigh_gain: "Durchschnittliches Höhenwachstum"
+locale: "de"
+---
+Four-Way Regular besteht zu 80 % aus Indica. Dies wird im angenehmen, behaglichen und tief entspannenden High spürbar. Sie wurde aus verschiedenen anderen ertragreichen Sorten entwickelt, was sie perfekt für die weitere Kreuzung macht. Die Four-Way bietet insbesondere in Innenräumen oder im Freien unter warmen, sonnigen Bedingungen große Erträge. Grower genießen vor allem das starke, würzige Aroma und den Geschmack, der pfeffrig und süß ist. Wachstumsmuster der Four-Way RegularDie Four-Way Reguläre Hanfsamen bestehen zu 80 % aus Indica und zu 20 % aus Sativa. Diese Sorte ist das Ergebnis von mehreren Jahren sorgfältiger Hybridisierung, mit einem Fokus auf der Entwicklung eines stabilen Endprodukts, das die Vorteile der Elternpflanzen aufweist. In jeder nachfolgenden Generation wurden spezifische Pflanzen zur weiteren Stabilisierung rückgekreuzt oder in den nächsten Genotyp eingeführt. Schließlich war die Four-Way perfekt – ein Hybrid aus Afghani-, Pakistani- und Indian-Genetiken kombiniert mit Skunk #1.Es handelt sich um eine reguläre Variante. Das heißt, aus den Cannabis-Samen entstehen weibliche und männliche Pflanzen. Das Vorhandensein männlicher Pflanzen ist für diejenigen nützlich, die Samen für den zukünftigen Anbau oder für eigene Kreuzungsexperimente benötigen. Da es sich um ein Mehrfach-Hybrid handelt, sollten Grower mit Variationen rechnen, die in spannenden Kombinationen aus Eigenschaften resultieren können.Four-Way Regular hat eine relativ kurze Blütezeit (45 bis 60 Tage), was ein weiterer großer Vorteil ist. Das bedeutet, dass Grower schnell Ergebnisse erzielen und sogar mehrmals im Jahr ernten können. Die Cannabis-Sorte ist ziemlich kompakt. Die Pflanzen werden in Innenräumen nur ca. 1 bis 1,80 m groß. Unten den richtigen Bedingungen im Freien wachsen sie in der Regel höher – ca. 1,80 bis 2,50 m. Dies ist jedoch in einem durchschnittlichen Garten noch zu bewältigen. Die Pflanzen sind ansprechend und weisen unzählige Buds (hauptsächlich um den zentralen Stamm) und lange, elegante Blätter auf. Die Buds sehen schwer aus, sind dicht angeordnet und üppig mit glänzendem Harz überzogen. Der Ertrag ist ein weiterer wichtiger Aspekt der Four-Way Regular. Die Pflanzen brauchen in der Regel nicht zu viel Pflege und bieten selbst Einsteigern gute Ernten. Wenn sie in Innenräumen kultiviert werden, berichten Grower von ca. 500 Gramm pro m2. Im Freien liegt die durchschnittliche Ernte bei ca. 500 Gramm pro Pflanze. Four-Way Regular gedeiht gut in sonnigem Klima und braucht lange, warme Sommer, um ihr wahres Potenzial zu erreichen. Sie kann jedoch auch problemlos in Innenräumen unter künstlichem Licht und auch in einem Gewächshaus kultiviert werden. Erfahrene Grower können Supercropping und Lollipopping als Trimm-Verfahren für diese Sorte anwenden. Wirkung, Geschmack und Geruch der Four-Way RegularFour-Way Regular ist Indica-dominant, mit geringen Sativa-Genetiken. Daher ist das High normalerweise typisch Indica: ein starker Rauschzustand des gesamten Körpers, den Konsumenten als entspannend und einschläfernd beschreiben. Obwohl die Samen verschiedene Phänotypen erzeugen, riechen die Pflanzen in der Regel süß und haben eine pfeffrige, würzige Note. Sie haben auch einen Touch Erdigkeit, der offensichtlicher wird, wenn die Buds erntereif sind. Konsumenten beschreiben den Geschmack als süß und würzig, mit erdigen, bitteren Noten dank des Skunk #1-Einflusses. Wussten Sie? Four-Way Regular ist ein Mehrfach-Hybrid. Das bedeutet, dass es Variationen geben kann, wenn die Pflanzen aus Samen gegrowt werden. Obwohl Variationen wahrscheinlich sind, haben die meisten Pflanzen normalerweise gemeinsame Merkmale, wie große, dicke Buds. Die Four-Way Regular heißt so, da sie aus vier Sorten entwickelt wurde: Afghani, Pakistani, Indian und Skunk #1. Einige Grower behaupten, dass das Aroma nicht wirklich typisch Indica ist.Four-Way Regular wurde 1995 wieder auf den Markt gebracht und ist seitdem bei Growern sehr beliebt.

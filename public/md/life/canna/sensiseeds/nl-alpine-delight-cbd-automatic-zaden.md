@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1560028"
+title: "Alpine Delight CBD Automatic Zaden"
+description: "Alpine Delight CBD Autoflower is een robuuste kruising. De high is mild. De verhouding THC:CBD is 1:30. De opbrengst is hoog en de high ontspannen en mild."
+image: "https://img.sensiseeds.com/nl/gefeminiseerde-zaden/sensi-seeds/alpine-delight-cbd-automatic-image.png"
+slug: "/nl-alpine-delight-cbd-automatic-zaden"
+url: "https://sensiseeds.com/nl/gefeminiseerde-zaden/sensi-seeds/alpine-delight-cbd-automatic?a_aid=cannastore"
+price: 97.5
+currency: "eur"
+number_of_seeds: 10
+category: "Gefeminiseerde zaden"
+flowering_min: 63
+flowering_max: 65
+strain_type: "Auto"
+climate_zone: "Koel / koud klimaat"
+yield: "Enorme oogst"
+heigh_gain: "Compacte plant"
+locale: "nl"
+---
+Alpine Delight CBD Autoflower is een kruising tussen indica en sativa. Het is ontwikkeld uit twee opmerkelijke planten: Swiss Dream en Skunk #1, één van de meest bekende skunksoorten ter wereld. Deze planten zijn compact genoeg om onopvallend te kweken en produceren een aangename kruidige en aardeachtige geur. Ze gedijen ook in koudere klimaten en realiseren zonder al te veel werk een hoge opbrengst. De verhouding tussen THC en CBD is 1:30 en het effect is mild en ontspannend. Deze soort maakte oorspronkelijk deel uit van het Sensi Seeds Research Project 2019. Het was de hoogste tijd om te kiezen welke variëteiten vast in onze catalogus moesten worden opgenomen, en de reactie van de gemeenschap op deze soort was zo positief, dat we besloten hebben om Alpine Delight CBD Autoflower voorgoed in ons assortiment op te nemen.Over Alpine Delight CBD AutomaticAlpine Delight CBD Autoflower cannabiszaden zijn het resultaat van een kruising tussen indica en sativa: Swiss Dream en Skunk #1.De zaden zijn zelfbloeiend. Dit is een voordeel voor beginnende telers, omdat dit betekent dat de planten op een bepaald moment in hun groei automatisch gaan bloeien, zonder dat ze worden beïnvloed door de lichtcycli. Zelfbloeiend betekent dat de bloei beter kan worden voorspeld, waardoor de planten gemakkelijker te verzorgen zijn. Bovendien zijn zelfbloeiende zaden veerkrachtig en gedijen ze goed in bijna alle klimaten. Zelfs op plaatsen met koele en korte zomers kunnen ze goede resultaten opleveren. Alpine Delight CBD Autoflower heeft een vrij lange bloeiperiode (maar wel korter dan de niet-zelfbloeiende soorten). Maar het wachten is de moeite waard, want de planten kunnen verbazingwekkend grote opbrengsten realiseren. Ze worden ook niet echt hoog, wat een voordeel is voor wie ze wil kweken zonder al te veel aandacht te trekken. Het is een vrij gedrongen, bossige soort die in de bloeifase veel toppen zal opleveren. Deze toppen ontwikkelen zich meestal vanzelf, waarbij ze weinig zorg en aandacht nodig hebben. Dit resulteert in een recordoogst, zowel binnen als buiten. Deze soort is winterhard genoeg om op koudere, meer gematigde plaatsen te worden geteeld. Eventueel kunnen de planten ook het hele jaar door binnen worden gekweekt. Effect, smaak en geur van Alpine Delight CBD AutomaticAlpine Delight CBD Autoflower is een kruising tussen indica en sativa. De planten hebben ook een hoog percentage aan ruderalis genen, wat duidelijk naar voren komt in het feit dat ze in bijna alle klimaten goed gedijen. Het effect is subtiel en ontspannend. De verhouding tussen THC en CBD (1:30) maakt het effect zelfs zo mild dat deze soort in landen als Italië en Zwitserland als industriële hennep wordt geclassificeerd. Daarom is dit een geschikte keuze voor wie niet gewend is aan het gebruik van cannabis, of voor wie die aan het einde van de dag een soort zoekt die mild en rustgevend werkt. Nu er steeds meer belangstelling is voor CBD als gezondheidssupplement, zijn er steeds meer mensen die cannabis willen gebruiken in verband met het cannabidiolgehalte (CBD), zonder dat ze een THC-high hoeven te ervaren. Alpine Delight CBD Autoflower is hiervoor een perfecte keuze.De geur en smaak van Alpine Delight CBD Autoflower geeft duidelijk de genenpoel weer. Je ruikt zoete en kruidige tonen van Swiss Dream, maar je ervaart ook een aardeachtige skunkgeur en -smaak, door de invloed van Skunk #1. In een notendop De planten zijn compact genoeg om in kleine ruimtes, zowel binnen als buiten, te kwekenZe hebben een zoete, kruidige en licht aardeachtige geur en smaak, met een vleugje skunk.De verhouding tussen THC en CBD is 1:30Het THC-gehalte is zo laag, dat deze soort in sommige landen wordt geclassificeerd als industriële hennep.Omdat het autoflower planten zijn, kunnen ze in bijna alle klimaten worden gekweekt, zelfs in een klimaat met koelere en kortere zomers.

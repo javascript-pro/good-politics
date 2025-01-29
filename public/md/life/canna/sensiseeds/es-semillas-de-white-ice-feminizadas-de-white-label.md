@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1520008"
+title: "Semillas de White Ice Feminizadas de White Label"
+description: "La White Ice Feminizada de White Label es 80% indica y es pequeña (60 – 80 cm en interior). Su aroma es aceitoso, a madera. De subidón potente y relajante."
+image: "https://img.sensiseeds.com/es/semillas-feminizadas/whitelabel/white-ice-feminizada-image.png"
+slug: "/es-semillas-de-white-ice-feminizadas-de-white-label"
+url: "https://sensiseeds.com/es/semillas-feminizadas/whitelabel/white-ice-feminizada?a_aid=cannastore"
+price: 99
+currency: "eur"
+number_of_seeds: 10
+category: "Semillas Feminizadas"
+flowering_min: 45
+flowering_max: 55
+strain_type: "Feminized"
+climate_zone: "Soleado/Mediterráneo"
+yield: "Rendimiento elevado"
+heigh_gain: "Planta compacta"
+locale: "es"
+---
+La White Ice Feminizada de White Label ofrece un colocón potente, calmante, gracias a su genética 80% indica. Estamos ante una variedad compacta, por lo que es una buena elección para su cultivo discreto. Su nombre proviene de la resina que se forma en los cogollos, la cual recuerda a la escarcha (white ice en inglés significa hielo blanco). El aroma es agradable, dulce y picante, con un toque de madera. Los cultivadores a menudo disfrutan de rendimientos abundantes, incluso cuando la altura de las plantas está limitada. Patrón de cultivo de White Ice FeminizadaLas semillas de marihuana White Ice Feminizadas de White Label son un 80% indica, y se crearon a partir de las genéticas de la Northern Lights, Dutch Skunk y una variedad de hachís afgano. Esto da como resultado una variedad que provoca el clásico subidón indica y que genera una gran cantidad de cogollos, siendo así la cosecha muy abundante. Esta es la versión feminizada de la White Ice, lo que significa que la inmensa mayoría de las semillas darán lugar a plantas femeninas, siendo así el cultivo mucho más sencillo y con más probabilidades de ofrecer un mayor rendimiento por paquete.La White Ice Feminizada presenta un periodo de floración muy corto, entre los 45 y 55 días, algo que puede ser muy interesante para aquellos cultivadores que buscan resultados rápidos. Las plantas son compactas, especialmente si las cultivamos en interiores, y por lo general se puede limitar su altura entre los 60 y 80 cm. En exteriores, los cultivadores informan de que la White Ice Feminizada sí que es considerablemente más alta, a veces llegando a los 200 cm. En cuanto a la apariencia, esta variedad es una de las más atractivas. Durante la etapa de floración, la planta parece un árbol de Navidad centelleante, con su resina escarchada cubriendo los cogollos. La mayoría de estos cogollos tienden a formarse alrededor del robusto tallo central, siendo grandes y pesados. Considerando lo compacta que puede llegar a ser la White Ice Feminizada, sus rendimientos son realmente impresionantes. En interiores, bajo luz artificial, los cultivadores suelen generar alrededor de los 400 – 450 gramos por metro cuadrado. Si el cultivo es exterior, una única planta a menudo puede alcanzar los 650 gramos. Esta variedad se comporta bien en exteriores, pero necesita mucho calor y luz solar durante largos periodos de tiempo. Regiones como la mediterránea son las ideales, y la cosecha debe realizarse antes de que comiencen las lluvias.Los cultivadores han descubierto que las plantas se comportan bien cuando se aplican técnicas de entrenamiento como puede ser la SCROG (Pantalla de Verde) y SOG (Mar de Verde), siendo también efectivos el lollipopping y el supercropping.Efecto, sabor y aroma de White Ice FeminizadaLa White Ice Feminizada de White Label es un 80% indica y un 20% sativa. Su personalidad indica dominante se aprecia inmediatamente tras su consumo, pues provoca un subidón calmante y feliz. También deja al usuario relajado físicamente, sin llegar a ser un efecto excesivo. En cuanto al aroma, esta variedad produce un olor acusado, que se intensifica conforme los cogollos alcanzan el momento de la cosecha. Se puede describir como aceitoso, penetrante, a madera (con un toque dulce), y esto también se nota en el sabor. Los cogollos producen un humo denso, aromático, algo que los usuarios deben tener en cuenta. ¿Sabías que…?Aunque la White Ice Feminizada nunca ha ganado un premio en la Cannabis Cup, el consenso general es que se trata de una de las mejores variedades para la producción de hachís. Algunos cultivadores llaman a la White Ice Feminizada con otro nombre: Indica Crystal Extreme (I.C.E. para abreviar).La White Ice Feminizada de White Label está disponible bajo otra variante: White Ice Regular.Su nombre proviene de la enorme cantidad de resina que producen los cogollos, la cual es blanca y resplandeciente como el hielo.

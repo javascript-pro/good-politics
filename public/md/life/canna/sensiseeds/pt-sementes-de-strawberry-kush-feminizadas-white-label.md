@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1520028"
+title: "Sementes de Strawberry Kush Feminizadas White Label"
+description: "A Strawberry Kush Feminizada é 70% indica e 30% sativa. Oferece um distinto aroma e sabor de frutas, assim como um efeito relaxante intenso e alegre."
+image: "https://img.sensiseeds.com/pt/sementes-feminizadas/whitelabel/strawberry-kush-image.png"
+slug: "/pt-sementes-de-strawberry-kush-feminizadas-white-label"
+url: "https://sensiseeds.com/pt/sementes-feminizadas/whitelabel/strawberry-kush?a_aid=cannastore"
+price: 50
+currency: "eur"
+number_of_seeds: 10
+category: "Sementes Feminizadas"
+flowering_min: 50
+flowering_max: 70
+strain_type: "Feminized"
+climate_zone: "Solarengo/Mediterrânico"
+yield: "Grande Rendimento"
+heigh_gain: "Planta alta"
+locale: "pt"
+---
+A Strawberry Kush Feminizada White Label é uma variedade indica-dominante com um sabor doce e o perfume do morango. As suas plantas-mãe são a lendária espécie californiana Strawberry Cough e a OG Kush, uma famosa indica. Esta espécie é capaz de produzir rendimentos generosos, especialmente os fenótipos mais altos. Padrão de crescimento da Strawberry Kush Feminizada White LabelA Strawberry Kush Feminizada White Label é 70% indica e 30% sativa. Embora seja indica-dominante, apresenta muitas das características desejáveis de sativa. Cultivada a partir de sementes, a variação do fenótipo é expressa principalmente através de pequenas diferenças no ganho de altura e no tempo de floração. A formação de botões permanece consistente em diferentes fenótipos. As plantas interiores têm um tempo de floração de sete a dez semanas e geralmente triplicam sua altura vegetada à medida que florescem. Os produtores experientes das sementes de canábis Strawberry Kush Feminizada White Label tendem a selecionar os fenótipos mais altos e mais longos para obterem rendimentos mais elevados.Originalmente, a Strawberry Kush só estava disponível sob a forma de clone. Muitos produtores de interior desta variedade de sementes alcançam os melhores resultados com a floração por estacas de plantas-mãe selecionadas. As plantas cultivadas a partir de sementes podem ser simplesmente florescidas normalmente, estas produzirão bons resultados, desde que o ganho extra de altura seja levado em consideração. O que faz das sementes de canábis Strawberry Kush Feminizadas uma boa escolha para o cultivo quer em estufa como em exteriores num clima quente e ensolarado, onde o seu ganho de altura influenciado pela sativa é uma vantagem. No interior, os clones de Strawberry Kush são bem adaptados a técnicas scrOG/SOG e super-cropping. Fenótipos mais altos também são adequados para lollipopping, pois estes produzirão a maior parte do seu rendimento na metade superior de cada planta. Os ramos superiores tendem a crescer num ângulo íngreme e muitas vezes fundem-se com a cola central. Como tal, a remoção dos ramos inferiores mais expansivos e menos produtivos permite que as plantas da Strawberry Kush sejam cultivadas mais próximas umas das outras.No estágio de floração, a Strawberry Kush exibe o melhor da sua herança indica e sativa. Os cálices formam-se rapidamente em cada nó, para em seguida cobrirem os espaços internodais. Os aglomerados de flores eventualmente unem-se, formando grandes colas na haste principal e no topo dos ramos. Esta expansão no estilo Haze é fortificada pela densidade e produção de resina do Afegão indica (também conhecido como Kush). O resultado final são botões sólidos, longos e brilhantes, que mantêm uma boa proporção do seu tamanho e peso após a colheita. Os produtores mais discretos devem notar que o aroma característico desta cepa está frequentemente presente na fase de floração.Efeito, sabor e aroma da Strawberry Kush Feminizada White LabelOs pistilos de alguns fenótipos apreciados da Strawberry Kush surgem cor-de-rosa e mudam para um vermelho profundo à medida que as flores amadurecem. O que dá aos botões secos uma aparência exótica para combinar com seu aroma espetacular. Quando devidamente colhidos e curados, o seu aroma e sabor de morango de dar água na boca torna-se muito mais poderoso. Para alguns conhecedores, o aroma dos botões da Strawberry Kush é quase, por si só inebriante.Embora este perfil de sabor único seja uma das características mais reconhecíveis e atraentes da Strawberry Kush Feminizada White Label , não se esqueça que esta espécie é altamente potente. Com uma excelente produção de resina herdada de seus parentes Haze e Kush, a Strawberry Kush oferece um poderoso relaxante corporal indica que é complementado por um efeito relaxante alegre de sativa.

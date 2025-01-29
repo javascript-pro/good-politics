@@ -1,0 +1,24 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1560111"
+title: "Sensi Amnesia Automatic Hanfsamen"
+description: "Diese Sorte besteht zu 50 % aus Sativa, 20 % aus Indica und 30 % aus Ruderalis. Moderate Höhen, fruchtiges Aroma. High fröhlich, aufbauend und zerebral."
+image: "https://img.sensiseeds.com/de/feminisierte-samen/sensi-seeds/sensi-amnesia-automatic-image.png"
+slug: "/de-sensi-amnesia-automatic-hanfsamen"
+url: "https://sensiseeds.com/de/feminisierte-samen/sensi-seeds/sensi-amnesia-automatic?a_aid=cannastore"
+price: 71
+currency: "eur"
+number_of_seeds: 10
+category: "Feminisierte Samen"
+flowering_min: 0
+flowering_max: 0
+strain_type: "Regular"
+climate_zone: ""
+yield: ""
+heigh_gain: ""
+locale: "de"
+---
+Die Sensi Amnesia Automatic verfügt über einen ausgezeichneten genetischen Pool, einschließlich Elternpflanzen wie Jamaican Pearl, Hawaiian Indica und Afghani #1. Die Hawaiian Indica ist insofern eine ungewöhnliche Sorte, als dass die meisten Sorten aus dieser Gegend eher sativaartig sind, aber diese exklusive Sensi Seeds-Sorte kombiniert exotische Aromen von Ananas und tropischen Früchten mit sanfter Indica-Entspannung.Sie besteht zu 50 % aus Sativa, 20 % Indica und 30 % Ruderalis, und die Sativa-Dominanz zeigt sich im High, das zerebral und euphorisch ist. Als eine autoflowering feminisierte Sorte ist sie in den meisten Klimazonen leicht zu kultivieren, selbst für völlige Anfänger. Die Pflanzen produzieren ein spritziges, fruchtiges Aroma und einen fruchtigen Geschmack und wachsen bis zu moderaten Höhen. Wachstumsmuster der Sensi Amnesia Automatic Dieser Stamm hat drei bemerkenswerte Elternpflanzen in seinem genetischen Pool: Jamaican Pearl, Afghani #1 und Hawaiianische Indica. Die Jamaican Pearl ist eine preisgekrönte Sativa, und ihr Einfluss zeigt sich stark im High, das geschwätzig macht und zerebral wirkt.Die Sorte besteht nicht nur zu 50 % aus Sativa, sondern auch zu 20 % aus Indica und 30 % aus Ruderalis. Es handelt sich um eine feminisierte Variante, was bedeutet, dass die Samen zu Pflanzen heranwachsen, die als weibliche Pflanzen wachsen und blühen. Als solche müssen sich die Züchter nicht darum kümmern, unerwünschte männliche Pflanzen zu entfernen, um ihre Ernte zu steigern. Sie blüht auch automatisch, was ein großer Vorteil für diejenigen ist, die die Pflanzen in kühleren Klimazonen anbauen wollen. Einfach ausgedrückt, gedeiht diese Sorte an den meisten Standorten, sowohl drinnen als auch draußen. Die Sorte hat eine relativ lange Blütezeit von 10 bis 12 Wochen (70 bis 84 Tage). Der Vorteil der Autos erleichtert jedoch die Kultivierung der Sorte. Die Pflanzen können moderate Höhen erreichen, was für eine autoflowering Variante ungewöhnlich ist. Die Züchter können damit rechnen, dass sie 120 cm erreichen, wenn sie indoor gegrowt werden, und bis zu 210 cm, wenn sie im Freien gegrowt werden.Im Aussehen nehmen die Pflanzen eine konische Form an, mit einer schlanken Spitze und einer schwereren, buschigeren Basis. Die Buds sind recht kompakt und bilden sich entlang des Mittelstiels und am Ende der Seitenzweige. Bei richtiger Pflege werden die Pflanzen für eine Auto mäßig gute Erträge liefern. Die Ernten sind zwar nicht so erstaunlich wie bei anderen Sorten, aber die Leichtigkeit des Anbaus spricht wiederum für diese Sorte. Im Gegensatz zu vielen anderen Varianten wächst diese Sorte auch in kühleren Klimazonen mit kürzeren Sommern gut und benötigt nicht viel Pflege. Die Anbautechniken SCROG (Screen of Green) und SOG (Sea of Green) können von erfahreneren Züchtern angewendet werden, ebenso wie das Lollipopping.Wirkung, Geschmack und Geruch der Sensi Amnesia AutomaticDie 50 % Sativa-Genetik dieser Sorte kommt wirklich im High durch, was erhebend, erwachend und zerebral ist. Es gibt auch einen Hauch von Entspannung, dank des 20 %igen Indica-Einflusses. Das Aroma ist in der Persönlichkeit sativa-ähnlich. Die Züchter können erwarten, dass ihre Pflanzen einen scharfen, tropischen Duft mit Noten von exotischen Früchten und Zitrusfrüchten produzieren. Dieser Geruch wird in der Regel stärker, wenn die Pflanzen sich der Erntezeit nähern, und die Aromen setzen sich auch auf den Geschmack fort. Einige Anwender berichten auch, dass der Geschmack der Haze-Familie ähnlich ist. Kurz gefasstDer genetische Pool der Züchtung umfasst die preisgekrönte Jamaican Pearl, Hawaiian Indica und Afghani #1 AutomaticTrotz der Tatsache, dass es sich um eine autoflowering Sorte handelt, können die Pflanzen bis zu mäßig großen Höhen wachsen.Das Aroma und der Geschmack sind typisch für die Sativa; zitrusartig, fruchtig und exotischDas starke High macht gesprächig, wirkt aber auch zerebralAls Auto wachsen die Pflanzen in den meisten Klimazonen gut, auch in denen mit kühleren Temperaturen.Die Sorte ist feminisiert, was den Anbau erleichtert.
+eichtert.

@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1500009"
+title: "Nasiona Regularne Big Bud"
+description: "Nasiona Regularne Big Bud oferują wyjątkowo obfite zbiory. Dominacja genów Indica (85%) daje silny efekt odprężający. Słodki, korzenny aromat."
+image: "https://img.sensiseeds.com/pl/nasiona-konopi/sensi-seeds/big-bud-image.png"
+slug: "/pl-nasiona-regularne-big-bud"
+url: "https://sensiseeds.com/pl/nasiona-konopi/sensi-seeds/big-bud?a_aid=cannastore"
+price: 95
+currency: "eur"
+number_of_seeds: 10
+category: "Uprawa domowa"
+flowering_min: 50
+flowering_max: 65
+strain_type: "Regular"
+climate_zone: "Słoneczny/śródziemnomorski"
+yield: "Plon XXL"
+heigh_gain: "Średni przyrost wysokości"
+locale: "pl"
+---
+Nasze Regularne Big Bud zyskały popularność na całym świecie ze względu na imponujące plony tej rośliny. W szczepie dominują geny Indica (85%), co gwarantuje użytkownikom błogi, relaksujący haj. Big Bud wyróżnia się przede wszystkim ogromnymi, pokrytymi kryształkami szczytami o cudownie słodkim aromacie oraz smaku przypominającym melasę. Hodowcy, którym zależy na szybkich wynikach, docenią stosunkowo krótki okres kwitnienia. Wzór uprawy odmiany Regularnej Big BudNasiona zwykłe konopi Big Bud to hybryda odmian indica (85%) i sativa (15%). Dlatego w roślinach tych dominują cechy odmiany indica zarówno pod względem wyglądu, jak i wysokości. Odmiana ta ma ciekawą historię. Pierwotnie został wyhodowana w Stanach Zjednoczonych z wytrzymałych szczepów afgańskich oraz skunka. Dzięki obfitym plonom błyskawicznie zyskała powodzenie jako odmiana komercyjna. Popularność Big Bud w Stanach Zjednoczonych utrzymała się do czasu wojny z narkotykami, kiedy to hodowcy zostali zmuszeni do przemycenia hybrydy do Holandii, gdzie była dalej stabilizowana. Dzięki pracom badawczym w Sensi Seeds udało się przywrócić odmianie Big Bud jej oryginalne cechy — krzepkość i słodki aromat. Obecnie zawiera on geny dwóch uznanych i popularnych odmian — Skunk #1 i Northern Lights. Szczep Big Bud jest też dostępny w odmianie feminizowanej lub automatycznie kwitnącej. Omawiana tu odmiana regularna jest idealna dla użytkowników, którzy chcą uzyskać własne nasiona lub poeksperymentować z uprawą różnych szczepów. Rośliny mają stosunkowo krótki okres kwitnienia wynoszący od 50 do 65 dni. Przy uprawie na wolnym powietrzu zbiory prowadzi się zwykle w drugiej połowie października. Rośliny Big Bud najczęściej dorastają do średniej wysokości. W uprawie indoor osiągają wysokość od 80 do 160 cm, co jest korzystne w przypadku uprawy w mniejszych mieszkaniach. Na wolnym powietrzu dorastają do 180–200 cm, w związku z czym mogą wymagać nieco więcej przestrzeni. Ta odporna na grzyby i szkodniki odmiana ma zazwyczaj dość wąską strukturę, mniejszą liczbę liści w porównaniu z innymi konopiami oraz ogromne szczyty. Większość szczytów wyrasta wokół głównej łodygi, co ułatwia zbiór. Dla hodowców największą zaletą jest jednak obfity plon. W uprawie indoor często notowane są zbiory w zakresie od 500 do 600 g/m², a na wolnym powietrzu można uzyskać nawet 800–1200 g na roślinę. Hodowcy odmiany Regularnej Big Bud mogą liczyć na dużą liczbę ogromnych szczytów. Są one zbite i ciężkie — do tego stopnia, że gałęzie, na których rosną, niekiedy łamią się pod ich ciężarem, jeżeli nie są podparte. Gęsta, błyszcząca żywica pokrywająca szczyty daje pewną wskazówkę co do intensywności wrażeń, jakimi użytkownicy mogą się cieszyć po zbiorze. Big Bud najlepiej rośnie w ciepłym, słonecznym klimacie, na przykład śródziemnomorskim. Odmianę tę można też przez cały rok uprawiać indoor. Rośliny wyjątkowo dobrze reagują na zabiegi „supercropping” i „lollipopping”. Efekt, smak i aromat odmiany Regularnej Big BudOdmiana Regularna Big Bud ma duży udział genów Indica, co jest wyraźnie odczuwalne po konsumpcji. Użytkownicy mogą doświadczyć pełnego, uspokajającego haju ze szczyptą euforii dzięki wpływowi 15% genów Sativa. Odmiana jest ceniona za słodki aromat wydzielany podczas wzrostu, porównywany niekiedy do zapachu melasy — cukrowy z korzenną nutą. Zapach ten staje się bardziej intensywny po zbiorze pąków. W smaku wyczuwalna jest bogata, słodka nuta. Czy wiesz, że…? Odmiana Regularna Big Bud to jedna z najpłodniejszych odmian wyhodowanych przez Sensi Seeds. Jej rekordowe plony z pewnością zachwycą większość hodowców. Odmiana jest również dostępna jako odmiana Feminizowana Big Bud i odmiana Automatyczma Big Bud.Odmiana Big Bud powstała w Stanach Zjednoczonych w latach 80. ubiegłego wieku. Jest chętnie kupowana ze względu na obfite plony. Big Bud jest zdobywcą nagrody Cannabis Cup (w kategorii „Indica”).

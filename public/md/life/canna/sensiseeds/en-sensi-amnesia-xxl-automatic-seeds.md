@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1530038"
+title: "Sensi Amnesia XXL Automatic Seeds"
+description: "Sensi Amnesia XXL Automatic is an autoflowering plant that finishes flowering in 70 to 85 days. Produces large buds. Sweet, citrus, and lemon aromas."
+image: "https://img.sensiseeds.com/en/research/sensi-amnesia-xxl-automatic-image.png"
+slug: "/en-sensi-amnesia-xxl-automatic-seeds"
+url: "https://sensiseeds.com/en/research/sensi-amnesia-xxl-automatic?a_aid=cannastore"
+price: 80.01
+currency: "eur"
+number_of_seeds: 10
+category: "Sensi Seeds Research"
+flowering_min: 75
+flowering_max: 85
+strain_type: "Auto"
+climate_zone: "Temperate / Continental"
+yield: "Medium Yield"
+heigh_gain: "Compact plant"
+locale: "en"
+---
+Sensi Amnesia XXL Automatic is an excellent choice for gardeners that desire an easy-to-grow, low-maintenance strain. This new offering draws from the genetics of an original Amnesia, back-crossed with itself, and crossed with a Ruderalis. The effects please even the most sophisticated connoisseur. Uplifting, cerebral, cheerful, and long-lasting effects are a trademark of the Sensi Amnesia XXL Automatic experience.The growth pattern of Sensi Amnesia XXL AutomaticSensi Amnesia XXL Automatic seeds are an autoflowering variety, which is evident in this plants short and compact nature. Traits of the original Amnesia are present in the oversized fan leaves. The ruderalis influence introduces tight internodal spacing to the morphology. Cultivators are advised to defoliate when needed to increase the airflow within the canopy and expose bud sites to direct light.Once gardeners begin the see the female pistils growing from the junctures on upper branches, the flowering period begins. This stage will last for 70 to 85 days. An ideal candidate for gardens with low ceilings, Sensi Amnesia XXL Automatic, remains a compact plant. Indoors, finished heights of 80 to 100 cm can be expected. Outdoor gardeners will see an overall increase in size, typically reaching 90 to 120 cm by harvest day.Sensi Amnesia XXL Automatic is a medium yielding plant in various substrates, including coco, soil and hydroponics. A thin, slender plant, gardeners are able to tightly space containers. Indoor cultivators are rewarded for their wait, with harvests reaching 450 to 500 grams per meter squared. Outdoor gardeners have had yields averaging 200 to 250 grams per plant.The tight internodal spacing of Sensi Amnesia XXL Automatic stack together and form large buds. These stacked buds are loaded with thick, swollen bracts. The earthy green colour radiates from below a forest of flavour and cannabinoid packed trichomes. Suitable for growers of all levels, there is no special training required to succeed with Sensi Amnesia XXL Automatic.Effect, taste, and smell of Sensi Amnesia XXL AutomaticSensi Amnesia XXL Automatic draws from parts of its sativa lineage to produce specific citrus flavours in the dried flower. The effects of this strain have been compared with the satisfying effects from premier sativa buds. Gardeners will recognize Sensi Amnesia XXL Automatic as more sativa than ruderalis once the flowers are dried and cured.The effects from Sensi Amnesia XXL Automatic are celebrated for the powerful and cheerful impact it brings. A unique and thought-provoking cerebral high leads the way into an uplifting mindset. Sensi Amnesia XXL Automatic provides a long-lasting stone that stays around for most of the day. It turns that frown upside-down.Cultivators in small indoor gardens will notice that Sensi Amnesia XXL Automatic will have a detectable odour while growing. Having the right equipment to filter and clean the grow room air may be important if a heavy aroma is a concern. Although the scents are noticeable in the air, many people would find the slightly sweet and citrus notes pleasing.Once the careful process of drying and curing the flowers is complete, the terpene profile of Sensi Amnesia XXL really shines. The opposing sides of the sweet and sour meet as the natural sativa sweetness mingles with the sour and pungent notes coming to the surface. This beautifully chaotic terpene profile is wrapped up into a blanket of heavy lemon-citrus undertones produce an unbelievably groovy aroma.Sensi Amnesia XXL Automatic has a desired and straight forward flavour profile. Representing the sativa side of its genetics, this strain first greets the tastebuds with an embrace of sweet flavour. The sweetness shifts into an almost fruity profile midway through. In the end, the heavy lemon undertones rise to leave a lasting citrusy taste on the lips.Did you know? Sensi Amnesia XXL is a great strain for beginners and is an easy-to-grow, low-maintenance strain.

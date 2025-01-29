@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1500035"
+title: "Semillas de Durban Regulares"
+description: "La Durban Regular es una 90% sativa con un rendimiento abundante y subidones potentes. Resiste los veranos fríos y húmedos, siendo así fácil de cultivar."
+image: "https://img.sensiseeds.com/es/semillas-de-cannabis/sensi-seeds/durban-image.png"
+slug: "/es-semillas-de-durban-regulares"
+url: "https://sensiseeds.com/es/semillas-de-cannabis/sensi-seeds/durban?a_aid=cannastore"
+price: 61
+currency: "eur"
+number_of_seeds: 10
+category: "Exterior"
+flowering_min: 50
+flowering_max: 70
+strain_type: "Regular"
+climate_zone: "Frío / Fresco"
+yield: "Rendimiento elevado"
+heigh_gain: "Planta alta"
+locale: "es"
+---
+La Durban se ha ganado su puesto como una de las variedades de marihuana africana más famosa gracias a sus fantásticos rendimientos, su crecimiento robusto y el impresionante subidón que proporciona. Esta sativa al 90% ofrece cosechas fiables bajo casi cualquier condición ambiental, tanto en interiores como en exteriores, incluso en veranos fríos y húmedos. Principiantes y expertos se benefician por igual de la naturaleza potente y generosa de la Durban. Patrón de cultivo de Durban RegularLas semillas de marihuana Durban Regulares de Sensi Seeds son conocidas por ser una de las sativas más puras. En lo referente a su aspecto, la planta es algo más rechoncha y maciza que las sativas que habitualmente encontramos en climas más cálidos, las cuales son más altas y esbeltas. ¡Pero esto no afecta al subidón que proporciona!Esta variedad es capaz de proporcionar una gran cantidad de pegajosos cogollos, incluso si el verano resulta ser húmedo y frío. Es la favorita de aficionados y cultivadores gracias a su crecimiento predecible y rendimientos constantes.La Durban Regular es una variedad resistente que se puede cultivar prácticamente en cualquier sitio. Si quieres una sativa con rendimientos impresionantes que puede florecer con éxito incluso en climas fríos, húmedos y de veranos cortos, esta es la variedad que estabas buscando.Además, las plantas se suelen recuperar de la mayoría de los errores que se pueden cometer durante su crecimiento. Lo mismo se aplica a la hora de soportar un clima adverso en el caso de su cultivo en exteriores. En el interior, los cultivadores apreciarán la tenacidad de esta planta, especialmente útil cuando se experimenta con salas de cultivo (growrooms), o cuando se cultiva una variedad casi pura de sativa por primera vez.El periodo de floración de la Durban Regular puede ser de tan solo 50 días, con un máximo de diez semanas. Es sorprendentemente rápida para una 90% sativa. Sin embargo, la altura que alcanza es impresionante, algo de esperar. El crecimiento es rápido desde el comienzo de la floración hasta la propia cosecha. En algunos casos, las plantas pueden triplicar la altura inicial. Cuando se cultiva en exteriores en el suelo (no en maceteros) durante un verano caluroso, la Durban puede alcanzar unos dos metros.El patrón de crecimiento principal es el típico de las sativas, aunque presenta una mayor densidad de ramas laterales. La Durban es una planta elegante, esbelta y alta, con cogollos largos que forman espirales en torno a las ramas. También hay que añadir que esta variedad deja mucho espacio a la experimentación. Por ejemplo, podemos aplicar supercropping o entrenamiento. Sin importar la opción de cultivo, los rendimientos de la Durban Regular tienden a ser generosos. Este es el caso incluso cuando las plantas se dejan a su aire. Efecto, sabor y aroma de Durban RegularLa inmediatez del subidón puede desconcertar a aquellos que no están acostumbrados. No es gradual, así que si se consume vaporizada o fumada los efectos son casi instantáneos. Produce un subidón etéreo, sin que el usuario se sienta aletargado. Mientras las plantas están creciendo estas producen un aroma sutil, casi herbáceo. Una vez que comienza la floración, lo notarás algo más debido a las notas a cítricos. El olor se intensifica tras la cosecha y el secado, y el sabor recuerda al anís y al pino. ¿Sabías que…?Sensi Seeeds también ofrece la Durban Feminizada para aquellos que quieren una cosecha sin plantas masculinas.La prestigiosa publicación High Times incluyó a la Durban dentro de su clasificación de las 25 mejores variedades de todos los tiempos.Ha ganado premios en la categoría de Mejor Sativa en competiciones de marihuana.Durban debe su nombre a la tercera ciudad más poblada de Sudáfrica.Aparece en temas musicales, como en Durban Poison de Babylon Timewarp, o 30 Days in the Hole de Humble Pie.

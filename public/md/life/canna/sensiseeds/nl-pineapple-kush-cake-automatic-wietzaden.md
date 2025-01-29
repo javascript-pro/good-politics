@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1540003"
+title: "Pineapple Kush Cake Automatic wietzaden"
+description: "Pineapple Kush Cake Automatic wietzaden groeien uit van zaailing tot oogst in 80-90 dagen. Tropische soort met takuiteinden vol vette, lichtgroene toppen."
+image: "https://img.sensiseeds.com/nl/breeding-grounds/humboldt-seed-company/pineapple-kush-cake-automatic-image.png"
+slug: "/nl-pineapple-kush-cake-automatic-wietzaden"
+url: "https://sensiseeds.com/nl/breeding-grounds/humboldt-seed-company/pineapple-kush-cake-automatic?a_aid=cannastore"
+price: 54.99
+currency: "eur"
+number_of_seeds: 10
+category: "Breeding Grounds"
+flowering_min: 0
+flowering_max: 0
+strain_type: "Regular"
+climate_zone: ""
+yield: ""
+heigh_gain: ""
+locale: "nl"
+---
+Bereid je voor op de aantrekkelijke smaken van tropisch fruit en bitter lime en een ondertoon van chocolade. Pineapple Kush Cake Automatic cannabiszaden groeien uit tot een aromatische plant met voorspelbare effecten, en deze fruitige cultivar is ontwikkeld in samenwerking met Humboldt Seed Company als onderdeel van het Breeding Grounds Project. Deze autoflower, gefeminiseerde variëteit zal haar bloeifase zelf van start laten gaan en zal uitsluitend vrouwelijke planten creëren! Kwekers van alle niveaus kunnen genieten van een ruime oogst van dichte, lichtgroene bloemen vol trichomen. Groeipatroon van Pineapple Kush Cake Automatic Pineapple Kush Cake Automatic is het resultaat van een kruising tussen Banana Kush Cake Automatic van Sensi Seeds en Pineapple Muffin Automatic. Het resultaat is een 50/50-hybride die de meest aantrekkelijke kenmerken van beide genetica heeft overgenomen. De morfologie is traditioneel indica en komt tot uiting in de compacte structuur met weinig afstand tussen de knopen. Pineapple Kush Auto heeft stevige takken en heldergroene bladeren.Pineapple Kush Cake Automatic is een gefeminiseerde variëteit, wat betekent dat je geen mannelijke planten hoeft te identificeren en te verwijderen: alle zaadjes van Pineapple Kush Cake Automatic zullen namelijk uitgroeien tot bloemproducerende planten! Omdat dit een autoflower variëteit is, hoef je als kweker het lichtschema niet aan te passen om de bloei op gang te brengen. In een binnenomgeving bereikt de plant in het algemeen een bescheiden hoogte van 70-110 cm, terwijl planten van kwekers in buitenruimtes in een gematigd/continentaal klimaat doorgaans 80-120 cm hoog kunnen worden. Pineapple Kush Cake Automatic kan onder ideale omstandigheden in 80-90 dagen van zaailing tot oogst uitgroeien. Vanwege de snelle bloeifase en de geringe lengte is het niet gebruikelijk om trainingstechnieken als ScrOG, SOG, supercropping of lollipopping toe te passen.Ongeacht het kleine formaat van Pineapple Kush Automatic zal ze onder de juiste omstandigheden een grote oogst opleveren. Binnenkwekers kunnen genieten van een oogst van 250-300 gram per m², terwijl buitenkwekers een oogst kunnen behalen van 160-200 gram per plant. De toppen van Pineapple Kush Cake Automatic zijn vet en dicht, en tijdens de laatste fase van de bloeitijd zullen enkele schutbladeren zich opstapelen en licht omhoog groeien.Effect, smaak en geur van Pineapple Kush AutomaticPineapple Kush Cake Automatic biedt een aangename ervaring voor zowel gevorderde als beginnende gebruikers. Na inname word je overvallen door een kalmerend gevoel van geluk, waarna de verheffende en cerebrale effecten van start zullen gaan. Terwijl je geest zich in een vredige, euforische staat bevindt, wordt je lichaam overgenomen door een opwindende buzz. Je zult je in een fysieke staat van ontspanning begeven, maar nog steeds in staat zijn om je dagelijkse taken uit te voeren.Tijdens de groeifase vult Pineapple Kush Cake Automatic de kweekomgeving met een subtiele bloemenaroma, die gedurende de laatste weken van de bloeifase steeds sterker wordt. Na het drogen en curen van de toppen, wordt het terpenenprofiel gekenmerkt door een tropisch palet van fruitige aromas en heerlijke zoete, aardse en bittere geuren.Pineapple Kush Cake Automatic heeft een indrukwekkend smaakprofiel en na inname verras je je smaakpapillen met duidelijk aanwezige tropische smaken, waaronder vers geschilde ananas, sinaasappelsen grapefruit, die worden aangevuld met aroma’s van citrusachtige limoenmojito en subtiele chocolade-achtige ondertonen. De tropische profielen zullen je doen denken aan zonovergoten, paradijselijke stranden. Wist je dit? Pineapple Kush Cake Automatic is een uitstekende soort voor beginners.Ze heeft een ongelofelijk tropisch terpenenprofiel. Een van de ouders, Banana Kush Cake, is een kruising tussen Banana Kush en Wedding Cheesecake.

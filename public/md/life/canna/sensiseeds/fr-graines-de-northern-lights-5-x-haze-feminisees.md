@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1560009"
+title: "Graines de Northern Lights #5 x Haze Féminisées"
+description: "La Northern Lights #5 x Haze : dominante sativa (70/30). Taille : peut atteindre 3 m en extérieur. Rendements énormes. Parfum et goût : épicé et terreux."
+image: "https://img.sensiseeds.com/fr/graines-feminisees/sensi-seeds/northern-lights-5-x-haze-femelle-image.png"
+slug: "/fr-graines-de-northern-lights-5-x-haze-feminisees"
+url: "https://sensiseeds.com/fr/graines-feminisees/sensi-seeds/northern-lights-5-x-haze-femelle?a_aid=cannastore"
+price: 190.01
+currency: "eur"
+number_of_seeds: 10
+category: "Graines Féminisées"
+flowering_min: 65
+flowering_max: 75
+strain_type: "Feminized"
+climate_zone: "Méditerranéen/ Ensoleillé"
+yield: "Récolte XXL"
+heigh_gain: "Grande Plante"
+locale: "fr"
+---
+La Northern Lights #5 x Haze Féminisée a maintes fois été primée, et ce pour de bonnes raisons. Les cultivateurs profitent d’énormes rendements, et d’un high revigorant et tonique. Il s’agit d’une variété à 70 % sativa, mais la génétique 30 % indica transparaît dans ses nombreuses têtes résineuses. Le parfum est puissant et terreux, et possède des notes d’agrumes et de pin. Si l’on s’occupe bien des plantes mères, elles continueront de produire d’impressionnantes récoltes, année après année. Schéma de croissance de la Northern Lights #5 x Haze FéminiséeLes graines de Northern Lights #5 x Haze Féminisées (parfois surnommées NL5 x Haze) sont à 70 % sativa et à 30 % indica. Cette variété primée, créée par Sensi Seeds, affiche une dominante génétique sativa dans le high qu’elle procure (et dans son impressionnante taille) ; bien que l’influence indica soit évidente dans ses rendements abondants et dans ses têtes denses. Il s’agit de la variante féminisée, ce qui signifie qu’il est peu probable que les graines produisent des plantes mâles. C’est un grand avantage pour les cultivateurs qui souhaitent faciliter le processus de culture. Leur période de floraison est légèrement plus longue ; toutefois, cette attente supplémentaire est annulée par la courte période de végétation. Grâce à leur héritage, les plantes de Northern Lights #5 x Haze peuvent devenir très grandes. En particulier lorsqu’elles sont cultivées en extérieur. En fait, dans les conditions optimales extérieures, il n’est pas rare qu’elles atteignent entre 250 et 300 cm. En intérieur, elles deviennent moins grandes et l’on peut s’attendre à une taille allant de 120 à 170 cm. Structurellement, la NL5 x Haze tient de sa génétique sativa : elle est grande et élancée, et possède de longues branches. Ses têtes remplissent rapidement les espaces internodaux et, au fil du temps, deviennent longues et épaisses. En fait, les têtes terminales peuvent parfois devenir plus longues et plus larges que le bras du cultivateur ! Cette variété offre un rendement imposant. Les cultivateurs rapportent souvent des récoltes d’environ 450 g/m2 lors d’une culture en intérieur. En extérieur, le rendement est d’environ 800 g/plante. La Northern Lights #5 x Haze a une longue période de floraison et elle prospère davantage dans les climats chauds et ensoleillés qui profitent de longs étés. Elle s’accommode bien de plusieurs techniques d’entraînement, notamment SOG (Sea of Green), ScrOG (Screen of Green), le lollipopping et la super culture. L’effet, le goût et l’odeur de la Northern Lights #5 x Haze FéminiséeLa Northern Lights #5 x Haze Féminisée présente une importante dominante sativa. Cette influence est particulièrement évidente dans le high, lequel est exubérant, gai, et créatif. Les utilisateurs rapportent souvent ressentir un besoin de bavarder, ce qui en fait une bonne variété à consommer entre amis. Il ne faut toutefois pas sous-estimer l’élément indica. Il est ressenti plus tard, par l’expérience d’un high profond et relaxant qui détend le corps et l’esprit. Lors de la croissance, cette variété produit un agréable arôme d’épices et d’agrumes. Cet arôme s’intensifie à mesure que la récolte approche, et est très perceptible lorsque les têtes sont affinées. Attention : l’odeur est très puissante lors de la consommation ! On note également des notes de pin et d’agrumes au goût, ainsi que des pointes terreuses et sucrées. Le saviez-vous ? La Northern Lights #5 x Haze a été maintes fois primée, notamment lors de la High Life Cup et lors d’événements de la High Times Cannabis Cup.On surnomme également cette variété NL5 x Haze.Si l’on s’occupe bien des plantes mères, elles seront en mesure de produire, pendant une décennie, parfois plus longtemps, d’excellentes récoltes. La Northern Lights #5 x Haze est également proposée dans une autre variante :la Northern Lights #5 x Haze Régulière.

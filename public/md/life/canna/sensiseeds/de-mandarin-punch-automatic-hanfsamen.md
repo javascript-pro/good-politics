@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1530018"
+title: "Mandarin Punch Automatic Hanfsamen"
+description: "Sorte aus 60 % Indica, 20 % Sativa und 20 % Ruderalis. Kompakt, buschig und kann diskret gezüchtet werden. Wirkung entspannend, euphorisch, glücklich."
+image: "https://img.sensiseeds.com/de/research/mandarin-punch-automatic-image.png"
+slug: "/de-mandarin-punch-automatic-hanfsamen"
+url: "https://sensiseeds.com/de/research/mandarin-punch-automatic?a_aid=cannastore"
+price: 63
+currency: "eur"
+number_of_seeds: 10
+category: "Sensi Seeds Research"
+flowering_min: 65
+flowering_max: 70
+strain_type: "Auto"
+climate_zone: "Kühles / Kaltes Klima"
+yield: "Üppiger Ertrag"
+heigh_gain: "Kompakte Pflanze"
+locale: "de"
+---
+Diese Sorte rühmt sich einiger beeindruckender Mutterpflanzen, wie der preisgekrönten NYC Diesel, Hindu Kush, White Widow und Maple Leaf Indica. Sie besteht zu 60 % aus Indica, was das entspannte Couch-Lock-High erklärt, obwohl der 20%ige Sativa-Einfluss in der euphorisierenden Wirkung offensichtlich ist. Sie besteht auch zu 20 % aus Ruderalis und als autoflowering Variante gedeiht sie in den meisten Klimazonen. Die Pflanzen sind kompakt genug, um diskret angebaut zu werden, und produzieren ein zitrusartiges, tropisches Aroma. Die Dynastie der Punch-Stämme ist einer der neuen Cannabis-Trends aus den USA, der anderen Stämmen fruchtige Aromen verleiht. Die Mandarin Punch ist eine neue Ergänzung der Linie, die süße Zitrus-Mandarinen-Aromen in ihrer Aufmachung hervorhebt.Wachstumsmuster der Mandarin Punch AutomaticDiese von Sensi Seeds entwickelte Sorte verfügt über einen beeindruckenden Genpool. Zu ihren Mutterpflanzen gehören White Widow, Maple Leaf Indica, NYC Diesel und Hindu Kush; Stämme, die in der ganzen Welt hoch angesehen sind. Sie besteht aus 60 % Indica, 20 % Sativa und 20 % Ruderalis. Die Indica-Dominanz zeigt sich im Erscheinungsbild der Pflanzen, die kurz und kräftig sind, und im Stone, mit einem potenten Couch-Lock. Der Sativa-Einfluss ist jedoch auch im Sinne von Euphorie und Glücklichsein zu spüren. Die Samen sind feminisiert und autoflowering, was bedeutet, dass sie selbst für völlige Anfänger leicht zu züchten sind. Die Pflanzen haben eine Blütezeit von 9 Wochen (63 Tage) und sind selbst bei voller Reife kompakt. Dies ist von Vorteil für Züchter, die sie diskret im Haus oder im Freien kultivieren wollen. Optisch ähneln sie anderen indica-dominanten Sorten, mit einem dicken Mittelstamm und vielen buschigen Zweigen. Die Buds bilden sich normalerweise um die zentrale Cola herum und nicht an den Zweigen selbst. Die Züchter können erwarten, einen relativ großen Ertrag zu erzielen, vor allem, wenn man bedenkt, dass es sich um eine autoflowering Sorte handelt. Einer der Hauptvorteile einer Automatik ist ihre Fähigkeit, in den meisten Klimazonen zu gedeihen, und diese Sorte bildet da keine Ausnahme. Die Pflanzen werden wahrscheinlich an den meisten Standorten gut wachsen, selbst in Ländern mit kühleren, kürzeren Sommern. Sie können gut auf die meisten gängigen Anbautechniken wie SOG (Sea of Green), Supercropping und Lollipopping reagieren, sobald die Züchter ein wenig Erfahrung gesammelt haben. Wirkung, Geschmack und Geruch der Mandarin Punch AutomaticDiese Sorte ist zu 60 % indica, und als solche können die Anwender ein Ganzkörper-Couch-Lock nach dem Konsum erwarten. Der Sativa-Einfluss kann jedoch auch im Sinne von Euphorie und Kreativität erkannt werden. Während die Pflanzen wachsen, produzieren sie ein angenehm süßes und scharfes Zitrusaroma, das der Kombination von Diesel und Maple Leaf Indica zu verdanken ist. Dieser Duft verstärkt sich tendenziell, wenn sich die Buds der Erntezeit nähern, und wird auch während der Reifungsphase deutlich. In Bezug auf den Geschmack erwarten Sie, dass die Noten tropischer Früchte zusammen mit einer schmackhaften Süße in den Vordergrund treten. Kurz gefasstDiese Sorte ist indica-dominant, und als Folge davon sind die Pflanzen kompakt. Das bedeutet, dass sie leichter diskret wachsen können.Das Aroma und der Geschmack sind sowohl fruchtig, tropisch als auch zitrusartigErwarten Sie ein Stoned-Gefühl, das tief entspannend für den Körper ist und gleichzeitig ein Gefühl von Glück und Kreativität erzeugtZu ihrem genetischen Pool gehören Maple Leaf Indica, NYC Diesel, White Widow und Hindukusch, preisgekrönte Stämme mit beeindruckender Reputation.Als autoflowering Sorte kann sie in den meisten Klimazonen angebaut werden, auch in denen mit kühleren Temperaturen.Die Züchtung ist auch feminisiert, was bedeutet, dass sie leichter zu kultivieren ist, da die Züchter männliche Pflanzen nicht mehr identifizieren und entfernen müssen.

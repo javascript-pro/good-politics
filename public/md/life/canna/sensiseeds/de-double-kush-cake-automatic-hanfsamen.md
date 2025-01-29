@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1530017"
+title: "Double Kush Cake Automatic Hanfsamen"
+description: "Sorte zu 70 % aus Indica, 10 % aus Sativa, 20 % aus Ruderalis. Sie kann in den meisten Klimazonen angebaut werden. Wirkung entspannend, beruhigend."
+image: "https://img.sensiseeds.com/de/research/double-kush-cake-automatic-image.png"
+slug: "/de-double-kush-cake-automatic-hanfsamen"
+url: "https://sensiseeds.com/de/research/double-kush-cake-automatic?a_aid=cannastore"
+price: 60
+currency: "eur"
+number_of_seeds: 10
+category: "Sensi Seeds Research"
+flowering_min: 50
+flowering_max: 65
+strain_type: "Auto"
+climate_zone: "Kühles / Kaltes Klima"
+yield: "Üppiger Ertrag"
+heigh_gain: "Kompakte Pflanze"
+locale: "de"
+---
+Die Kush-Familie ist zu einem wesentlichen Element der Cannabiszucht in den USA geworden. Die Kush gemischt mit anderen Sorten hat viele der populärsten zeitgenössischen Cannabis-Sorten hervorgebracht. Die Double Kush Cake enthält die besten Eigenschaften unserer vielen Kush-Sorten und ist der Tribut von Sensi Seeds an unsere Kush-Dynastie. Die süßen, feuchten Aromen und die entspannende Wirkung bringen das US-Kush-Erlebnis nach Hause.Diese Sorte besteht zu 70 % aus Indica, 10 % aus Sativa und 20 % aus Ruderalis. Es handelt sich um eine feminisierte, autoflowering Variante, die auch für Anfänger leicht zu kultivieren ist. Ihr beeindruckender genetischer Pool umfasst Hindu Kush Automatic, Skunk Kush und Afghani #1, und sie produziert einen angenehm entspannenden Effekt mit einem echten Indica-Buzz. Der Duft ist angenehm erdig, süß und skunkig, und die Pflanzen können dank ihrer kompakten Größe diskret gezüchtet werden. Wachstumsmuster der Double Kush Cake Automatic Dieser Hybridstamm hat eine erstaunliche Abstammung mit einem genetischen Pool, der Afghani #1, Skunk Kush und Hindu Kush Automatic umfasst. Der Ruderalis-Einfluss sorgt dafür, dass die Pflanzen widerstandsfähig sind und in einer Vielzahl von Klimazonen angebaut werden können. Die Indica-Dominanz zeigt sich im Duft und im High. Es ist eine 70 % Indica-, 10 % Sativa- und 20 % Ruderalis-Sorte, die feminisiert ist und automatisch blüht. Das bedeutet, dass die Samen Pflanzen produzieren, die wachsen und blühen, als ob sie weiblich wären und automatisch zu blühen beginnen. Dies hat den Vorteil, dass die Blütezeiten vorhersehbar sind und dass es nicht notwendig ist, die Lichtzyklen zu ändern, wenn sie in Innenräumen wachsen. Daher ist es eine gute Wahl für diejenigen, die nur wenig Erfahrung mit dem Anbau haben. Dank der Ruderalis-Gene hat die Sorte eine kurze Blütezeit von nur 7 bis 9 Wochen (49 bis 63 Tage). Dies ist sehr schnell, so dass die Züchter eine Ernte genießen können, ohne zu lange warten zu müssen. Die Indica-Abstammung sorgt dafür, dass die Pflanzen auch in voller Höhe kompakt bleiben. Dadurch eignen sie sich für den diskreten Anbau, sowohl im Innen- als auch im Außenbereich. Wie viele Indica-dominante Stämme sind die Pflanzen kurz, kräftig und buschig, mit einer dicken zentralen Cola. Die Knospen sind in der Regel groß und dicht und von einer Harzschicht überzogen. Obwohl es sich um eine Autosorte handelt, sind die Ernten immer noch ziemlich groß. Die Züchter haben berichtet, dass sie etwa 350-450 g/m2 erzeugen. Die Pflanzen sind außerdem widerstandsfähig und gedeihen auch in noch kühleren, gemäßigteren Klimazonen. Alternativ können sie das ganze Jahr über in Innenräumen gegrowt werden. Erfahrenere Züchter sollten mit der SOG (Sea of Green) oder Lollipopping-Technik experimentieren, um den Ertrag weiter zu steigern. Wirkung, Geschmack und Geruch der Double Kush Cake Automatic Diese Sorte besteht zu 70 % aus Indica, und ihre Genetik zeigt sich stark im Aroma, Geschmack und Wirkung. Nach dem Konsum bemerken die Anwender das angenehm bekiffte, entspannte Gefühl, kombiniert mit einem typischen Indica-Buzz. Der Duft ist auch sehr indicaartig in der Natur: Erdig, feucht und mit einem Hauch von Süße. Das Aroma intensiviert sich, wenn die Pflanzen wachsen, und wird noch reicher, wenn die Buds geheilt werden. Was den Geschmack betrifft, so kann der Anwender Noten von Melasse und Haschisch erwarten. Kurz gefasstDiese Sorte ist feminisiert und autoflowering, was bedeutet, dass sie für Anfänger geeignet ist.Es handelt sich um eine kompakte Pflanze, die diskret angebaut werden kann, sowohl drinnen als auch draußen.Der Duft ist erdig, feucht und haschartig.Zu ihren Eltern gehören Afghani #1, Skunk Kush und Hindu Kush Automatic.Die Pflanzen sind sehr widerstandsfähig und können in den meisten Klimazonen im Freien angebaut werden, auch in kühleren Gebieten mit kürzeren Sommern.

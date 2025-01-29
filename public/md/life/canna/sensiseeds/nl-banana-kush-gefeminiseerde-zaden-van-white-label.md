@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1520032"
+title: "Banana Kush Gefeminiseerde zaden van White Label"
+description: "Banana Kush Gefeminiseerd van White Label is 70% indica, 30% sativa. Levert goede oogst, en een fruitige hasjgeur. De high is ontspannend en spraakzaam."
+image: "https://img.sensiseeds.com/nl/gefeminiseerde-zaden/whitelabel/banana-kush-image.png"
+slug: "/nl-banana-kush-gefeminiseerde-zaden-van-white-label"
+url: "https://sensiseeds.com/nl/gefeminiseerde-zaden/whitelabel/banana-kush?a_aid=cannastore"
+price: 60
+currency: "eur"
+number_of_seeds: 10
+category: "Gefeminiseerde Zaden"
+flowering_min: 50
+flowering_max: 65
+strain_type: "Feminized"
+climate_zone: "Zonnig / mediterraan klimaat"
+yield: "Enorme oogst"
+heigh_gain: "Compacte plant"
+locale: "nl"
+---
+Banana Kush kan zich beroemen op enige hoogwaardige sativa genetica. Deze omvatten de legendarische Silver Haze gekruist met Skunk Kush, en de beroemde smaakvolle, meestal sativa NYC Diesel. Ook soorten van Afghaanse Kush zijn aan beide zijden van de stamboom aanwezig. Skunk Kush vormt een belangrijke bouwsteen van de vaders kant, terwijl de trots van de Californische cannabis, OG Kush, de moederplant is die gebruikt wordt om Banana Kush van White Label te maken.Groeipatroon van Banana Kush Gefeminiseerd van White LabelBanana Kush Gefeminiseerde cannabiszaden zijn 70% indica, 30% sativa, en ze vertonen typische indica groeipatronen. De sativa invloed van deze soort is vooral te zien in de bloemstructuur en in de daaruit voortvloeiende hoogte. De groeihoogte is krachtig en betrouwbaar. De meeste planten ontwikkelen een dikke, productieve hoofdsteel en stevige takken met korte internodale ruimtes. Tijdens de bloeifase verhoogt Banana Kush Gefeminiseerd de groeihoogte gewoonlijk met 100% tot 150%. Banana Kush vertraagt de opwaartse groei in de eerste weken van de bloei als de eerste kelken zich ontwikkelen op de vele toppen van de plant. Tegen het midden van de bloeitijd van 7 tot 9 weken zal deze soort verschillende kleine, stevige, harsachtige kelken produceren bij elke knoop. Deze ontwikkelen zich snel tot dikke trossen bij de top. Bloemtrossen krijgen vaak een conische of piramidale vorm, waarbij de basis extra breed is en taps toeloopt naar een stompe punt. Door de extra krachtige knopvorming komen de uiterste toppen aan de top van de hoofdsteel van Banana Kush en de takken vaak samen met de bloemtrossen eronder, waardoor er grote colas ontstaan. Dit gebeurt ondanks de neiging van de kelken om zich te groeperen in trossen, in plaats van ertussen te ‘lopen’.In de bloeifase heeft Banana Kush van White Label opvallend weinig onderhoud nodig en kunnen de planten meestal aan hun lot worden overgelaten tot aan de oogsttijd. Tijdens de tweede helft van de bloei moet de luchtvochtigheid laag gehouden worden, vanwege de grootte en de strakke vorming van de toppen. Zoals veel zware indica soorten heeft ook Banana Kush veel voedingsstoffen nodig om optimale resultaten te produceren. Met het juiste verzorgingsniveau hebben de planten de neiging om super oogsten te produceren. Na de oogst drogen de toppen meestal snel, terwijl ze veel van hun grootte behouden. Voor grotere oogsten is een luchtontvochtiger of een goede luchtcirculatie in de droogruimte aan te bevelen, aangezien Banana Kush toppen een grote hoeveelheid water aan de lucht kunnen afgeven. Manicuren gaat ook eenvoudig, omdat de planten in de bloeifase een minimum aan bladeren produceren. Zelfs uit de grotere bloemtrossen groeien er relatief weinig enkele blaadjes.Effect, smaak en geur van Banana Kush Gefeminiseerd van White LabelBanana Kush van White Label is indica-dominant. De toppen zijn vet, fruitig en geurig, en kleverig met harsklieren. Ze zijn ook gemakkelijk te verkruimelen, door hun relatief kleine kelken. Bij het breken van de toppen komt het volle, complexe aroma van deze variëteit vrij. Reken op de geur en smaak van zoete, rijpe banaan, bruine suiker, citrus en rijke, kruidige hasj. Tijdens de groei is de geur niet overweldigend. De telers moeten er echter wel rekening mee houden dat de geur waarschijnlijk zal toenemen naarmate de oogst dichterbij komt.De effecten zijn meestal indica, maar er is genoeg sativa om de krachtige lichamelijke high te vergroten en zich daarmee te onderscheiden van andere Kush soorten. Het warme, ontspannende euforische effect van Banana Kush is vrijwel direct voelbaar. Kort daarna wordt het Haze-gedeelte van het cannabinoïdeprofiel van kracht, wat de high verheft waardoor deze meer bevorderlijk is voor conversatie, lachen en creativiteit.
