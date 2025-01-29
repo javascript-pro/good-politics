@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1500002"
+title: "Semillas de Jack Flash Regulares"
+description: "La Jack Flash Regular es 45% sativa y 55% indica. Puede alcanzar los 250 cm, y produce rendimientos impresionantes. Posee un aroma terroso característico."
+image: "https://img.sensiseeds.com/es/semillas-de-cannabis/sensi-seeds/jack-flash-image.png"
+slug: "/es-semillas-de-jack-flash-regulares"
+url: "https://sensiseeds.com/es/semillas-de-cannabis/sensi-seeds/jack-flash?a_aid=cannastore"
+price: 108
+currency: "eur"
+number_of_seeds: 10
+category: "Interior"
+flowering_min: 60
+flowering_max: 70
+strain_type: "Regular"
+climate_zone: "Soleado/Mediterráneo"
+yield: "Rendimiento elevado"
+heigh_gain: "Planta alta"
+locale: "es"
+---
+La Jack Flash Regular es un híbrido de alto rendimiento, producto del cruce de una Jack Herer con una Super Skunk y una Haze. En exteriores alcanza alturas prodigiosas, ofreciendo unos rendimientos impresionantes. Sin embargo, podemos limitar esta altura si las cultivamos en interiores. Los cogollos producen un aroma delicioso, terroso y cítrico, y la gran cantidad de resina generada se puede utilizar para elaborar extractos. Y el subidón de la Jack Flash, ¿cómo es? Vigorizante, creativo y estimulante. Patrón de cultivo de Jack Flash RegularLas semillas de marihuana Jack Flash Regulares ofrecen un equilibrio casi perfecto entre sativa (45%) e indica (55%). Sensi Seeds creó esta variedad a partir de la genética de la Jack Herer original, cruzándola con Haze y Super Skunk. El resultado es un subidón vigorizante, alegre, que es puro Jack Herer, combinado con los muchos beneficios que ofrecen las variedades indica. Estas semillas de marihuana corresponden a la versión regular, lo que significa que producen plantas masculinas y femeninas. Esto es perfecto para quienes desean generar sus propias semillas, o experimentar ellos mismos diversos cruces. El tiempo necesario para que la Jack Flash Regular complete su floración está dentro de la media, unos 70 días para completar toda la etapa. Cuando se cultiva en exteriores, las plantas alcanzan una altura notable. De hecho, no es raro ver que alcanzan los 180-250 cm. En interiores no son tan altas y, bajo las condiciones de crecimiento óptimas, pueden limitarse a unos 100 cm. De media, suelen estar en el rango de los 100 a 180 cm en los cultivos interiores. En lo referente a la estructura de las plantas, esta variedad tiene tendencia a mostrar una apariencia voluminosa, como una indica. Produce unos rendimientos sustanciosos, tanto en interiores como en exteriores. En interiores, los cultivadores por lo general informan de rendimientos que se sitúan alrededor de los 500 gramos por metro cuadrado. En exteriores, los informes citan unos 600 gramos por planta, una cifra bastante superior a las cosechas promedio de sativa. Las plantas poseen una formación de cogollos muy característica. Estos cogollos, que presentan una gran resistencia frente a hongos, son grandes y están densamente agrupados, formando cuerdas resinosas. Para obtener los mejores resultados, los cultivadores expertos a menudo recomiendan cultivar la Jack Flash Regular en un clima cálido, soleado, de veranos largos. Las plantas también crecen bien en interiores, y responden favorablemente a las técnicas de entrenamiento de supercropping y lollipopping.Efecto, sabor y aroma de Jack Flash RegularLa Jack Flash Regular es una variedad 55% indica y 45% sativa. Aunque la distribución es casi idéntica, el subidón tiene una marcada personalidad sativa. Los usuarios informan de que se sienten eufóricos y estimulados, y a menudo también conversadores y creativos. De hecho, es una elección muy popular para situaciones sociales. Los usuarios deben tener en cuenta que los efectos son casi inmediatos, y extremadamente potentes. Por eso, se recomienda a los usuarios no experimentados tener precaución.Mientras las plantas están creciendo producen un aroma skunk, penetrante. Aunque se nota, no es excesivo, algo muy útil si cultivamos en casa. El olor se intensifica conforme los cogollos se acercan al momento de la cosecha, haciéndose más húmedos e intensos. ¿Y el sabor? La mayoría lo encuentra bastante placentero, con notas a cítricos y madera exótica.¿Sabías que…?La Jack Flash es una variedad galardonada: ha obtenido premios en la Denver Cannabis Cup y en el Highlife Festival. Se nombra en el tema “Over the Pot (State of Grind)” interpretado por Gast.La popular Jack Herer es una de las plantas progenitoras de esta variedad.Gracias a su genética indica, es más fácil de cultivar que el resto de plantas sativa híbridas. Sin embargo, la poda de estas plantas requiere de una mayor experiencia.

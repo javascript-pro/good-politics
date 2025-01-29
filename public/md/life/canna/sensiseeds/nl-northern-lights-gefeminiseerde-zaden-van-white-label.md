@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1520003"
+title: "Northern Lights Gefeminiseerde zaden van White Label"
+description: "Northern Lights Gefeminiseerd van White Label is een soort met 90% indica. De planten zijn compact, geurarm en produceren een mooie oogst."
+image: "https://img.sensiseeds.com/nl/gefeminiseerde-zaden/whitelabel/-northern-lights-gefeminiseerd-image.png"
+slug: "/nl-northern-lights-gefeminiseerde-zaden-van-white-label"
+url: "https://sensiseeds.com/nl/gefeminiseerde-zaden/whitelabel/-northern-lights-gefeminiseerd?a_aid=cannastore"
+price: 108
+currency: "eur"
+number_of_seeds: 10
+category: "Gefeminiseerde Zaden"
+flowering_min: 45
+flowering_max: 55
+strain_type: "Feminized"
+climate_zone: "Zonnig / mediterraan klimaat"
+yield: "Enorme oogst"
+heigh_gain: "Compacte plant"
+locale: "nl"
+---
+Northern Lights Gefeminiseerd van White Label bevat het meeste indica. Dit komt echt goed terug in de high; een stone voor het gehele lichaam die inspireert tot ontspanning en creativiteit. De planten zijn kort genoeg om discreet te worden gekweekt en geven niet veel geur af tijdens de groei. Ze hebben een korte bloeitijd en genereren over het algemeen een ware recordoogst. Groeipatroon Northern Lights Gefeminiseerd van White LabelNorthern Lights Gefeminiseerde cannabiszaden zijn 90% indica en 10% sativa. De planten zien er standaard indica uit; compact, dichtbegroeid en breed. De dominantie van de indica is ook goed terug te vinden in de high die het produceert; heel ontspannen en sereen. Omdat de genetica zijn teruggekruist met de originele Afghaanse plant, staat deze soort snel in bloei en produceert het een grote hoeveelheid harsrijke toppen. Deze versie van de soort is gefeminiseerd, wat betekent dat er waarschijnlijk geen mannelijke planten uit zullen groeien. Daardoor is het kweken enorm eenvoudig. De planten hebben een relatief korte bloeitijd van slechts 45 tot 55 dagen. Daardoor is het een populaire soort onder de kwekers die meerdere keren per jaar willen oogsten of die gewoon snel resultaat willen boeken. Net als veel andere soorten met vele indica, is Northern Lights Gefeminiseerd vrij klein van formaat. De gemiddelde plant wordt zon 100 tot 120 cm groot, vooral als ze binnen worden gekweekt (hoewel ze soms ook wel 160 cm groot worden). Buiten groeien ze vaak groter en bereiken ze een hoogte van 180 tot 220 cm. De planten hebben het uiterlijk van een echte indica, met een compacte, gedrongen structuur. Doorgaans hebben ze veel takken en zijn ze dichtbegroeid met brede bladeren. De toppen zijn groot en stevig en richting het einde van de bloeiperiode raken ze bedekt met plakkerige hars. De opbrengst van Northern Lights Gefeminiseerd is erg indrukwekkend en dat is nog een mooi voordeel van deze soort. Indien binnen gekweekt, is het niet ongewoon dat kwekers rond de 500-550 gram per vierkante meter genereren. Buiten is de opbrengst niet minder omvangrijk, want één enkele plant produceert vaak 575 tot 625 gram. Het klimaat aan de Middellandse-Zee is ideaal voor Northern Lights Gefeminiseerd omdat deze het goed doet in een warm en zonnig klimaat met een lange zomer. Ze kunnen ook binnen het hele jaar door worden gekweekt of in een kas. Je kunt er verschillende trainingssystemen op loslaten. SOG (Sea of Green) en SCROG (Screen of Green) zijn beide effectief, maar lollipoppen en supercroppen zeker ook. Effect, smaak en geur van Northern Lights Gefeminiseerd van White LabelDeze soort bevat 90% indica en gebruikers melden een typische indica high bij consumptie. Zoals bij veel varianten met veel indica is de stone voornamelijk in het hoofd voelbaar en voelt ontspannen en intens. Sommigen melden zich creatiever of bedachtzamer te voelen. White Label Northern Lights Gefeminiseerd produceert niet veel geur tijdens de groei. Dat is een groot voordeel voor personen die discreet willen kweken of die niet willen dat de geur overheersend wordt in huis. De planten hebben een subtiele, aardse, kruidige geur die doorgaans niet echt veel sterker wordt nadat de toppen zijn geoogst. De bereide toppen hebben wel een beter merkbaar aroma, met een vleugje fruit en dennen, met de originele scherpe aardsheid. In de smaak zit volgens de gebruikers ook een vleugje citroen met een prettige zoete ondertoon. Wist je dat? Northern Lights vaak terugkomt in liedjes van over de hele wereld (voornamelijk in raplyrics)Northern Lights Gefeminiseerde planten het goed doen bij een hoog stikstofgehalteHet ook verkrijgbaar is in een andere variant; Northern Lights Automatic van White LabelHet een soort is met weinig geur, wat ideaal is voor als je binnen kweekt of als je discreet wilt kweken

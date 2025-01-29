@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1560101"
+title: "Super Skunk Automatic Seeds"
+description: "Super Skunk Automatic is an autoflowering 80% indica-dominant hybrid. It can be cultivated inside or outdoors, and is ideal for less experienced growers."
+image: "https://img.sensiseeds.com/en/feminized-seeds/sensi-seeds/super-skunk-automatic-image.png"
+slug: "/en-super-skunk-automatic-seeds"
+url: "https://sensiseeds.com/en/feminized-seeds/sensi-seeds/super-skunk-automatic?a_aid=cannastore"
+price: 66.01
+currency: "eur"
+number_of_seeds: 10
+category: "Feminized Seeds"
+flowering_min: 60
+flowering_max: 65
+strain_type: "Auto"
+climate_zone: "Temperate / Continental"
+yield: "Medium Yield"
+heigh_gain: "Average height gain"
+locale: "en"
+---
+Strong, sweet, and simple to grow, our Super Skunk Automatic is a favourite among beginners, and growers with limited time, space, or energy. The plants can thrive outdoors even in short summers and wet weather. For growers who are looking for compact plants that don’t need a lot of maintenance to produce solid buds, this strain is a perfect choice. Growth pattern of Super Skunk AutomaticSuper Skunk Automatic cannabis seeds produce potent, fast-flowering plants. They’re 80% indica, which means they’re typically compact. They’re also autoflowering, which is ideal for those with limited experience, energy, or time. The plants start to flower after a predetermined period, around three to five weeks after the seedlings appear. Although the appearance of the flowers is not impacted by the amount of daylight the plant receives, the plants will benefit from an extended light cycle (14 to 18 hours a day) to increase strength and yield. The flowering stage usually lasts seven to nine weeks, and the plants don’t revert to vegetative growth, even if the photoperiod is unpredictable. Usually, Super Skunk is grown indoors under lighting. However, this Automatic variant of Super Skunk can also thrive outside in temperate climates. If the summer is cooler, the plant’s autoflowering capability means its blooming time can be synchronised with the longest days of the season. This results in the buds and resin developing in the sun, rather than in the colder, damper autumn months. Super Skunk autoflowering plants are relatively compact, which means that techniques like topping and supercropping aren’t suitable in this instance. Most gardeners use Automatic strains to avoid as much maintenance and interference with the plants as possible. However, those with more experience and a curious nature might want to experiment with the Sea of Green (SOG), Screen of Green (SCROG) and lollipopping techniques. These all work well with the plant’s ‘bud on a stick’ growth pattern. The buds are dense, well-sized and bright green, with a generous coating of trichomes and large calyxes. Super Skunk Auto isn’t the biggest yielding strain, but will produce rewarding harvests. A larger growing space and longer hours of light during the flowering period help to maximise the yield. Make no mistake though, this plant’s buds are satisfying and by no means small. Effect, taste, and smell of Super Skunk AutomaticSuper Skunk Automatic’s scent often surprises people. Unlike other strains in this family, the aromas aren’t overpowering, and are reminiscent of sweet citrus. The base notes are warm and spicy like other skunk-type cannabis, which showcases the plant’s indica heritage. The aromas become more noticeable as flowering begins, but are not as overpowering as the Regular and Feminized expressions of Super Skunk. Scents reach their peak in the final week. After curing, the lemon smell of the buds becomes less prominent. However, once consumed, the flavours are immediately noticeable. Super Skunk Automatic’s effects are well suited for both recreational and medicinal use. The overall sensation is one of relaxation (thanks to the 80% indica), though there is an uplifting aspect to the buds, which is due to the sativa element. Plants that are cultivated outdoors tend to be less potent than those grown inside. This is true of most cannabis strains. This reduction in strength often appeals to those looking for a cannabis plant that offers good pain or stress relief, minus the intensity. It also makes it a good choice for those who are unused to consuming cannabis. Did you know? Super Skunk was first launched in 1990It has won several awards, including in the prestigious Cannabis CupGrowers of all experience levels can successfully cultivate Super Skunk Sensi Seeds also provides Super Skunk Regular and Super Skunk Feminized

@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "4100143"
+title: "Waporyzator Pax 3 kompletny zestaw Burgundy"
+description: "Poczuj niezwykłe działanie suszu i ekstraktu z konopi Sensi Seeds dzięki inteligentnej, intuicyjnej technologii waporyzatora PAX 3. Kup online teraz!"
+image: "https://img.sensiseeds.com/pl/medyczne/waporyzatory/fajka-wodna-pax-3-burgundy-image.png"
+slug: "/pl-waporyzator-pax-3-kompletny-zestaw-burgundy"
+url: "https://sensiseeds.com/pl/medyczne/waporyzatory/fajka-wodna-pax-3-burgundy?a_aid=cannastore"
+price: 249.99
+currency: "eur"
+number_of_seeds: 0
+category: "Vaporizery"
+flowering_min: 0
+flowering_max: 0
+strain_type: ""
+climate_zone: ""
+yield: ""
+heigh_gain: ""
+locale: "pl"
+---
+Waporyzatory pozwalają na wydajniejszą i wygodniejszą konsumpcję kannabinoidów, a ponadto są mniej szkodliwe dla zdrowia niż palenie, dając dokładnie takie same efekty. Pomyśl o suszonych liściach herbaty: uwalniają one swój aromat i kofeinę pod wpływem gorącej wody. Waporyzatory działają na podobnej zasadzie: poprzez ogrzanie materiału roślinnego uwalniają z niego związki zawarte w roślinie w formie bezdymnych oparów.Technologia waporyzacji PAX jest tak opracowana, aby po lekkim podgrzaniu z materiału roślinnego uwalniały się aktywne związki, tworząc łagodną i aromatyczną parę zawierającą kannabinoidy. Konsumuj liście lub ekstrakty bez dymuInteligentne, intuicyjne i błyskawicznie działające urządzenie PAX 3 to przenośny waporyzator o podwójnym zastosowaniu — do konsumowania suszu i ekstraktów. Posiada kompaktową budowę i wykończenie na wysoki metaliczny połysk dostępne w czterech kolorach — na tyle trwałe, że wytrzyma uderzenia i zadrapania. Waporyzator PAX 3 jest też łatwy w użyciu: ma jeden przycisk i wskaźnik LED-owy informujący o mocy i temperaturze. Jest też trwały: zbudowany z najwyższej jakości części i materiałów o kategorii medycznej, posiada ponadto 10-letnią gwarancję. Oznacza to, że waporyzator PAX 3 cię nie zawiedzie.PAX 3 zaopatrzony jest w baterię o dużej pojemności, która może wytrzymać do dziesięciu sesji, dzięki czemu zapewnia wydajne i długotrwałe użytkowanie. Urządzenie posiada cztery opcje ustawień temperatury, więc można wybrać swoją ulubioną. Głęboki podgrzewacz zapewnia z kolei stabilną temperaturę i optymalną ilość pary. I dzięki temu, że podgrzanie zajmuje tylko 15 sekund, praktycznie nie musisz czekać na tę przyjemność.Co znajdziesz w zestawie?Urządzenie PAX 3 oznacza wyższy poziom waporyzacji, oferując jeszcze więcej niż model PAX 2. Kupując waporyzator PAX 3, w jednym zestawie otrzymasz wszystko, co jest ci potrzebne do uzyskanie niezwykłego efektu:PAX 3wkład na koncentratdwa ustnikidwie pokrywytrzy sitkakabel i port do ładowania zestaw do konserwacji i narzędzie wielofunkcyjneJak odpalić waporyzator PAX 3Przed użyciem waporyzatora PAX 3 akumulator musi zostać naładowany. Podłącz jeden koniec kabla USB do portu ładowarki, a drugi do komputera. Włóż urządzenie PAX 3 do ładowarki. Białe płatki zaczną migać, wskazując, że ładowanie jest w toku; kiedy podświetlą się wszystkie cztery płatki i przestaną mrugać, bateria będzie naładowana. Kiedy urządzenie jest włączone, można sprawdzić stan baterii, potrząsając nim delikatnie — poziom naładowania wskażą białe płatki.Zdejmij pokrywę podgrzewacza i użyj wkładu na koncentrat albo za pomocą wielofunkcyjnego narzędzia napełnij podgrzewacz co najmniej do połowy suszem. Załóż pokrywę. Szczegółowe instrukcje znajdują się w instrukcji obsługi dla urządzenia PAX 3.Wypróbuj oba ustniki, aby zdecydować, który jest dla ciebie lepszy — są proste w wymianie. Aby uruchomić waporyzator PAX 3, naciśnij szybkim ruchem środek ustnika i czekaj, aż migające fioletowe płatki zmienią kolor na zielony. Zajmie to tylko 15 sekund — ułamek czasu, który był potrzebny na odpalenie waporyzatora PAX 2. I nie musisz już czekać pomiędzy inhalacjami — waporyzator PAX 3 jest natychmiast gotowy do użycia.Waporyzator PAX 3 posiada cztery opcje ustawień temperatury, więc można wybrać swoją ulubioną — przy włączonym urządzeniu wystarczy nacisnąć środek ustnika i przytrzymać przez dwie sekundy, aż płatki zmienią kolor z zielonego na żółty, pomarańczowy, a następnie na czerwony w miarę wzrostu temperatury. Aby wyjść z trybu ustawień temperatury, należy nacisnąć środek ustnika lub potrząsnąć urządzeniem.Czyszczenie i konserwacjaWaporyzator PAX 3 działa najsprawniej, gdy nic w nim nie zalega. Zatem musi być regularnie czyszczony za pomocą dołączonego zestawu do konserwacji. Do gruntownego czyszczenia użyj drucianej szczotki, a do usuwania mniejszych zanieczyszczeń — czyścika do fajki. Zdejmij ustnik i wyszoruj przewód parowania za pomocą szczotki lub czyścika do fajki. Podczas czyszczenia pokrywa podgrzewacza powinna być zdjęta.

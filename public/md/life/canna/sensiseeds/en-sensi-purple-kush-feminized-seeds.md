@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1560032"
+title: "Sensi Purple Kush Feminized Seeds"
+description: "Sensi Purple Kush Feminized seeds sprout into heavy-yielding plants with an indica leaning morphology. Full-bodied effects and musky undertones dominate."
+image: "https://img.sensiseeds.com/en/feminized-seeds/sensi-seeds/sensi-purple-kush-feminized-image.png"
+slug: "/en-sensi-purple-kush-feminized-seeds"
+url: "https://sensiseeds.com/en/feminized-seeds/sensi-seeds/sensi-purple-kush-feminized?a_aid=cannastore"
+price: 95
+currency: "eur"
+number_of_seeds: 10
+category: "Feminized Seeds"
+flowering_min: 55
+flowering_max: 60
+strain_type: "Feminized"
+climate_zone: "Temperate / Continental"
+yield: "Medium Yield"
+heigh_gain: "Average height gain"
+locale: "en"
+---
+About Sensi Purple Kush FeminizedSensi Purple Kush Feminized will blow minds with its extremely swollen bracts and a thick layer of trichomes that may have some growers asking if they have powdery mildew. The trichomes are that thick! Because these are feminized seeds, growers get a garden full of flower-producing plants, no wasted time growing and removing the males.Sensi Purple Kush Feminized is the offspring of three indica dominant varieties, Hindu Kush, Skunk Kush, and Maple Leaf Indica. Indica traits in the terpene profile of exotic wood and musk can be attributed to the Hindu Kush. Maple Leaf Indica is represented in the compact growth and thick leaf set. Some sativa influence from the Skunk Kush is detectable in the fruit flavours that take centre stage in the flavour profile. Growth pattern of Sensi Purple Kush FeminizedSensi Purple Kush Feminized seeds grow into a plant that reliably expresses the indica genes passed down from the parents. Flowering time spans 55-60 days until reaching its maximum cannabinoid potential and a bountiful harvest. Sturdy branches extend out from the main stem and create a compact appearance. Tight internodal spacing keeps branches close together, which can lead to excessive foliage. Sensi Purple Kush Feminized will benefit from defoliation in the later growth stages.Feminized seeds are an advantage to growers with limited space. Every seed sown will grow to be a plant that produces buds. Indoor gardeners with ideal conditions can grow a plant which reaches 120-140 cm vertically. A finished height in excess of 160 cm can be anticipated for outdoor growers with the right conditions.Yields of Sensi Purple Kush Feminized are impressively sized. With the right indoor environment, many growers can achieve yields of 450-500 grams per m². Outdoor growers in temperate/continental regions can experience yields of 550 grams per plant and above. The flowers of Sensi Purple Kush Feminized are chunky and dense. Extremely swollen bracts catch the eye as the numerous trichome heads come into focus. The plant material below the substantial covering of resin glands is a captivating combination of vibrant green and shades of purple from an autumn sunset. Sensi Purple Kush Feminized performs well under a variety of training techniques. SOG, SCROG, Supercroppping, and lollipopping can individually or in combination, help growers get the best results possible.Effects, taste, and smell of Sensi Purple Kush FeminizedSensi Purple Kush Feminized expresses the full-body, indica-dominant effects that people enjoyed about the parental stocks. It pleasantly blends the physically relaxing body buzz with impressive relief for tight muscles. Tension melts from the body as the mind enters a state of ease. This is an excellent strain for growers who like to sit back and contemplate.While Sensi Purple Kush Feminized produces flowers in the garden area, it can emit a detectable odour of pungent floral notes. Throughout the drying and curing process, the terpene profile matures into many layers. Pungently sweet and earthy aromas are the first to greet the nose. Distinctive undertones of sandalwood and musk follow.The small slice of sativa inheritance makes its presence known in the flavour. Sitting at the forefront of the tongue are sharp, almost bitter notes of fresh grapefruit and the sweet taste of wild berries. However, the indica side interjects deep musky and earthy undertones that linger on the tastebuds. Whether growers are an indica or a sativa fan, the flavour profile of Sensi Purple Kush Feminized has variety to please them all.Did you know? Sensi Purple Kush is a three-way cross of classic, award-winning genetics: Hindu Kush x Skunk Kush x Maple Leaf Indica. These seeds can be grown outdoors in regions that experience mild cold and rain.

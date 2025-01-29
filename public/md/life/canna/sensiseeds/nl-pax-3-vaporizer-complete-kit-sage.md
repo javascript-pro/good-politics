@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "4100142"
+title: "Pax 3 Vaporizer complete kit Sage"
+description: "Ga voor een epische Sensi Seeds-cannabiservaring met de slimme, intuïtieve, kant-en-klare PAX 3-verdamper. Voor losse bladeren en extract. Koop nu online!"
+image: "https://img.sensiseeds.com/nl/medicinaal/verdampers/pax-3-verdamper-sage-image.png"
+slug: "/nl-pax-3-vaporizer-complete-kit-sage"
+url: "https://sensiseeds.com/nl/medicinaal/verdampers/pax-3-verdamper-sage?a_aid=cannastore"
+price: 249.99
+currency: "eur"
+number_of_seeds: 0
+category: "Vaporizers"
+flowering_min: 0
+flowering_max: 0
+strain_type: ""
+climate_zone: ""
+yield: ""
+heigh_gain: ""
+locale: "nl"
+---
+Het consumeren van cannabinoïden is efficiënter en makkelijker met een verdamper. Het is gezonder dan roken en net zo bevredigend. Denk maar aan losse theeblaadjes: theeblaadjes geven hun aroma en cafeïne af aan het warme water. verdampers werken net zo. Door het plantmateriaal op te warmen komen de werkzame stoffen vrij in de vorm van rookloze damp.PAX-verstuivingstechnologie is ontworpen om de werkzame stoffen in plantmateriaal op lage temperatuur te laten vrijkomen en de ingrediënten, zoals cannabinoïden, in een zacht smakende aromatische damp te laten terechtkomen. Wees rookloos met blad of concentraatDe PAX 3-verdamper is intelligent, intuïtief en kant-en-klaar. Een tweeledige draagbare verdamper voor losse bladeren en extract. Hij is compact ontworpen met een zeer glad gepolijste metallic afwerking die tegen stootjes en krassen kan. Verkrijgbaar in vier kleuren. Hij is eenvoudig te gebruiken. De PAX 3 heeft één knop en een ledlampje dat het vermogen en de temperatuur aangeeft. Hij is tevens duurzaam, want gemaakt van onderdelen van absolute medische topkwaliteit. Met 10 jaar garantie is de PAX 3 een verdamper waarop je kunt rekenen.Hij is uitgerust met een zeer krachtige batterij die wel vijf sessies meegaat. Kortom, de PAX 3 is ontworpen voor efficiënt en langdurig gebruik. Hij heeft vier warmte-instellingen waaraan je je verstuifervaring kunt aanpassen en het diepe oventje zorgt voor een constante temperatuur en optimale productie van damp. En omdat het oventje al na 15 seconden op temperatuur is, hoef je nauwelijks te wachten met genieten.Wat zit er in de doos?De PAX 3 legt de verstuivingslat nog weer een stuk hoger en geeft je veel meer dan de PAX 2. Wanneer je een PAX 3-verdamper koopt, zit alles wat je nodig hebt voor een epische ervaring in één doos:De PAX 3ConcentraatinvoerTwee mondstukkenTwee ovendekseltjesDrie zeefjesOplaadkabel en laadstationEen onderhoudsset en een multitoolJe PAX 3 aanstekenVoordat je jouw PAX 3-verdamper kunt gebruiken, moet je hem opladen. Steek een kant van de USB-kabel in het oplaadstation en de andere in een computer. Zet je PAX 3 in het oplaadstation. De witte bloemblaadjes gaan ritmisch bewegen ten teken dat het opladen is begonnen. De verdamper is volledig opgeladen wanneer alle vier de blaadjes oplichten en niet meer ritmisch bewegen. Wanneer je PAX aanstaat, kun je de batterij controleren door de verdamper zachtjes te schudden. De witte bloemblaadjes geven het vermogen aan.Verwijder het ovendekseltje en gebruik de concentraatingang, of stop het oventje tot ten minste halverwege stevig vol met los bladmateriaal. Plaats het dekseltje weer terug. Raadpleeg de handleiding van de PAX 3 voor gedetailleerde instructies.Probeer beide mondstukken uit om te kijken welk jij het prettigst vindt. Ze kunnen makkelijk worden verwisseld. Druk kort op het midden van het mondstuk om je PAX 3-verdamper aan te zetten en wacht tot de ritmisch bewegende paarse bloemblaadjes groen worden. Dit duurt maar 15 seconden, een fractie van de tijd die de PAX 2 nodig heeft. En je hoeft niet meer te wachten tussen trekjes. De PAX 3-verdamper is kant-en-klaar.De PAX 3-verdamper heeft vier temperatuurstanden die je naar smaak kunt kiezen. Druk gewoon twee seconden op het midden van het mondstukknopje terwijl het apparaat aanstaat. De bloemblaadjes verkleuren van groen, naar geel naar oranje naar rood naarmate de temperatuur toeneemt. Je verlaat de temperatuurmodus weer door op het midden van het mondstukknopje te drukken of het apparaat te schudden.Reiniging en onderhoudDe PAX 3 werkt het best als er geen restanten inzitten. Maak hem dus regelmatig schoon met behulp van de meegeleverde onderhoudsset. Gebruikte de staalborstel voor zwaarder schoonmaakwerk of een pijpenrager voor het lichtere werk. Verwijder het mondstuk en schrob het dampkanaal met staalborstel of pijpenrager. Verwijder tijdens het schoonmaken het ovendekseltje.

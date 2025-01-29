@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1520003"
+title: "Nasiona Feminizowane Northern Lights White Label"
+description: "Odmiana Feminizowana Northern Lights White Label to w 90% Indica. Rośliny są niewielkie, nie wytwarzają mocnego zapachu i dają spore plony."
+image: "https://img.sensiseeds.com/pl/nasiona-feminizowane/whitelabel/northern-lights-zenska-image.png"
+slug: "/pl-nasiona-feminizowane-northern-lights-white-label"
+url: "https://sensiseeds.com/pl/nasiona-feminizowane/whitelabel/northern-lights-zenska?a_aid=cannastore"
+price: 108
+currency: "eur"
+number_of_seeds: 10
+category: "Nasiona feminizowane"
+flowering_min: 45
+flowering_max: 55
+strain_type: "Feminized"
+climate_zone: "Słoneczny/śródziemnomorski"
+yield: "Obfity plon"
+heigh_gain: "Roślina o zwartej budowie"
+locale: "pl"
+---
+W genetyce odmiany Feminizowanej Northern Lights White Label dominuje odmiana Indica. Jest to wyraźnie widoczne w efekcie, które obejmuje całe ciało, sprzyjając odprężeniu i kreatywności. Rośliny są na tyle niskie, by można było uprawiać je dyskretnie, a ponadto w fazie wzrostu nie wytwarzają mocnego zapachu. Ich okres kwitnienia jest krótki, a plony są zazwyczaj obfite. Wzór uprawy odmiany Feminizowanej Northern LightsNasiona Feminizowane Northern Lights to w 90% Indica i 10% Sativa. Rośliny mają budowę typową dla Indica — są niewysokie, bujne i szerokolistne. Dominację Indica można też zauważyć w haju, który wprowadza w stan odprężenia i błogości. Dzięki skrzyżowaniu wstecznemu z pierwotną afgańską rośliną odmiana szybko kwitnie i wytwarza mnóstwo szczytów oblepionych żywicą. Ponieważ jest to odmiana feminizowana, wytwarzanie roślin męskich jest bardzo mało prawdopodobne. Dzięki temu uprawa jest niezwykle łatwa. Rośliny mają też krótki okres kwitnienia, który wynosi zaledwie 45–55 dni. Szczep cieszy się popularnością wśród hodowców, którzy chcą uzyskać kilka zbiorów w ciągu roku lub po prostu oczekują szybkich rezultatów. Podobnie jak w przypadku większości odmian z dominacją Indica, rośliny odmiany Feminizowanej Northern Lights są niskie. Średnio uzyskują wysokość ok. 100–120 cm, szczególnie w uprawie indoor (choć czasem może zdarzyć się, że osiągną nawet 160 cm). W uprawie outdoor są zazwyczaj wyższe — niektóre rośliny sięgają 180–220 cm. Wygląd jest bardzo typowy dla Indica — rośliny są niewysokie i przysadziste. Zazwyczaj mają dużo odgałęzień z szerokimi liśćmi, co nadaje im krzaczasty charakter. Szczyty są duże i zbite, a pod koniec okresu kwitnienia pokrywają się lepką żywicą. Plony odmiany Feminizowanej Northern Lights naprawdę robią wrażenie, co jest kolejną zaletą tego szczepu. Przy uprawie indoor hodowcy nierzadko uzyskują 500–550 gramów na metr kwadratowy. W uprawie outdoor plony są porównywalnie duże — z każdej rośliny często powstaje ok. 575–625 gramów produktu. Odmiana Regularna Northern Lights dobrze rośnie w ciepłych, słonecznych krajach z długim latem, zatem idealnie nadaje się do uprawy w klimatach śródziemnomorskich. Rośliny można również hodować w szklarni lub indoor przez cały rok. Dobrze reagują na różne techniki treningu. Sprawdzi się metoda „morza zieleni” (SOG) i „zielonego ekranu” (SCROG), a także zabiegi lizakowania („lollipopping”) i nadłamywania łodyg („supercropping”). Efekt, smak i aromat odmiany Feminizowanej Northern LightsOdmiana to w 90% Indica, a użytkownicy potwierdzają, że haj jest typowy dla tej genetyki. Podobnie jak w przypadku wielu innych odmian z przewagą genów Indica efekt jest intensywny, mózgowy i wywołuje uczucie odprężenia. Niektórzy twierdzą, że sprzyja kreatywności i rozmyślaniom. Rośliny odmiany Feminizowanej Northern Lights White Label nie wytwarzają silnego zapachu podczas wzrostu. Jest to duża zaleta dla osób, które chcą prowadzić uprawę dyskretnie, bądź nie chcą, by zapach zdominował ich dom. Rośliny mają delikatny ziemisty i korzenny aromat, który nie przybiera na sile do czasu zebrania szczytów. Natomiast po zbiorze szczyty mają silniejszy aromat z owocowymi i sosnowymi nutami, zachowując przy tym wyczuwalną wcześniej wyraźną ziemistość. Użytkownicy twierdzą, że w smaku zdecydowanie wyczuwalna jest cytryna z odrobiną przyjemnej słodyczy. Czy wiesz, że…? Odniesienia do Northern Lights można usłyszeć w szeregu utworów muzycznych (zwłaszcza hip-hopowych) z całego świata.Wzrostowi odmiany Feminizowanej Northern Lights sprzyja obecność sporych ilości azotu. Dostępna jest też inna odmiana Automatyczna Northern Lights White Label.Odmiana nie wytwarza mocnego zapachu, dzięki czemu idealnie nadaje się do uprawy indoor lub dla osób, które chcą zachować dyskrecję.

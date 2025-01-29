@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1530015"
+title: "Semillas de Blackberry Cake Feminizadas"
+description: "La Blackberry Cake es 70 % indica, 30 % sativa. Tiene una genética premiada y produce un aroma y un sabor cítricos. La subida es relajante y cálida"
+image: "https://img.sensiseeds.com/es/research/blackberry-cake-feminizada-image.png"
+slug: "/es-semillas-de-blackberry-cake-feminizadas"
+url: "https://sensiseeds.com/es/research/blackberry-cake-feminizada?a_aid=cannastore"
+price: 53
+currency: "eur"
+number_of_seeds: 10
+category: "Sensi Seeds Research"
+flowering_min: 55
+flowering_max: 70
+strain_type: "Feminized"
+climate_zone: "Soleado/Mediterráneo"
+yield: "Rendimiento grande"
+heigh_gain: "Planta compacta"
+locale: "es"
+---
+Esta variedad híbrida tiene un patrimonio genético formidable que incluye Wedding Cake, Black Domina y Durban, una variedad de renombre mundial. Wedding Cake, también conocida como Pink Cookies, es una variedad deliciosamente decadente de los Estados Unidos, con un sabor de pastel y unos efectos intensamente relajantes con los que es un placer trabajar. Estos efectos proceden de sus plantas madre: la universalmente conocida Girl Scout Cookies y Cherry Pie, una variedad americana de sabor a cereza dulce. Estos componentes genéticos de los EE. UU. resaltan las notas de Blueberry Cake en una nueva sensación dulce y potente de Sensi Seeds.Patrón de crecimiento de la Blackberry Cake feminizadaLa Blackberry Cake es 70 % indica, 30 % sativa, y las plantas son compactas, tupidas y llenas de cogollos grandes y pegajosos. El dominio indica se hace evidente en el intenso sabor y aroma a tierra, sin mencionar la subida cálida y relajante. Los cultivadores tienen muchas posibilidades de obtener enormes rendimientos de esta variedad, especialmente si se cultiva en climas cálidos y soleados. El 70 % de indica resulta evidente en el efecto relajante y tranquilizador, aunque los usuarios también se sentirán eufóricos, gracias a la influencia Sativa de la Durban. Al igual que las otras variedades con dominación indica, las plantas son capaces de producir grandes rendimientos sin demasiado esfuerzo. Estas plantas todas crecen y florecen como si fueran hembras, ya que las semillas son feminizadas. Esto es beneficioso para los cultivadores sin experiencia ya que no tienen la necesidad de eliminar las plantas macho durante la fase del cultivo. El periodo de floración de esta variedad es moderado y necesita de 55 a 70 días. Esto significa que los cultivadores no tendrán que esperar demasiado para obtener una cosecha. Aunque hay una influencia sativa, las plantas tienen un patrón de crecimiento mayoritariamente indica, y permanece bastante compacta, incluso cuando llega a la madurez. Es ideal para los cultivadores que buscan una variedad para cultivar discretamente. Las plantas son robustas, bajas y tupidas, con un tallo central grueso y muchas ramas. Durante la etapa de floración forma muchos cogollos, que suelen tener un aspecto grande y pesado. Si se cultivan en las condiciones correctas, los cultivadores pueden conseguir rendimientos importantes, tanto en interior como al aire libre. El clima ideal para esta variedad es el Mediterráneo, o cualquier país con veranos cálidos, largos y con mucho sol. La mayoría de técnicas de cultivo como, por ejemplo, SCROG (Pantalla verde), SOG (Mar verde) y Supercropping, funcionan bien con esta variedad. Efecto, sabor y aroma de la Blackberry Cake feminizadaLa variedad es 70 % indica y 30 % sativa, y la influencia de sus premiadas plantas madre se puede detectar en el aroma, en el sabor y en los efectos. Al igual que la mayoría de variedades con dominación indica, el efecto es intensamente relajante y proporciona al usuario una sensación de calidez y satisfacción, un rasgo clásico de la Wedding Cake. La influencia sativa de la Durban añade un toque de euforia y de creatividad. El perfume es agradable. Las plantas desprenden un aroma rico, terroso y a madera, con una nota cítrica, que también está presente en el sabor, junto con un toque de cremosidad y especies. Esta combinación tan especial aprovecha lo mejor de la genética de los EE. UU. y de Sensi Seeds. En resumen La variedad es compacta, y como tal, se puede cultivar discretamente en interiores y al aire libre.Tiene una genética formidable que incluye Wedding Cake, Durban y Black Domina.Todas las plantas madre de esta variedad han ganado premios. Tiene un aroma y un sabor agradables, afrutados y cítricos, con notas de cremosidad. Aunque las plantas presentan resistencia a las plagas y al moho, los cultivadores novatos deben tener cuidado al cultivarlas.

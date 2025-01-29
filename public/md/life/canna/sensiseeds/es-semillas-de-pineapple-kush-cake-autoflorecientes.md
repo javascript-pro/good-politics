@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1540003"
+title: "Semillas de Pineapple Kush Cake Autoflorecientes"
+description: "Las semillas de Pineapple Kush Cake Autoflorecientes se cosechan en 80-90 días. Es una variedad de sabor tropical con gruesos cogollos color verde claro."
+image: "https://img.sensiseeds.com/es/breeding-grounds/humboldt-seed-company/pineapple-kush-cake-autofloreciente-image.png"
+slug: "/es-semillas-de-pineapple-kush-cake-autoflorecientes"
+url: "https://sensiseeds.com/es/breeding-grounds/humboldt-seed-company/pineapple-kush-cake-autofloreciente?a_aid=cannastore"
+price: 54.99
+currency: "eur"
+number_of_seeds: 10
+category: "Breeding Grounds"
+flowering_min: 0
+flowering_max: 0
+strain_type: "Regular"
+climate_zone: ""
+yield: ""
+heigh_gain: ""
+locale: "es"
+---
+Prepárate para disfrutar de un agradable sabor a frutas tropicales, lima ácida y un trasfondo a chocolate. Las semillas de cannabis de Pineapple Kush Cake Autofloreciente se convierten en una planta aromática de efectos predecibles. Este cultivar afrutado se desarrolló en colaboración con Humboldt Seed Company como parte de Breeding Grounds. Es una variedad autofloreciente que inicia su floración por sí misma, y como también es feminizada, ¡no hace falta retirar los machos! Cultivadores de todos los niveles disfrutan de buenas cosechas cargadas de flores compactas, de color verde claro y cubiertas de tricomas.Patrón de cultivo de Pineapple Kush Cake Autofloreciente La Pineapple Kush Cake Autofloreciente es el resultado de cruzar una Banana Kush Cake Autofloreciente de Sensi Seeds con una Pineapple Muffin Autofloreciente. El resultado es un híbrido 50/50 que manifiesta las características más buscadas de cada grupo genético. La morfología es la típica de una índica, con un cuerpo compacto y una distancia internodal corta. La Pineapple Kush Auto presenta unas ramas robustas y un follaje verde brillante.Además, la Pineapple Kush Cake Autofloreciente es una variedad feminizada, lo que elimina la necesidad de identificar y eliminar los machos. Cada una de sus semillas se convertirá en una planta productora de flores. Además, al ser una variedad autofloreciente, el cultivador no necesita ajustar la programación de la iluminación para iniciar la floración.La altura final en interior suele rondar unos modestos 70-110 cm. Los cultivadores de zonas exteriores con climas templados o continentales suelen ver un crecimiento algo mayor, de unos 80-120 cm. La Pineapple Kush Cake Autofloreciente es capaz de pasar de plántula a cosecha en 80-90 días si las condiciones son las ideales. Debido a su rápido desarrollo y a su corta estatura, no es frecuente recurrir a técnicas de cultivo como SCROG, SOG, Supercropping o Lollipopping.Teniendo en cuenta su tamaño, la Pineapple Kush Autofloreciente produce un rendimiento elevado si las condiciones son las adecuadas. Los cultivadores de interior han llegado a obtener rendimientos cercanos a los 250-300 gramos por m². En exterior se han registrado cosechas de entre 160 y 200 gramos por planta. Los cogollos de la Pineapple Kush Cake Autofloreciente son macizos y densos, pero, hacia el final de la floración, algunas de las brácteas se apilan y apuntan ligeramente hacia arriba.Efecto, sabor y aroma de Pineapple Kush Autofloreciente La Pineapple Kush Cake Autofloreciente ofrece una experiencia gratificante tanto para los expertos como para los neófitos. Al principio te invade una relajante sensación de felicidad a medida que aparecen los efectos estimulantes y cerebrales. Conforme la mente entra en un estado de paz y euforia, el cuerpo se ve invadido por un colocón vigorizante. Esta sensación da paso a un estado físico de relajación, pero sin renunciar a la capacidad de llevar a cabo las tareas cotidianas.Durante el crecimiento, la Pineapple Kush Cake Autofloreciente llena el aire de un aroma floral ligeramente penetrante. Esta fragancia se hace más intensa en las últimas semanas de floración. Tras el secado y curado de los cogollos, el perfil de terpenos exhibe una paleta tropical de aromas afrutados. Encontramos olores dulces, terrosos y amargos formando un conjunto.La Pineapple Kush Cake Autofloreciente posee un perfil de sabor que da que hablar. Los sabores tropicales cubren las papilas gustativas con piña, naranja y pomelo recién pelados, completándose con toques cítricos a mojito de lima y sublimes matices a chocolate. Cuando el paladar recibe este regalo es inevitable que aparezcan en tu mente imágenes de soleadas playas tropicales.¿Sabías que…? Una variedad estupenda para principiantes.Increíble perfil de terpenos tropicales.La Banana Kush Cake, uno de los parentales, es un cruce de Banana Kush y Wedding Cheesecake.

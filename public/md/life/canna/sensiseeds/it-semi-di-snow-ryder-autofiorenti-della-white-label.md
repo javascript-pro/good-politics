@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1520013"
+title: "Semi di Snow Ryder Autofiorenti della White Label"
+description: "La Snow Ryder Autofiorente della White Label è 75% indica e 25% sativa. Buoni raccolti, con un effetto rilassante. Sprigiona un profumo terroso e agrumato."
+image: "https://img.sensiseeds.com/it/semi-femminizzati/whitelabel/snow-ryder-femminilizzata-image.png"
+slug: "/it-semi-di-snow-ryder-autofiorenti-della-white-label"
+url: "https://sensiseeds.com/it/semi-femminizzati/whitelabel/snow-ryder-femminilizzata?a_aid=cannastore"
+price: 61
+currency: "eur"
+number_of_seeds: 10
+category: "Semi Femminizzati"
+flowering_min: 40
+flowering_max: 55
+strain_type: "Auto"
+climate_zone: "Temperato / Continentale"
+yield: "Resa media"
+heigh_gain: "Pianta compatta"
+locale: "it"
+---
+La Snow Ryder Autofiorente della White Label prende il nome dalla spettacolare resina cristallina che si forma sopra le abbondanti cime. È facile da coltivare all’interno, e abbastanza compatta anche per chi non ha molto spazio a disposizione. È indica al 75%, e questo è evidente nell’effetto corporeo totale. Tuttavia, cè anche un accenno edificante tipico della sativa. Il profumo è piacevolmente terroso e speziato, con un tocco di agrumi dolci.Coltivazione della Snow Ryder Autofiorente della White LabelI semi di cannabis Snow Ryder Autofiorenti della White Label sono 75% indica, con la genetica sativa e ruderalis incorporate nel mix. Il risultato è una varietà compatta e facile da coltivare, che offre un effetto profondo e intenso per tutto il corpo.Si tratta di una variante autofiorente, vale a dire che la fioritura inizia a un tempo predeterminato, indipendentemente dai cicli di luce. Questo rende molto più facile la coltivazione, perché non cè incertezza su quando le piante entreranno nel periodo di fioritura. Per quanto riguarda la fase di fioritura? Di solito dura circa 55-65 giorni, un periodo leggermente più lungo di altre varietà autofiorenti. Tuttavia, la fase di vegetazione è breve, vale a dire che il ciclo di vita totale non è troppo lungo.Come per molte altre varietà a dominanza indica, la Snow Ryder Autofiorente della White Label è relativamente compatta. Di solito le piante non superano i 120 cm di altezza, indipendentemente dal fatto che siano coltivate allinterno o allesterno. Allinterno possono essere mantenute anche più basse, se necessario; alcuni coltivatori hanno dichiarato di aver limitato con successo la crescita della pianta fino a 40 cm. Tuttavia è importante notare che non si tratta di una varietà di cannabis nana.Le piante Snow Ryder della White Label sono robuste e dallaspetto leggermente tozzo, il che è tipico delle varietà a prevalenza indica. Gli internodi sono ravvicinati e i fiori hanno un particolare aspetto cristallizzato simile al ghiaccio. È spesso bianco, ma a volte quasi ambrato.Per essere una varietà autofiorente, la Snow Ryder della White Label offre rendimenti piuttosto buoni. Se coltivate all’interno, non è insolito che le piante producano circa 450 grammi al metro quadrato. All’esterno i risultati sono meno abbondanti, ma i coltivatori possono comunque ottenere circa 200 grammi per pianta, se la raccolta avviene prima dellinizio di settembre.Le piante prosperano nei mesi estivi assolati, ma trattandosi di una robusta varietà autofiorente, può sopravvivere anche in climi più temperati. Può essere coltivata allinterno tutto lanno.Effetto, sapore ed odore della Snow Ryder Autofiorente della White LabelLa Snow Ryder Autofiorente della White Label è al 75% indica, e questa forte genetica è immediatamente evidente al momento del consumo. Nonostante si tratti di una variante autofiorente, è in grado di offrire un effetto abbastanza potente, rilassante e calmante. I consumatori riferiscono un senso di calma e benessere, sia fisico che mentale. Tuttavia, cè anche un accenno edificante, che deriva dallinfluenza sativa.Durante la crescita, le piante producono un aroma dolce e agrumato, con un accenno di terra umida. Una volta raccolte le cime, questo odore diventa più forte e assume un tono più piccante. Nel gusto i consumatori di solito percepiscono note agrumate insieme al sapore acidulo della terra.Lo sapevi?La Snow Ryder Autofiorente della White Label prende il nome dalla resina scintillante e cristallina che si forma sulle cime.Quando viene coltivata all’aperto, i coltivatori di solito piantano i semi entro aprile, per ottenere la fioritura durante i mesi più caldi.La Snow Ryder Autofiorente della White Label è una buona scelta per i coltivatori con spazio limitato, dal momento che le piante raramente crescono più di 120 cm.

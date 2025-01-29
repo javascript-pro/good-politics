@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1520013"
+title: "Sementes de Snow Ryder Automáticas White Label"
+description: "A Snow Ryder Automática White Label é 75% índica, 25% sativa. Produz bons rendimentos, um efeito relaxante e um aroma telúrico e cítrico."
+image: "https://img.sensiseeds.com/pt/sementes-feminizadas/whitelabel/snow-ryder-feminizada-image.png"
+slug: "/pt-sementes-de-snow-ryder-automaticas-white-label"
+url: "https://sensiseeds.com/pt/sementes-feminizadas/whitelabel/snow-ryder-feminizada?a_aid=cannastore"
+price: 61
+currency: "eur"
+number_of_seeds: 10
+category: "Sementes Feminizadas"
+flowering_min: 40
+flowering_max: 55
+strain_type: "Auto"
+climate_zone: "Temperado / Continental"
+yield: "Rendimento Médio"
+heigh_gain: "Planta compacta"
+locale: "pt"
+---
+A Snow Ryder Automática White Label recebe o seu nome da espetacular resina glacial que se forma sobre os inúmeros botões. É fácil de cultivar no interior, e compacta o suficiente, mesmo para quem não tem muito espaço disponível. É 75% índica e isso torna-se evidente no efeito relaxante, que é um estado de entorpecimento corporal total. No entanto, há um toque de elevação sativa também. O perfume é agradavelmente telúrico e picante, com um toque de citrinos doces. Padrão de crescimento da Snow Ryder Automática White LabelAs sementes de canábis Snow Ryder Automática White Label são 75% índica, com genética sativa e ruderalis incorporada na mistura. O que resulta numa variedade compacta e fácil de cultivar, além de proporcionar um estado de entorpecimento profundo e intenso por todo o corpo.Esta é uma variante com floração automática, o que significa que a floração começa num tempo predeterminado, independentemente dos ciclos de luz. Isto facilita muito o cultivo, pois não há dúvidas sobre quando as plantas entrarão no período de floração. E quanto à fase de floração? Normalmente, dura cerca de 55 a 65 dias, o que é um pouco mais longo do que outras variedades de floração automática. No entanto, o estágio de vegetação é curto, o que significa que o ciclo de vida total não é muito prolongado. Tal como acontece com muitas variedades com predominância índica, a Snow Ryder Automática é relativamente compacta. Normalmente, as plantas não costumam exceder os 120 cm de altura, independentemente de serem cultivadas em ambientes interiores ou exteriores. Elas podem ser mantidas ainda mais curtas no interior, se necessário; com alguns produtores a afirmar que conseguiram limitar com sucesso o crescimento da planta para até os 40 cm. No entanto, é importante notar que não é uma variedade de canábis anã. As plantas Snow Ryder Automáticas White Label são robustas e de aparência ligeiramente atarracada, o que é comum em variedades com predominância de índica. Os espaços internodais estão próximos, as flores têm uma aparência excecionalmente glacial e cristalizada. É frequentemente branca, mas por vezes quase de cor âmbar.Para uma variedade de floração automática, a Snow Ryder oferece bons rendimentos. Quando cultivadas em ambientes interiores, não é raro que as plantas produzam cerca de 450 gramas por metro quadrado. No exterior, os resultados são menos abundantes, mas os produtores ainda podem obter cerca de 200 gramas por planta, se a colheita acontecer antes do início de setembro. As plantas prosperam nos meses ensolarados de verão, mas, como uma robusta variedade automática, também consegue sobreviver em climas mais temperados. Pode ser produzida no interior durante todo o ano. Efeito, sabor e aroma da Snow Ryder Automática White LabelA Snow Ryder Automática White Label é 75% índica e a forte genética índica torna-se imediatamente evidente durante o consumo. Apesar de ser automática, a variedade é capaz de produzir um estado de entorpecimento bastante potente, relaxante e calmante. Os utilizadores relatam que provoca uma sensação de calma e bem-estar, tanto no corpo como na mente. No entanto, também há um toque de elevação, que provém da influência sativa. Enquanto crescem, as plantas produzem um aroma doce com notas cítricas, que também possui um toque de terra húmida. Logo que os botões são colhidos, este aroma torna-se mais forte e assume um tom mais picante. Quanto ao sabor, é normal os utilizadores detetarem sabores cítricos, juntamente com o aroma penetrante de terra. Sabia que? A Snow Ryder Automática recebeu o seu nome graças à resina de aspeto gelado e cristalizado que se forma nos seus botões. Quando cultivada no exterior, os produtores costumam plantar as sementes em abril, para que floresça nos meses mais quentes. A Snow Ryder Automática é uma boa opção para produtores com espaço limitado, pois as plantas raramente crescem mais de 120 cm.

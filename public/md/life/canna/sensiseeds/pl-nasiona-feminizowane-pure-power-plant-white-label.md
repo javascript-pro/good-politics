@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1520006"
+title: "Nasiona Feminizowane Pure Power Plant White Label"
+description: "Odmiana Feminizowana Pure Power Plant White Label to w 60% Sativa. Ma silne działanie, daje obfite plony (do 700 g/m2) i wydziela cytrusowy aromat skunky."
+image: "https://img.sensiseeds.com/pl/nasiona-feminizowane/whitelabel/pure-pure-power-plant-zenska-image.png"
+slug: "/pl-nasiona-feminizowane-pure-power-plant-white-label"
+url: "https://sensiseeds.com/pl/nasiona-feminizowane/whitelabel/pure-pure-power-plant-zenska?a_aid=cannastore"
+price: 98
+currency: "eur"
+number_of_seeds: 10
+category: "Nasiona feminizowane"
+flowering_min: 50
+flowering_max: 60
+strain_type: "Feminized"
+climate_zone: "Słoneczny/śródziemnomorski"
+yield: "Plon XXL"
+heigh_gain: "Średni przyrost wysokości"
+locale: "pl"
+---
+Odmiana Feminizowana Pure Power Plant White Label jest gotowa do zbioru w bardzo krótkim czasie, dlatego stanowi świetną opcję dla każdego hodowcy, który spodziewa się szybkich rezultatów. Zbite, przyprószone białymi włoskami szczyty to obietnica intensywnego haju, charakteryzującego się zwiększoną koncentracją i przypływem energii. To wpływ 60-procentowego udziału genów Sativa. Hodowca może oczekiwać obfitych plonów — nawet 700 gramów na metr kwadratowy w przypadku uprawy outdoor. Wzór uprawy odmiany Feminizowanej Pure Power PlantNasiona Feminizowane Pure Power Plant White Label to silnie działająca hybryda, zawierająca 60% genów Sativa i 40% genów Indica. Dokładny skład genetyczny jest utrzymywany w tajemnicy, wiadomo jednak, że macierzysta roślina z genetyki Sativa wywodzi się z RPA, natomiast roślina z genetyką Indica pochodzi z USA. Nieznaczna przewaga Sativa przejawia się energetyzującym, euforycznym hajem. Jest to szczep feminizowany, co oznacza bardzo niewielkie prawdopodobieństwo, że z nasion wyrosną jakiekolwiek rośliny męskie. Ułatwia to znacznie uprawę, w związku z czym szczep jest odpowiedni dla początkujących hodowców. Odmiana feminizowana Pure Power Plant są też bardzo odporna na pleśń, co stanowi kolejną zaletę. Następną zaletą odmiany jest względnie krótki okres kwitnienia — zazwyczaj od około 50 do 60 dni. Oznacza to, że w przypadku uprawy w pomieszczeniach można się cieszyć wieloma zbiorami każdego roku. Hodowcy uprawiający rośliny outdoor zazwyczaj zbierają plony w okresie od połowy września do połowy października. Rośliny przeważnie osiągają średnią wysokość. Nierzadko po zakończeniu wzrostu mają od około 100 do 140 cm, dzięki czemu większość osób radzi sobie z ich pielęgnacją. Pod względem struktury często przyjmują kształt choinki z krótkimi międzywęźlami i mocną, grubą łodygą. Plony są szczególnie obfite, przewyższając pod tym względem wiele innych szczepów konopi. W odpowiednich warunkach na wolnym powietrzu wydajność wersji feminizowanej Pure Power Plant może wynieść od około 600 do 700 gramów na metr kwadratowy. W pomieszczeniach może to być od około 450 do 600 gramów. Szczyty są bardzo charakterystyczne: zbite i ciężkie, pokryte klejącymi włoskami. Stanowi to pewną wskazówkę, jak silne jest działanie tego szczepu. Odmiana feminizowana Pure Power Plant najlepiej radzi sobie w ciepłym, słonecznym klimacie, na przykład śródziemnomorskim. Rośliny te można również uprawiać w szklarni lub indoor. Można stosować większość technik uprawy — roślinom służy zarówno metoda SCROG („zielony ekran”), jak i SOG („morze zieleni”). Hodowcy informowali też o dobrych rezultatach stosowania zabiegów „lollipopping” i „supercropping”. Efekt, smak i aromat odmiany Feminizowanej Pure Power PlantOdmiana feminizowana Pure Power Plant White Label to w 60% Sativa. Jest to najbardziej odczuwalne po konsumpcji. Użytkownicy twierdzą, że haj jest stymulujący i wzbudza entuzjazm, a często też zachęca do rozmów. W związku z tym to świetna odmiana na spotkania towarzyskie! Wpływ Indica jest odczuwalny w postaci efektu odprężającego. Należy jednak zdawać sobie sprawę, że konsumowanie dużych ilości może powodować senność. Podczas wzrostu rośliny wydzielają przyjemny piżmowo-cytrusowy aromat z nutą skunky. W ten sposób przejawiają się pewne cechy odziedziczone po Indica. Po zbiorach należy się spodziewać intensyfikacji zapachu, przy czym wyczuwalne stają się nuty drzewa waniliowego i ziemi. Po spróbowaniu niektóre osoby wyczuwają też pewną pikantność. Czy wiesz, że…? Odmiana feminizowana Pure Power Plant White Label jest ceniona ze względu na obfite plony. Dostępna jest też inna wersja tego szczepu: odmiana Automatyczna Pure Power Plant White Label.Odmiana jest znany od lat 90-tych XX wieku i cieszy się od tego czasu niesłabnącą popularnością. Pure Power Plant to ulubiona odmiana w holenderskich coffee shopach i często znajdują się w ich menu.

@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1500033"
+title: "Nasiona Regularne Outdoor Mix"
+description: "Nasiona Regularne Outdoor Mix to 5 szczepów: Early Skunk, Early Girl, Guerrilla’s Gusto, Ruderalis Skunk i Ruderalis Indica. Kwitną w chłodnym klimacie."
+image: "https://img.sensiseeds.com/pl/nasiona-konopi/sensi-seeds/outdoor-mix-image.png"
+slug: "/pl-nasiona-regularne-outdoor-mix"
+url: "https://sensiseeds.com/pl/nasiona-konopi/sensi-seeds/outdoor-mix?a_aid=cannastore"
+price: 48
+currency: "eur"
+number_of_seeds: 25
+category: "Outdoor"
+flowering_min: 40
+flowering_max: 40
+strain_type: "Regular"
+climate_zone: "Chłodny/zimny"
+yield: "Mixed"
+heigh_gain: "Mixed"
+locale: "pl"
+---
+Nasiona Regularne Outdoor Mix są idealną opcją dla hodowców, którzy chcą przetestować jednocześnie kilka różnych odmian konopi z dominacją Indica. Każde opakowanie zawiera losową mieszankę Guerilla’s Gusto, Ruderalis Indica, Early Girl, Early Skunk i Ruderalis Skunk. Będą one produkować rośliny w odmianie regularnej, co przyda się w przyszłych hodowlach lub podczas eksperymentalnego krzyżowania. Chociaż rośliny należą do różnych szczepów, wszystkie z nich mają zapach typowy dla Indica: ziołowy i cierpki. Haj również jest taki, jak w przypadku klasycznej Indica — uspokajający i kojący. Wzór uprawy nasion Regularnych Outdoor MixNasiona Regularne Outdoor Mix to losowa mieszanka pięciu różnych odmian konopi z dominacją typu Indica. Są to: Early Skunk, Early Girl, Ruderalis Indica, Ruderalis Skunk I Guerrilla’s Gusto. Subtelne różnice między szczepami to okazja dla początkujących hodowców, aby nauczyć się je identyfikować.Wszystkie nasiona są w odmianie regularnej, co oznacza, że będą produkować mieszankę roślin żeńskich i męskich. Jest to kuszące dla bardziej doświadczonych hodowców, którzy mogą chcieć eksperymentować z krzyżowaniem szczepów w przyszłości. Oznacza to również, że można uzyskać nasiona do przyszłych upraw. Ponieważ opakowanie zawiera pięć różnych szczepów, czas kwitnienia różni się nieznacznie w zależności od rośliny. Jednak wszystkie z nich to Indica, więc mają stosunkowo krótki okres kwitnienia. Jest to przydatne dla tych, którzy chcą szybko uzyskać wyniki. Pierwszymi roślinami, które zaczną wytwarzać szczyty, będą odmiany w naturalny sposób automatycznie kwitnące: najpierw Ruderalis Indica, a następnie Ruderalis Skunk. Później zaczną kwitnąć inne szczepy. Szczep Early Girl jest dość szybko gotowy do zbioru, a tuż za nim Guerrilla’s Gusto. Ostatni do zbioru będzie gotowy Early Skunk. Rośliny z nasion Regularnych Outdoor Mix rosną do różnych wysokości. Uprawiane indoor przy sztucznym świetle są zwykle bardziej kompaktowe, ale nawet w warunkach uprawy outdoor żadna z roślin nie osiąga nadmiernej wysokości. Ich wygląd jest dość zróżnicowany, mają jednak wspólne cechy charakterystyczne dla Indica, takie jak liczne gałęzie i krzaczastą strukturę. Plony wydają się być również dobre dla tych szczepów, chociaż odmiany automatycznie kwitnące mogą produkować mniej niż inne rośliny. Hodowcy często chwalą możliwość uprawy nasion zwykłych Outdoor Mix w chłodniejszych klimatach, ponieważ wszystkie szczepy są wytrzymałe i odporne, nawet w chłodnych warunkach. Rośliny z tej mieszanki dobrze reagują na kształtowanie metodami „lollipopping” i „supercropping”. Efekt, smak i aromat mieszanki nasion Regularnych Outdoor MixWe wszystkich roślinach wyhodowanych z nasion Regularnych Outdoor Mix Regular dominują cechy Indica. Oznacza to typowy dla Indica haj: głęboki, relaksujący, obejmujący całe ciało i często długotrwały. Odmiany automatycznie kwitnące mają słabsze działanie, dzięki czemu według niektórych użytkowników są pewną opcją do codziennego użytku.Zapach roślin jest również typowy dla Indica. Jest w nim wyraźna nuta zioła w połączeniu z ogólnym aromatem ziemistości oraz nutą słodyczy i przypraw. Zapach często staje się bardziej zauważalny, gdy rośliny osiągają czas zbiorów, a aromaty przenoszą się także na smak. Czy wiesz, że…? Nasiona Regularne Outdoor Mix to losowa mieszanka pięciu różnych odmian i nie ma możliwości, aby stwierdzić, jaki szczep wyrośnie z danego nasiona. Dzięki temu mieszanka jest dobrą opcją dla osób, które chcą ćwiczyć swoje umiejętności identyfikacji.Wszystkie pięć odmian opracowano z myślą o ich korzystnym rozwoju nawet w chłodniejszych temperaturach. Szczepy zostały starannie wybrane, aby się wzajemnie uzupełniały.Wszystkie nasiona Regularne Outdoor Mix można uprawiać razem.Mieszanka wystarczy na cały sezon uprawy outdoor. Chociaż rośliny mają pewne cechy wspólne (wygląd, zapach i haj), istnieją subtelne różnice między szczepami.

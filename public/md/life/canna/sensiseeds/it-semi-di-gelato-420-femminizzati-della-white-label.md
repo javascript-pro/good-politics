@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1520029"
+title: "Semi di Gelato #420 Femminizzati della White Label"
+description: "La Gelato #420 Femminizzata White Label è al 60% indica, al 40% sativa. Ha radici afgane, africane e californiane. Effetto potente, rilassante e creativo."
+image: "https://img.sensiseeds.com/it/semi-femminizzati/whitelabel/gelato-420-image.png"
+slug: "/it-semi-di-gelato-420-femminizzati-della-white-label"
+url: "https://sensiseeds.com/it/semi-femminizzati/whitelabel/gelato-420?a_aid=cannastore"
+price: 80.01
+currency: "eur"
+number_of_seeds: 10
+category: "Semi Femminizzati"
+flowering_min: 55
+flowering_max: 75
+strain_type: "Feminized"
+climate_zone: "Soleggiato / Mediterraneo"
+yield: "Resa media"
+heigh_gain: "Pianta alta"
+locale: "it"
+---
+La Gelato #420 Femminizzata della White Label è stata creata incrociando Gelato 33 con la nostra cultivar originale Durban e la varietà Hindu Kush, che costituisce la colonna portante di OG Kush. Facendo ritornare la linea Gelato alle sue radici di cannabis afgane e africane, Gelato #420 della White Label acquista peso, sapore e anche maggiore potenza.Coltivazione della Gelato #420 Femminizzata della White LabelI semi di cannabis Gelato #420 Femminizzati sono al 60% indica, al 40% sativa. Il forte aumento indica dell’altezza e il significativo aumento sativa dell’altezza sono segni distintivi di questa varietà. All’interno ha un periodo di vegetazione relativamente breve, poiché le piante generalmente triplicano in altezza quando fioriscono. All’esterno, con un clima caldo e soleggiato, i semi di cannabis Gelato #420 femminizzati possono essere seminati un po’ più tardi rispetto alle altre varietà. Questo controlla l’altezza.Se la pianta cresce con un ciclo di luce naturale, alcune tecniche di coltivazione sono utili per gestire l’impressionante altezza della varietà. Queste tecniche comprendono la crescita delle piante parallelamente al suolo, ingraticciandole e potandole per incoraggiare una crescita più cespugliosa. Purché il clima locale rimanga ragionevolmente favorevole durante il mese di ottobre, Gelato #420 della White Label può produrre un eccellente raccolto all’esterno.All’interno, il modo migliore per massimizzare il rendimento dei semi di cannabis Gelato #420 femminizzati è la clonazione. In alternativa, si consiglia di potare lo stelo principale delle piante più grandi per accrescere i siti delle cime.Le piante cresciute e fiorite dai semi tendono ad avere una forte ramificazione laterale e verso l’alto, con spazi internodali molto piccoli. Naturalmente, i cloni condividono questa caratteristica, anche se i loro rami laterali tendono a essere meno vigorosi (grazie al periodo di vegetazione più breve). Il rendimento prodotto dai rami di Gelato #420 dimostra che è meglio evitare le tecniche di lollipopping e SOG. Il metodo ScrOG (screen of green) può produrre buoni risultati con piante ben distanziate.Al momento del raccolto, l’abbondanza dei nodi delle cime di Gelato #420 produce piante con cole lunghe e spesse sugli steli principali. Anche i rami sono pieni di cime ovali solide, che tendono a restare separate. La densità di questi gruppi di fiori significa che anche le cime più piccole mantengono un peso piacevole dopo l’essiccamento. Il periodo di fioritura è da otto a undici settimane, con la proporzione più efficace di tempo rispetto al rendimento che deriva dai fenotipi nell’intervallo fra la nona e la decima settimana.Effetto, sapore ed odore della Gelato #420 Femminizzata della White LabelI geni afgani della OG Kush e Hindu Kush rendono abbastanza comuni le tinte viola nelle cime mature di Gelato #420. La produzione di resina è eccezionale, e fornisce a ogni calice una bella glassa di tricomi dorati.L’odore crescente è abbastanza contenuto, e la composizione piena e complessa di questa varietà raggiunge il picco dopo l’essiccamento. Gli elementi più comuni sono agrumi, menta e vaniglia proveniente dai progenitori ibridi della Kush, oltre ad anice, hashish e legno di sandalo provenienti dalle cultivar Durban e Hindu Kush. Una base di dolce e cremosa camomilla unisce tutte queste note, più comunemente associata alle varietà Haze. Il profilo di aromi della Gelato #420 può far venire in mente tutti i sapori di una gelateria.I genitori potentemente indica e sativa rendono Gelato #420 della White Label una varietà che non deve essere mai presa alla leggera. Un effetto euforico potente sul corpo è innalzato da un effetto sativa rilassante, intenso e creativo. I principianti devono assumerla con attenzione, e anche gli intenditori più esperti dovrebbero assaggiarla prima di provarla.

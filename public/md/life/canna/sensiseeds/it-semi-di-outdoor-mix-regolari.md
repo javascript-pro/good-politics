@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1500033"
+title: "Semi di Outdoor Mix Regolari"
+description: "Outdoor Mix Regolare contiene 5 varietà; Early Skunk, Early Girl, Guerrilla’s Gusto, Ruderalis Skunk e Ruderalis Indica. Prospera in climi freschi."
+image: "https://img.sensiseeds.com/it/semi-di-canapa/sensi-seeds/outdoor-mix-image.png"
+slug: "/it-semi-di-outdoor-mix-regolari"
+url: "https://sensiseeds.com/it/semi-di-canapa/sensi-seeds/outdoor-mix?a_aid=cannastore"
+price: 48
+currency: "eur"
+number_of_seeds: 25
+category: "Outdoor"
+flowering_min: 40
+flowering_max: 40
+strain_type: "Regular"
+climate_zone: "Fresco /Freddo"
+yield: "Mixed"
+heigh_gain: "Mixed"
+locale: "it"
+---
+Outdoor Mix Regolare è lopzione perfetta per i coltivatori che vogliono testare contemporaneamente diverse varietà di cannabis a predominanza indica. Ogni confezione contiene un mix casuale di Guerilla’s Gusto, Ruderalis Indica, Early Girl, Early Skunk e Ruderalis Skunk. Produce piante regolari, utili per future coltivazioni, o incroci sperimentali. Sebbene le piante siano di varietà diverse, tutte esprimono un tipico profumo indica: skunk e pungente. Anche l’effettoh è un classico indica: calmante e sedativo.Coltivazione di Outdoor Mix RegolareI semi di cannabis Outdoor Mix Regolari sono un mix casuale di cinque diverse varietà a predominanza indica. Le varietà sono: Early Skunk, Early Girl, Ruderalis Indica, Ruderalis Skunk e Guerrilla’s Gusto. Le sottili variazioni tra le varietà danno ai coltivatori principianti lopportunità di imparare a identificarle.I semi sono tutti regolari, vale a dire che produrranno un mix di piante maschili e femminili. Questo è interessante per i coltivatori più esperti, che in futuro potrebbero voler sperimentare libridazione delle varietà. Significa anche che possono essere generati semi per crescite future.Dal momento che questa confezione contiene cinque diverse varietà, i tempi di fioritura variano leggermente da pianta a pianta. Tuttavia, essendo tutte indica, i periodi di fioritura sono relativamente brevi. Questo è utile per chi vuole ottenere risultati in fretta. Le prime piante a iniziare a produrre cime saranno le varietà naturalmente autofiorenti: la Ruderalis Indica per prima, seguita dalla Ruderalis Skunk. Dopodiché cominceranno a fiorire le altre varietà. La Early Girl sarà pronta per la raccolta abbastanza velocemente, seguita da vicino dalla Guerrillas Gusto. L’ultima a essere raccolta sarà la Early Skunk.Le piante di Outdoor Mix Regolare crescono tutte ad altezze diverse. Di solito sono più compatte se coltivate allinterno sotto la luce artificiale, e nessuna delle piante tende a raggiungere altezze eccessive se piantata allesterno. Sono tutte abbastanza diverse nellaspetto, ma condividono alcune delle caratteristiche dell’indica, come i rami multipli e un aspetto complessivo cespuglioso e robusto. I rendimenti tendono ad essere buoni anche con queste varietà, anche se le autofiorenti possono produrre meno delle altre piante. I coltivatori apprezzano spesso la capacità di Outdoor Mix Regolare di prosperare nei climi più freddi, dal momento che tutte le varietà sono resistenti anche in queste condizioni. Il lollipopping e il supercropping sono entrambe tecniche di condizionamento efficaci per questo mix.Effetto, sapore ed odore della Outdoor Mix RegolareTutte le piante coltivate con Outdoor Mix Regolare sono a predominanza indica. Questo significa che il loro effetto è tipicamente indica nella personalità: corporeo profondo e rilassante, spesso duraturo. Le varietà autofiorenti offrono un effetto meno potente, che secondo alcuni consumatori le rende una buona opzione per luso diurno.Anche il profumo delle piante è tipico dell’indica. Cè una nota distinta di skunk, combinata con un aroma complessivo terroso e un accenno dolciastro e speziato. Lodore diventa spesso più evidente man mano che le piante raggiungono il momento della raccolta e i sapori passano anche al gusto.Lo sapevi?Outdoor Mix Regolare è un mix casuale di cinque diverse varietà, e non cè modo di dire quale seme crescerà in quale varietà. Questo la rende una buona scelta per coloro che desiderano esercitare le loro capacità di identificazione.Tutte e cinque le varietà sono state sviluppate per prosperare anche a temperature più fresche.Le varietà sono state accuratamente selezionate per completarsi a vicenda.Tutti i semi presenti in Outdoor Mix Regolare possono essere coltivati insieme.Il mix durerà unintera stagione allaperto.Anche se le piante condividono alcuni tratti (nellaspetto, nel profumo e nell’effetto), ci sono sottili differenze tra le varietà.

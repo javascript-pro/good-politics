@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1520015"
+title: "Purple Bud Feminisierte Hanfsamen von White Label"
+description: "Purple Bud Feminisiert von White Label: Indica/Sativa-Hybrid. Lilafarben; große Erträge. Intensives, entspannendes High."
+image: "https://img.sensiseeds.com/de/feminisierte-samen/whitelabel/purple-bud-image.png"
+slug: "/de-purple-bud-feminisierte-hanfsamen-von-white-label"
+url: "https://sensiseeds.com/de/feminisierte-samen/whitelabel/purple-bud?a_aid=cannastore"
+price: 37.99
+currency: "eur"
+number_of_seeds: 10
+category: "Weibliche Samen"
+flowering_min: 50
+flowering_max: 65
+strain_type: "Feminized"
+climate_zone: "Gemäßigtes / Kontinentales Klima"
+yield: "Üppiger Ertrag"
+heigh_gain: "Kompakte Pflanze"
+locale: "de"
+---
+Wir haben auf das herausragende Cannabis-Erbe aus Jamaika und Afghanistan zurückgegriffen, um die Purple Bud Feminisiert zu entwickeln. Sie lässt sich leicht in Innenräumen oder im Freien kultivieren, selbst in kaltem Klima mit kurzen Sommern. Niedrige Temperaturen sorgen dafür, dass die Pflanzen lilafarbener werden, wenn die Blüte voranschreitet, was in einer farbenfrohe Ernte der dichten Buds resultiert. Die Sorte hat eine lang anhaltende Wirkung. Sie macht fröhlich und entspannt – perfekt für den Konsum in der Gruppe oder alleine.Wachstumsmuster der Purple Bud FeminisiertDie Purple Bud Feminisierte Hanfsamen von White Label wurde aus der Hindu Kush-Linie entwickelt, die einige der Indica-Sorten mit den meisten Preisen weltweit hervorgebracht hat. Die Pflanzen sind in Bezug auf die Wachstumsstruktur mit kräftigen, kurzen Stämmen und Zweigen typisch Indica. Sie sind jedoch ein wenig größer als die durchschnittlichen Indicas, was ihre Sativa-Komponente verrät. Die Purple Bud Feminisiert kann durch eine kurze Vegetationsphase kompakt gehalten werden; alternativ können die Pflanzen größer werden, wenn diese Phase verlängert wird. Die Sorte ist robust und kann den meisten geringfügigen Kultivierungsproblemen standhalten. Auch Einsteiger können mit dieser Cannabis-Sorte gute Ergebnisse erzielen; neben der White Skunk handelt es sich um eine exzellente Wahl für Neulinge.Die Purple Bud Feminisiert hat eine kurze Blütezeit, mit einem Blühzyklus von ca. 9 Wochen. Während dieser Zeit wird eine beachtliche Menge lilafarbener Blüten um die Nodi und am Stamm und an den Zweigen sichtbar. Die Buds sind dicht, fest und spitz und weisen einen dicken Überzug mit Trichomen auf. Wie bei allen lilafarbenen Hanfsorten werden die Blätter und Blüten violett, wenn sie niedrigeren Temperaturen ausgesetzt sind. Da jede Pflanze unterschiedlich ist, bleiben einige immer grün. Dies liegt an der natürlichen Variation und ist ein Merkmal dieses Cannabis-Typs. Die Purple Bud-Familie wurde jedoch sorgfältig gegrowt, um die Farbe zu maximieren. Viele Pflanzen weisen Lilatöne auf, wenn die Blütephase endet. Einige haben sogar lila-gefärbte Blätter, andere jedoch grüne Blätter, die wunderschön mit den lilafarbenen Cannabis-Blüten im Kontrast stehen. Die Purple Bud Feminisiert wächst gut in Innenräumen. Sea of Green (SOG) und Screen of Green (SCROG) sind geeignete Optionen bei der Kultivierung. Die Pflanzen sprechen auch gut auf Topping an, wodurch mehrere Hauptstämme und -dolden entstehen. Sie können im Freien in gemäßigtem und kontinentalem Klima angebaut werden. Beim Einpflanzen im Frühjahr im Freien kann die Purple Bud Feminisiert beträchtliche Höhen für eine kompakte Pflanze erreichen und sorgt mit aller Wahrscheinlichkeit für eine exzellente Ernte. Wirkung, Geschmack und Geruch der Purple Bud Feminisiert von White LabelPurple Bud Feminisiert hat den klassischen erdigen Geruch eines Indica-Hybrids, kombiniert mit einer kräuterigen Süße und Blaubeernoten. Dieses Aroma wird intensiver, wenn die Pflanze anfängt zu blühen. Beim Konsum kommen die süßen Noten stark durch. Sie werden durch eine würzige Kiefernote ausbalanciert. Einige Konsumenten dampfen die Buds, um die Aromen vollständig freizusetzen. Dank des Indica/Sativa-Erbes sorgt die Purple Bud Feminisiert anfänglich für ein anregendes High. Dieses entwickelt sich nach und nach zu einem tiefen Entspannungsgefühl, das mehrere Stunden oder länger andauern kann. Einige Konsumenten sagen, dass die Sorte eine gute Option für den Abend ist, da sie eine angenehm einschläfernde Wirkung hat. Größere Mengen können jedoch die gegensätzliche Wirkung haben und den Geist aktiver machen. Wussten Sie?Diese Sorte ist ideal für ein kaltes oder kühles Klima.Die Purple Bud ist ein Hybrid der Dutch Hindu Kush, der Afghan-Jamaican Kush und der Californian Purple Kush.White Label bietet auch Purple Bud Automatic, eine autoflowering Version dieser Cannabis-Sorte.

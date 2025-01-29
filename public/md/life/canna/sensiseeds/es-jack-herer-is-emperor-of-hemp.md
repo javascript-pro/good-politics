@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "2720037"
+title: "Jack Herer is Emperor of Hemp"
+description: "DVD sobre la lucha por la verdad, la justicia y una planta. Un intento por educar a America sobre esta planta ecológica y beneficiosa ¡Pídelo!"
+image: "https://img.sensiseeds.com/es/canamo/dvd/jack-herer-is-emperor-of-hemp-image.png"
+slug: "/es-jack-herer-is-emperor-of-hemp"
+url: "https://sensiseeds.com/es/canamo/dvd/jack-herer-is-emperor-of-hemp?a_aid=cannastore"
+price: 15
+currency: "eur"
+number_of_seeds: 0
+category: "DVD"
+flowering_min: 0
+flowering_max: 0
+strain_type: ""
+climate_zone: ""
+yield: ""
+heigh_gain: ""
+locale: "es"
+---
+The best-selling book “The Emperor Wears No Clothes” by Jack Herer blew the lid off the anti-hemp conspiracy and explained all there is to know about an easy-to-grow plant with infinite, non-intoxicating uses. Why is hemp illegal? The information is in this film … and you won’t believe it!This DVD is about a man’s fight for truth, justice … and a plant. What began as his singular battle has turned into a massive movement to educate America about this environmentally friendly, beneficial plant. “Emperor of Hemp” exposes government and big-business efforts to keep the plant illegal, and takes you to the front lines of the pro-hemp movement.

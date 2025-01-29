@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1530038"
+title: "Sensi Amnesia XXL Automatic Hanfsamen"
+description: "Sensi Amnesia XXL Automatic ist eine Autoflowering-Pflanze, die ihre Blütezeit in 70–85 Tagen beendet. Sie produziert große Buds mit süßen Zitrusaromen."
+image: "https://img.sensiseeds.com/de/research/sensi-amnesia-xxl-hanfsamen-image.png"
+slug: "/de-sensi-amnesia-xxl-automatic-hanfsamen"
+url: "https://sensiseeds.com/de/research/sensi-amnesia-xxl-hanfsamen?a_aid=cannastore"
+price: 80.01
+currency: "eur"
+number_of_seeds: 10
+category: "Sensi Seeds Research"
+flowering_min: 75
+flowering_max: 85
+strain_type: "Auto"
+climate_zone: "Gemäßigtes / Kontinentales Klima"
+yield: "Mittlerer Ertrag"
+heigh_gain: "Kompakte Pflanze"
+locale: "de"
+---
+Sensi Amnesia XXL Auto eignet sich für alle Gärtner, die eine pflegeleichte und einfach zu züchtende Sorte bevorzugen. Genetisch basiert diese neue Cannabis-Sorte auf einer ursprünglichen Amnesia, die mit sich selbst rückgekreuzt und mit einer Ruderalis gekreuzt wurde. Ihre Wirkung befriedigt selbst die anspruchsvollsten Genießer: erhebend, zerebral, fröhlich und lang anhaltend, dafür steht die Sensi Amnesia Automatic Erfahrung.Wachstumsmuster von Sensi Amnesia XXL AutomaticSensi Amnesia XXL Automatic Hanfsamen sind selbstblühend, was sich in der kurzen und kompakten Natur dieser Pflanze zeigt. Züge der ursprünglichen Amnesia lassen sich an den übergroßen Fächerblättern erkennen. Der Ruderalis-Einfluss führt zu engen Internodienabständen in der Morphologie. Wenn man überschüssige Blätter entfernt, kann die Luftzirkulation im Baldachin verbessert werden. Auch die Buds profitieren davon, weil sie mehr Licht erhalten.Sobald sich an den Knotenpunkten der oberen Zweige die ersten weiblichen Blütenstempel bilden, beginnt die Blütephase. Sie dauert 70 bis 85 Tage. Sensi Amnesia XXL Automatic ist eine ideale Kandidatin für Anbauräume mit niedrigen Decken. Sie bleibt bis zur Ernte kompakt. In Innenräumen wird sie 80 bis 100 cm hoch. Draußen unter der Sonne streckt sie sich etwas mehr und wird 90 bis 120 cm hoch.Sensi Amnesia XXL Automatic Cannabis-Samen liefern in verschiedenen Zuchtmedien mittlere Erträge. Sie wachsen in Kokos, Erde und Hydrokultur. Dünne und schlanke Pflanzen wie diese können im Grow Room eng aneinandergereiht werden. Indoor-Gärtner werden für ihr Warten belohnt und können 450 bis 500 Gramm pro Quadratmeter ernten. Beim Anbau im Freien liegen die durchschnittlichen Erträge bei 200 bis 250 Gramm pro Pflanze.An den engen Internodienabständen der Sensi Amnesia XXL Automatic bilden sich große Buds. Diese gestapelten Buds sind mit dichten, geschwollenen Hochblättern übersät. Die erdig-grüne Farbe strahlt unter einer transparenten Decke von geschmacks- und cannabinoidreichen Trichomen hervor. Sensi Amnesia XXL Automatic ist für Grower aller Erfahrungsstufen geeignet und erfordert keine speziellen Anbaumethoden.Wirkung, Geschmack und Geruch von Sensi Amnesia XXL AutomaticSensi Amnesia XXL Automatic versprüht Zitrusaromen, was auf ihre Sativa-Komponente schließen lässt. Dies gilt auch für ihre angenehme Wirkung, die mit erstklassigen Sativa-Buds verglichen werden kann. Die getrockneten und ausgehärteten Buds der Sensi Amnesia XXL Automatic sind eine Hommage an Sativa-Pflanzen, der Ruderalis-Einfluss lässt sich nicht auf Anhieb erkennen.Die Wirkung von Sensi Amnesia XXL Automatic ist kraftvoll. Konsumenten berichten von einem anregenden zerebralen High, das zum Nachdenken anregt. Sensi Amnesia XXL Automatic bietet einen langanhaltenden Rausch, der fast den ganzen Tag anhält. Dunkle Gedanken werden vertrieben.Grower in kleinen Indoor-Gärten werden beim Anbau der Sensi Amnesia XXL Automatic einen Geruch wahrnehmen. Wenn das ein Problem darstellt, könnte sich eine Belüftungsanlage bewähren. Die meisten Menschen empfinden die leicht süßen und zitrusartigen Noten als angenehm. Sobald der sorgfältige Prozess des Trocknens und Aushärtens der Blüten abgeschlossen ist, kommt das Terpenprofil von Sensi Amnesia XXL erst richtig zur Geltung. Wenn sich die natürliche Sativa-Süße mit den sauren und scharfen Noten mischt, treffen zwei Kontraste aufeinander. Dieses wunderbar chaotische Terpenprofil ist in eine Decke aus schweren Zitrustönen eingewickelt und erzeugt ein Aroma mit ganz viel Pepp.Sensi Amnesia XXL Automatic hat ein ebenso interessantes Geschmacksprofil. Typisch Sativa sind die süßen Elemente, die auf halbem Weg in ein fruchtiges Profil übergehen. Am Ende steigen die starken Zitronenuntertöne auf. Sie hinterlassen auf den Lippen einen anhaltenden Zitrusgeschmack.Wussten Sie?Sensi Amnesia XXL ist eine großartige Sorte für Anfänger. Sie benötigt wenig Pflege und ist leicht anzubauen.

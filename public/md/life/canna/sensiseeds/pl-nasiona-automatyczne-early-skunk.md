@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1560107"
+title: "Nasiona Automatyczne Early Skunk"
+description: "Nasiona Early Skunk kwitną automatycznie, co ułatwia uprawę. Mieszanka 70% Indica i 30% Sativa. Działa odprężająco i poprawia nastrój."
+image: "https://img.sensiseeds.com/pl/nasiona-feminizowane/sensi-seeds/early-skunk-autoflowering-image.png"
+slug: "/pl-nasiona-automatyczne-early-skunk"
+url: "https://sensiseeds.com/pl/nasiona-feminizowane/sensi-seeds/early-skunk-autoflowering?a_aid=cannastore"
+price: 70
+currency: "eur"
+number_of_seeds: 10
+category: "Nasiona Feminizowane"
+flowering_min: 40
+flowering_max: 50
+strain_type: "Auto"
+climate_zone: "Chłodny/zimny"
+yield: "Średni plon"
+heigh_gain: "Roślina o zwartej budowie"
+locale: "pl"
+---
+Odmiana Automatyczna Early Skunk to w 70% Indica i 30% Sativa. Zadbaliśmy, aby nadawała się do uprawy outdoor i dobrze rosła nawet w klimatach z krótkim latem. Ta łatwa w uprawie odmiana jest również odporna na pleśń i szkodniki, dzięki czemu zyskała popularność wśród niedoświadczonych hodowców. Dzięki odpowiedniej proporcji genów Aativy i Indica, Automatyczna Early Skunk zapewnia doznania, które są zarówno relaksujące, jak i energetyzujące. Wzór uprawy odmiany Automatycznej Early SkunkJak wszystkie odmiany automatycznie kwitnące, rośliny Early Skunk będą rosnąć i kwitnąć bez konieczności zmiany cykli świetlnych. Rozpoczynając uprawę w odpowiednim czasie, hodowcy uprawiający rośliny outdoor mogą uzyskać kwitnienie w najcieplejszych miesiącach. Łączny okres wegetacji wynosi zwykle około ośmiu do dziewięciu tygodni, przy czym rośliny niemal co tydzień rozwijają nową parę liści. Po kolejnych ośmiu lub dziewięciu tygodniach kwitnienia szczyty będą gotowe do zbioru. Główną zaletą całej rodziny Early Skunk jest jej odporność na gnicie szczytów, które (jak wiedzą doświadczeni hodowcy) może zaatakować podczas ostatnich kilku tygodni kwitnienia i zniszczyć zbiory. Odmiana Automatyczna Early Skunk jest szczególnie dobrym wyborem dla hodowców, którzy obawiają się skutków uprawy w warunkach mokrego lub wilgotnego środowiska. Krótki czas kwitnienia i geny Early Pearl sprawiają, że ta odmiana jest szczególnie wytrzymała. Odmiana Automatyczna Early Skunk, podobnie jak większość odmian automatycznie kwitnących, ma stosunkowo niewielkie rozmiary. Jest to jeszcze bardziej zauważalne, gdy rośliny rosną w donicach. Cecha ta stanowi jednak jedną z zalet tej odmiany, ponieważ dzięki niej rośliny idealnie nadają się dla osób pragnących zachować dyskrecję. Odmiana Automatyczna Early Skunk radzi sobie w większości miejsc, nawet na balkonach i w małych ogródkach. W momencie zbioru wokół górnych węzłów i przylistków pojawią się gęste i grube szczyty. Zazwyczaj łączą się one w szerokie, zaokrąglone łańcuchy. Szczyty na niższych gałęziach mają tendencję do tworzenia pojedynczych skupisk, co sprawia, że roślina wraz ze wzrostem wydaje się być coraz cięższa. Ze względu na automatyczny proces kwitnienia Early Skunk nie oferuje takich samych plonów jak nasze pozostałe wersje tej odmiany. Nie jest to jednak problem dla większości hodowców, którzy postrzegają to jako sprawiedliwy kompromis, ponieważ mogą uprawiać konopie w niskich temperaturach, bez większego wysiłku i wiedzy fachowej. Odmiana Automatyczna Early Skunk oferuje hodowcom możliwość uzyskania nawet dwóch zbiorów jednego lata. Uzyskuje się to poprzez zaplanowanie pierwszego sadzenia wczesną wiosną, a drugiego bezpośrednio po zbiorze pierwszego. Trening i „supercropping” nie są odpowiednie w przypadku tego szczepu. Dobrze reaguje on jednak na uprawę metodą „morza zieleni” (SOG), „zielonego ekranu” (SCROG) oraz lizakowania („lollipopping”). Efekt, smak i aromat odmiany Automatycznej Early SkunkOdmiana Automatyczna Early Skunk ma intensywny, odurzający zapach. Jest on dość łagodny w okresie kwitnienia, ale staje się zdecydowanie silny podczas zbiorów. Wyczuwalne są ciepłe, pikantne nuty (zawdzięczane genom Sativa) o piżmowym, słodkim tonie. Po zapaleniu użytkownicy mogą spodziewać się typowego efektu Skunk, czyli relaksującego i skoncentrowanego na ciele doznania. Dochodzi do tego poprawiające nastrój intelektualne uczucie, zawdzięczane wpływowi genów Sativa. Efekt nie jest zbyt mocny, dzięki czemu odmiana ta jest odpowiednia dla osób szukających marihuany do użytku dziennego lub niezaznajomionych z efektami działania konopi. Czy wiesz, że…?Jest to jedna z naszych najłatwiejszych do uprawy odmian, bez względu na poziom doświadczenia hodowcy.Early Skunk można uprawiać praktycznie wszędzie — od zimnych, wilgotnych miejsc na północy Europy po słoneczny parapet. Sensi Seeds oferuje również odmianę Regularną Early Skunk oraz odmianę Feminizowaną Early Skunk

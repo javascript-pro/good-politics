@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1530015"
+title: "Blackberry Cake Feminisierte Hanfsamen"
+description: "Blackberry Cake -70 % Indica, 30 % Sativa. Preisgekrönte Abstammung, erzeugt ein Zitrusaroma und einen Zitrusgeschmack. High entspannend und warm."
+image: "https://img.sensiseeds.com/de/research/blackberry-cake-feminisiert-image.png"
+slug: "/de-blackberry-cake-feminisierte-hanfsamen"
+url: "https://sensiseeds.com/de/research/blackberry-cake-feminisiert?a_aid=cannastore"
+price: 53
+currency: "eur"
+number_of_seeds: 10
+category: "Sensi Seeds Research"
+flowering_min: 55
+flowering_max: 70
+strain_type: "Feminized"
+climate_zone: "Sonniges / Mediterranes Klima"
+yield: "Großer Ertrag"
+heigh_gain: "Kompakte Pflanze"
+locale: "de"
+---
+Dieser Hybridstamm hat eine beeindruckende Abstammung. Sein genetischer Pool besteht aus Wedding Cake, Black Domina und der weltbekannten Durban. Die Wedding Cake, auch bekannt als Pink Cookies, ist eine köstlich dekadente Sorte aus den USA mit kuchenähnlichen Aromen und stark entspannender Wirkung, mit der wir gerne arbeiten. Sie stammt von ihren Eltern ab: Von der allgemein bekannten Girl Scout Cookies und einer süßlich kirschig schmeckenden amerikanischen Sorte, der Cherry Pie. Diese amerikanischen genetischen Komponenten präsentieren die Noten von Blueberry Cake in einer neuen, süßen und kraftvollen Sensi Seeds-Sensation.Wachstumsmuster der Blackberry Cake FeminisiertDie Blackberry Cake besteht zu 70 % aus Indica und 30 % aus Sativa, und die Pflanzen sind kompakt, buschig und voller großer, klebriger Buds. Die Indica-Dominanz zeigt sich im erdigen, vollmundigen Duft und Geschmack, ganz zu schweigen von dem warmen, entspannenden High. Die Züchter werden mit dieser Sorte wahrscheinlich reiche Erträge erzielen, besonders wenn sie in einem warmen, sonnigen Klima angebaut werden. Diese 70 % Indica sind im entspannenden, beruhigenden High offensichtlich, obwohl sich die Anwender dank des Sativa-Einflusses der Durban auch gehoben fühlen werden. Wie andere indica-dominante Stämme sind die Pflanzen in der Lage, ohne allzu große Anstrengungen große Erträge zu produzieren. Diese Pflanzen werden alle wachsen und blühen, als ob sie weiblich wären, da die Samen feminisiert sind. Dies ist für unerfahrene Züchter von Vorteil, da es nicht notwendig ist, männliche Pflanzen während der Kultivierungsphase auszumachen und zu entfernen. Die Blütezeit dieser Sorte ist moderat und dauert 55 bis 70 Tage. Das bedeutet, dass die Züchter nicht allzu lange warten müssen, um eine Ernte zu erhalten. Obwohl es einen Sativa-Einfluss gibt, sind die Pflanzen in ihrem Wachstumsmuster meist indicaartig und bleiben ziemlich kompakt, selbst wenn sie die volle Reife erreichen. Züchter, die nach einer Sorte suchen, die sie diskret anbauen können, werden dies zweifellos als Vorteil ansehen. Die Pflanzen sind kräftig, kurz und buschig, mit einem dicken Mittelstamm und vielen Zweigen. Während der Blütezeit bilden sich viele Knospen, die in der Regel groß und gewichtig aussehen. Wenn sie unter den richtigen Bedingungen kultiviert werden, können die Züchter mit umfangreichen Erträgen rechnen, sowohl drinnen als auch draußen. Das ideale Klima für diese Sorte ist mediterran oder jedes Land, das einen langen, warmen Sommer mit viel Sonnenlicht bietet. Die meisten Anbautechniken funktionieren gut mit dieser Sorte, wie z.B. SCROG (Screen of Green), SOG (Sea of Green) und Supercropping. Wirkung, Geschmack und Geruch der Blackberry Cake FeminisiertDie Sorte besteht zu 70 % aus Indica und 30 % aus Sativa, und der Einfluss ihrer preisgekrönten Elternpflanzen lässt sich am Aroma, Geschmack und dem daraus resultierenden High erkennen. Wie bei vielen indicadominanten Sorten ist die Wirkung intensiv entspannend und vermittelt dem Anwender ein Gefühl der Wärme und Zufriedenheit, was ein klassischer Charakterzug der Wedding Cake ist. Der Sativa-Einfluss der Durban verleiht dem Produkt eine Note von Euphorie und Kreativität. Der Duft ist angenehm, wobei die Pflanzen ein reiches, erdiges und holziges Aroma mit einer Zitrusnote erzeugen. Dieser Zitrusgeschmack ist auch im Geschmack präsent, zusammen mit einem Hauch von Cremigkeit und Gewürzen; eine ganz besondere Kombination, die die Genetik der US und Sensi Seeds optimal ausnutzt. Kurz gefasstDie Sorte ist kompakt, und als solche kann sie diskret angebaut werden, sowohl drinnen als auch draußen.Sie hat eine beachtliche Abstammung, darunter Wedding Cake, Durban, und Black Domina.Sie hat einen angenehmen, warmen, fruchtigen Zitrusduft und -geschmack, mit einer cremigen Note.Obwohl die Pflanzen eine gewisse Resistenz gegen Schädlinge und Schimmelpilze aufweisen, sollten Neulinge bei der Kultivierung der Pflanzen vorsichtig sein.

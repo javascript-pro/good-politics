@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1560006"
+title: "Les Graines de Feminized Mix"
+description: "La Feminized Mix : mélange aléatoire de graines de différentes variétés par Sensi Seeds. Idéales pour l’expérimentation à un coût moindre."
+image: "https://img.sensiseeds.com/fr/graines-feminisees/sensi-seeds/mix-femelle-image.png"
+slug: "/fr-les-graines-de-feminized-mix"
+url: "https://sensiseeds.com/fr/graines-feminisees/sensi-seeds/mix-femelle?a_aid=cannastore"
+price: 80.01
+currency: "eur"
+number_of_seeds: 20
+category: "Graines Féminisées"
+flowering_min: 0
+flowering_max: 0
+strain_type: "Feminized"
+climate_zone: "Méditerranéen/ Ensoleillé"
+yield: ""
+heigh_gain: "Mixed"
+locale: "fr"
+---
+Le mélange de graines Feminized Mix par Sensi Seeds permet aux cultivateurs d’obtenir un jardin excitant et regorgeant de nos variétés indica et sativa, leur offrant ainsi une expérience maximale pour un investissement minimal. La dernière chose que veulent certains jardiniers est un élément de surprise. Toutefois, certains recherchent exactement ce qu’un sachet de variétés de cannabis différentes peut leur offrir. Que le but soit de sélectionner quelques plantes favorites ou simplement de tester les diverses variétés , le mélange de graines de Feminized Mix a beaucoup à offrir. Schéma de croissance du mélange de Feminized MixLe mélange de graines de Feminized Mix est conçu pour les cultivateurs qui aiment les expériences et l’aventure. Les graines ne sont pas étiquetées ; la seule chose qui les unit c’est qu’elles sont féminisées. Lors de la culture des plantes, les cultivateurs devront observer lesquelles sont à dominante indica et lesquelles sont des sativa. On peut y arriver en observant les feuilles, et à mesure que les plantes prospèrent, en notant leur taille et leur forme. Dès qu’elles ont été identifiées, les cultivateurs en intérieur peuvent faire fleurir les variétés sativa féminisées avant les indica. Cela encourage les cultures à être prêtes pour la récolte à des moments semblables. Attention : la taille des plantes peut être très différente, en fonction de la variante cultivée. Les jardiniers confiants pourraient utiliser les graines de Feminized Mix pour expérimenter diverses techniques d’entraînement et de culture. Les méthodes Sea of Green (SOG) et Screen of Green (ScrOG) ne seront pas appropriées ici, puisquelles sont généralement réservées aux cultures uniformes. Toutefois, pour les cultivateurs qui disposent d’un espace suffisant, les techniques de super culture, d’étêtage et de fimming produisent d’excellents résultats. Il est avisé d’effectuer la culture en intérieur dans les climats plus froids. Toutefois, ceux qui vivent dans un climat chaud et ensoleillé peuvent cultiver le mélange de graines de Feminized Mix en extérieur ou en serre. Cela signifie qu’une récolte échelonnée est une possibilité ; pour cela, il faut seulement couper les plantes lorsqu’elles sont prêtes. À noter : il y aura vraisemblablement plus de variétés indica que sativa, puisqu’elles tendent à produire plus de graines. Tous les sachets de graines de Feminized Mix sont préparés aléatoirement, il est donc impossible de prédire les variétés ou les quantités de chacune d’elles dans les sachets. L’effet, le goût et l’odeur du mélange de graines de Feminized MixLe mélange de graines de Feminized Mix par Sensi Seeds contient une variété de graines différentes, ce qui signifie que l’utilisateur pourra profiter d’une vaste gamme de goûts, de parfums et d’effets. Les variantes indica ont généralement des notes de base terreuses et épicées ; tandis que les variantes sativa tendent à avoir des notes de tête fraîches et herbacées (surtout si elles proviennent de la famille Haze). L’un des principaux avantages de la culture du mélange de graines de cannabis Feminized Mix est de profiter du spectre d’arômes et de goûts différents. Les effets varieront en fonction de la plante. Dès que les fleurs sont affinées, certains cultivateurs choisissent de les séparer des autres plantes, puis d’essayer de deviner quelle variété ils ont cultivée. D’autres préfèrent mélanger les têtes et créer un cocktail de cannabis et développer leur mélange perso préféré. Le saviez-vous ?Le mélange de graines de Feminized Mix n’est pas le seul mélange proposé par Sensi Seeds. Il y a également le Indoor Mix et le Outdoor Mix (ces deux mélanges sont proposés en variante standardisée).Il s’agit d’un mélange sativa et indica idéal pour les cultivateurs aventureux qui souhaitent tester plusieurs plantes de cannabis différentes.Le mélange comprend souvent certaines variétés primées, y compris certaines ayant remporté des honneurs lors de la Cannabis Cup.

@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1520024"
+title: "Semi di Pure Power Plant Autofiorenti della White Label"
+description: "La Pure Power Plant Autofiorente della White Label è indica al 50%. Il fondo sativa del 30% produce un effetto euforico ed edificante."
+image: "https://img.sensiseeds.com/it/semi-femminizzati/whitelabel/pure-power-plant-autoflowering-image.png"
+slug: "/it-semi-di-pure-power-plant-autofiorenti-della-white-label"
+url: "https://sensiseeds.com/it/semi-femminizzati/whitelabel/pure-power-plant-autoflowering?a_aid=cannastore"
+price: 99.99
+currency: "eur"
+number_of_seeds: 10
+category: "Semi Femminizzati"
+flowering_min: 45
+flowering_max: 55
+strain_type: "Auto"
+climate_zone: "Fresco /Freddo"
+yield: "Resa media"
+heigh_gain: "Pianta compatta"
+locale: "it"
+---
+Pure Power Plant Autofiorente della White Label unisce il meglio di entrambi i mondi: facilità di coltivazione e un effetto intenso ed energizzante. Le piante hanno un profumo meravigliosamente caratteristico, pepato e speziato, e le cime sono caratterizzate da deliziose note di agrumi. Grazie alla sua discendenza indica, è una varietà compatta e può essere coltivata in modo discreto. Lincorporazione della genetica ruderalis permette alle piante di prosperare anche nei climi più freddi.Coltivazione della Pure Power Plant AutofiorenteI semi di cannabis Pure Power Plant Autofiorenti della White Label combinano la genetica indica (50%) con la sativa e la ruderalis (30% e 20% rispettivamente). Questa popolare varietà è stata sviluppata negli anni 90 e da allora è stata una delle preferite dai coltivatori di tutto il mondo.Lequilibrio tra indica e sativa offre i vantaggi di entrambi i tipi di cannabis: dimensioni compatte e crescita più veloce, combinate con un effetto più tonificante. Le piante sono inoltre per il 20% ruderalis, il che le rende più resistenti e robuste.È una varietà autofiorente, il che la rende adatta anche ai coltivatori principianti. Le piante robuste crescono rapidamente: aspettatevi che la fioritura inizi circa tre o quattro settimane dal momento della germinazione, con un periodo di fioritura di circa 45-55 giorni. Il ciclo completo di crescita è di circa 70 giorni dalla semina alla raccolta; ideale per chi vuole risultati rapidi. Alcuni coltivatori sfruttano al massimo questa crescita rapida per godere di più raccolti ogni anno.I geni indica della Pure Power Plant Autofiorente della White Label fanno sì che le piante siano tipicamente di dimensioni compatte. Infatti la maggior parte cresce solo fino a circa 80-100 cm, vale a dire che possono essere coltivate con discrezione in serra o in giardino. Allinterno, di solito sono ancora piùbasse, con unaltezza media di circa 50-70 cm. Questo è vantaggioso se lo spazio è limitato.Le piante sono in gran parte anche di struttura indica, con una forma ad albero di pino e brevi spazi internodali. Non presentano troppe ramificazioni laterali. In termini direndimento, i coltivatori possono prevedere di generare circa 250-400 grammi al metro quadrato, o 120-180 grammi se le piante sono coltivate allesterno.Quando le cime iniziano a svilupparsi, la genetica sativa diventa più evidente. Aspettatevi che siano coperte di tricomi densi, appiccicosi e abbondanti. Tuttavia, anche le cime sono compatte (il che è più tipico delle varietà indica).La Pure Power Plant Autofiorente è una varietà robusta e resistente, e prospera bene nella maggior parte dei climi; anche quelli con estati più fresche e brevi. Le piante hanno bisogno di unabbondante ventilazione verso la fine della fase di fioritura, per evitare problemi di muffa. A parte questo, sono eccezionalmente facili da coltivare.Effetto, sapore ed odore della Pure Power Plant AutofiorenteGrazie allequilibrio di indica / sativa, la Pure Power Plant Autofiorente della White Label è edificante, potente e anche intensamente cerebrale. I consumatori segnalano un senso di energia e di entusiasmo con questa varietà, il che la rende adatta alle situazioni conviviali. È anche incredibilmente potente, aspetto che i consumatori inesperti dovrebbero tenere a mente.Durante la crescita, le piante producono un caratteristico aroma pepato e legnoso. Anche le cime sono caratterizzate da questo profumo speziato, inebriante, e presentano anche un accenno di agrumi, evidente nel gusto.Lo sapevi?La Pure Power Plant della White Label ha vinto il 1° posto nella categoria Miglior Ibrido Medico (Cannabis Cup).È considerata una delle varietà più facili da coltivare.La Pure Power Plant è disponibile anche in unaltra variante: Pure Power Plant Femminizzata della White Label.È disponibile nei coffeeshop olandesi fin dagli anni 90, ed è ancora una voce fissa nella maggior parte dei menu.

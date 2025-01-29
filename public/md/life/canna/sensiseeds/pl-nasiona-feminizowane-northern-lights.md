@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1560011"
+title: "Nasiona Feminizowane Northern Lights"
+description: "Odmiana Feminizowana Northern Lights to w 90% Indica. Daje obfite plony, jest kompaktowa i nie wydziela silnego zapachu. Ułatwia to dyskretną uprawę."
+image: "https://img.sensiseeds.com/pl/nasiona-feminizowane/sensi-seeds/northern-lights-image.png"
+slug: "/pl-nasiona-feminizowane-northern-lights"
+url: "https://sensiseeds.com/pl/nasiona-feminizowane/sensi-seeds/northern-lights?a_aid=cannastore"
+price: 130
+currency: "eur"
+number_of_seeds: 10
+category: "Nasiona Feminizowane"
+flowering_min: 45
+flowering_max: 50
+strain_type: "Feminized"
+climate_zone: "Słoneczny/śródziemnomorski"
+yield: "Obfity plon"
+heigh_gain: "Roślina o zwartej budowie"
+locale: "pl"
+---
+Odmiana Feminizowana Northern Lights jest łatwa w uprawie i daje wspaniałe plony. To szczep z dominacją Indica (90%), co oznacza kompaktowe rozmiary i możliwość dyskretnej uprawy. Użytkownicy potwierdzają błogi, relaksujący haj, który odpręża mięśnie i uspokaja umysł. Aromat jest bardzo charakterystyczny dla Indica; ziemisty, bogaty i cierpki. Przenosi się on do smaku, który zawiera również nutę owoców i ziół. Wzór uprawy odmiany Feminizowanej Northern LightsNasiona Feminizowane Northern Lights to w 90% Indica i 10% Sativa. Szczep zawiera geny zarówno tajlandzkich, jak i afgańskich odmian lokalnych, a Sensi Seeds nadała mu nową formę. Obecnie wykazuje wiele zalet roślin w typie Indica; kompaktowy rozmiar, relaksujący haj i krótki czas kwitnienia. Jest to feminizowana odmiana szczepu, czyli uzyskanie roślin męskich jest wyjątkowo mało prawdopodobne. Upraszcza to uprawę, co jest przydatne dla początkujących hodowców. Oprócz tego odmiana Feminizowana Northern Lights ma wyjątkowo krótki czas kwitnienia (zaledwie 45–50 dni). To zaleta dla hodowców, którzy oczekują szybkich rezultatów lub chcą osiągnąć kilka zbiorów w ciągu roku. Podobnie jak wiele odmian z dominacją genów Indica, odmiana Feminizowana Northern Lights osiąga stosunkowo niewielkie rozmiary. Rośliny uprawiane indoor dorastają zwykle do około 80–130 cm wysokości. To mile widziana wiadomość dla hodowców, którzy dysponują ograniczoną przestrzenią w obrębie swojej nieruchomości. Należy jednak pamiętać, że rośliny uprawiane outdoor mogą osiągać wysokość od 150 do 200 cm, co oznacza, że będą one wymagały więcej miejsca na rozkwit. Rośliny odmiany Feminizowanej wersji Northern Lights są krzaczaste, mają wiele rozgałęzień i krzepki wygląd. Gdy są uprawiane w optymalnych warunkach, rozwiną liczne szerokie liście i duże szczyty, dając obfite plony. Rośliny uprawiane indoor prawdopodobnie wygenerują około 500 gramów na metr kwadratowy. Hodowcy uprawiający rośliny outdoor mogą spodziewać się około 600 gramów na roślinę. Szczyty mają charakterystyczny wygląd. W miarę rozwoju otaczają się grubą powłoką żywicy i zazwyczaj są gęsto skupione. Rośliny kwitną w cieplejszym klimacie, szczególnie w miejscach takich jak basen Morza Śródziemnego. Można je również uprawiać indoor lub w szklarni. W przypadku odmiany Feminizowanej Northern Lights doskonale sprawdza się trening SOG („morze zieleni”), zapewniając znakomite wyniki. Dobrze działa też metoda SCROG („zielony ekran”), skuteczne są także techniki „lollipopping” i „supercropping”. Efekt, smak i aromat odmiany Feminizowanej Northern LightsOdmiana Feminizowana Northern Lights zawiera głównie geny Indica (90%), co wyraźnie widać w jej haju. Jak można się spodziewać po szczepie w Indica, haj jest głęboko uspokajający i intensywny, a użytkownicy twierdzą, że rozluźnia mięśnie i uspokaja umysł. Haj jest bardzo silny, o czym powinni wiedzieć niedoświadczeni użytkownicy. Również aromat ma charakter typowy dla Indica. Jest cierpki, ziemisty i bogaty, choć niezbyt przytłaczający. Jest to korzystne dla tych, którzy uprawiają roślinę indoor lub chcą zachować dyskrecję podczas uprawy na zewnątrz. Zapach nasila się nieco, gdy szczyty stają się gotowe do zbioru, a po ich wysuszeniu staje się bardziej złożony. Zapachy owoców i ziół są wtedy szczególnie wyczuwalne i można je zauważyć również podczas próbowania. Czy wiesz, że…? Szczep Northern Lights zdobył wiele nagród na przestrzeni lat.Jest tak częstym laureatem nagród, że niektórzy nawet wnioskowali o pominięcie go w konkursach, by dać szansę innym szczepom. Odmiana feminizowana Northern Lights została wspomniana w różnych piosenkach, szczególnie w utworach rapowych. Szczep dostępny jest również jako: odmiana Regularna Northern Lights i odmiana Automatyczna Northern Lights.Zwykle rośnie dobrze przy wyższych poziomach azotu.Odmiana Feminizowana Northern Lights nie wydziela zapachu podczas uprawy, co jest zaletą dla osób uprawiających ją we własnych domach.

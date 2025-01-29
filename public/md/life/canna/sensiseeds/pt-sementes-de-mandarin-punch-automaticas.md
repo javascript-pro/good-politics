@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1530018"
+title: "Sementes de Mandarin Punch Automáticas"
+description: "Variedade 60% indica, 20% sativa e 20% ruderalis. Compacta e densa, pode ser cultivada discretamente. Efeito relaxante, e ainda de euforia e alegria."
+image: "https://img.sensiseeds.com/pt/research/mandarin-punch-automatica-image.png"
+slug: "/pt-sementes-de-mandarin-punch-automaticas"
+url: "https://sensiseeds.com/pt/research/mandarin-punch-automatica?a_aid=cannastore"
+price: 63
+currency: "eur"
+number_of_seeds: 10
+category: "Sensi Seeds Research"
+flowering_min: 65
+flowering_max: 70
+strain_type: "Auto"
+climate_zone: "Ameno / Frio"
+yield: "Forte Rendimento"
+heigh_gain: "Planta compacta"
+locale: "pt"
+---
+Esta variedade impressiona pelas suas plantas-mãe, tais como a premiada NYC Diesel, a Hindu Kush, a White Widow e a Maple Leaf Indica. A sensação de relaxamento colado ao sofá deve-se aos 60% de indica, embora a influência dos 20% sativa seja evidente no efeito de euforia. Sendo uma variedade automática, contém ainda 20% de ruderalis, podendo ser cultiva na maioria dos climas. As plantas são suficientemente compactas para serem cultivadas discretamente, produzindo um aroma cítrico e tropical. A dinastia das espécies Punch é uma das novas tendências de canábis dos EUA, que oferece sabores frutados às outras espécies. A Mandarine Punch é uma nova espécie desta linha, realçando os aromas cítricos de mandarina da sua composição.Padrão de crescimento da Mandarine Punch Automa´ticaDesenvolvida pela Sensi Seeds, esta variedade dispõe de um extraordinário património genético. As suas plantas-mãe incluem a White Widow, a Maple Leaf Indica, a NYC Diesel e a Hindu Kush. Estas variedades são altamente conceituadas à escala mundial. 60% indica, 20% sativa e 20% ruderalis. A predominância indica é evidente no aspeto das plantas, baixas e robustas, com um potente efeito pedrado colado ao sofá. Contudo, é ainda possível detetar a influência sativa na sensação de euforia e alegria. Feminizadas e autoflorescentes, estas sementes são fáceis de cultivar, até para principiantes. De tamanho compacto mesmo quando alcançam a maturidade, o período de floração destas plantas é de 9 semanas (63 dias). Tal é vantajoso para produtores que pretendem cultivar discretamente, tanto no interior como no exterior. Em termos visuais, assemelham-se às variedades com predominância indica, com uma haste central espessa e muitos ramos densos. Geralmente, os brotos formam-se em torno da cola central, em vez de se formarem nos próprios ramos. Os produtores podem esperar um rendimento relativamente bom, tanto mais que se trata de uma variedade autoflorescente. Uma das principais vantagens de uma variedade automática prende-se com a possibilidade de cultivo na maioria dos climas, esta variedade não sendo uma exceção à regra. As plantas poderão crescer bem na maioria dos locais, mesmo em países com verões mais frios e mais curtos. Podem reagir bem às técnicas de cultivo mais populares, como a SOG (Sea of Green - “mar de verde”), a “supercropping” (danificar o tecido interno do caule mas sem rompê-lo) e a “lollipopping” (corte dos galhos e dos ramos da parte inferior da planta), assim que os produtores tiverem um pouco de experiência. Efeito, sabor e aroma da Mandarine Punch Automa´ticaSendo uma variedade com 60% indica, os utilizadores podem esperar um efeito pedrado colado ao sofá ao consumi-la. Contudo, é ainda possível detetar a influência sativa na sensação de euforia e criatividade. Ao crescerem, as plantas desenvolvem um agradável aroma doce e cítrico graças à associação da Diesel e Maple Leaf Indica. O aroma tem tendência em intensificar-se com a aproximação da colheita, sendo ainda evidente durante a fase de endurecimento. Em termos de sabor, as notas de frutos tropicais estarão no primeiro plano, juntamente com uma saborosa doçura. Resumidamente Com uma predominância indica, as plantas desta variedade são compactas. Deste modo, são mais fáceis de cultivar discretamenteO aroma e o sabor são ambos frutados, tropicais e cítricosEspere um efeito pedrado profundamente relaxante para o corpo, produzindo ainda uma sensação de alegria e criatividadeO seu património genético inclui a Maple Leaf Indica, a NYC Diesel, a White Widow e a Hindu Kush, todas elas variedades premiadas com uma incrível notoriedade.Sendo uma variedade automática, podem ser cultivada na maioria dos climas, mesmo aqueles com temperaturas mais friasFeminizada, é mais fácil cultivar esta variedade uma vez que os produtores não terão de identificar e remover as plantas macho.

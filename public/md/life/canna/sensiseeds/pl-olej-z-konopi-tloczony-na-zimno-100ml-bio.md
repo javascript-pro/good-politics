@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "5201008"
+title: "olej z konopi tłoczony na zimno 100ml BIO"
+description: "Kup olej z konopi tłoczony na zimno Sensi Seeds Najwyższej jakości, organiczny i smaczny. Zamów butelkę 100 ml z opcją szybkiej dostawy"
+image: "https://img.sensiseeds.com/pl/zywnosc-konopa/olej-konopny-tloczony-na-zimno-100ml-image.png"
+slug: "/pl-olej-z-konopi-tloczony-na-zimno-100ml-bio"
+url: "https://sensiseeds.com/pl/zywnosc-konopa/olej-konopny-tloczony-na-zimno-100ml?a_aid=cannastore"
+price: 9.95
+currency: "eur"
+number_of_seeds: 0
+category: "KSIĄŻKI"
+flowering_min: 0
+flowering_max: 0
+strain_type: ""
+climate_zone: ""
+yield: ""
+heigh_gain: ""
+locale: "pl"
+---
+Zalety produktów spozywczych z konopiChcesz sprawdzic moc superzywnosci zawarta w oleju konopnym? Nasz tloczony na zimno olej konopny BIO pelny jest niezbednych skladników odzywczych, które wzbogaca kazda diete. Ten smaczny olej o szerokim dzialaniu nie tylko poprawia smak surowych potraw, ale dziala tez jako doskonaly produkt do pielegnacji skóry.Skorzystaj z zalet organicznego oleju konopnegoOlej konopny jest jednym z najlepszych zródel niezbednych nienasyconych kwasów tluszczowych oraz przeciwutleniaczy. Dzieki temu wplywa wyjatkowo korzystnie na uklad krazenia i chroni cialo przed skutkami starzenia sie. Nasz ekologiczny olej konopny jest produktem calkowicie nienasyconym i nierafinowanym. Dzieki lagodnemu orzechowemu smakowi jest pysznym dodatkiem do salatek, dressingów i sosów.Lagodny orzechowy smakUwielbiamy dodawac olej konopny do potraw na surowo. Swieze pesto (z dodatkiem bazylii i nasion konopi) czy ziolowy sos vinaigrette (z octem balsamicznym i swiezym tymiankiem) sa naszymi sztandarowymi przepisami. Olej najlepiej stosowac na zimno, gdyz w takiej postaci zachowuje wysoka zawartosc niezbednych aminokwasów. 30 ml oleju zawiera zalecana dzienna ilosc niezbednych kwasów tluszczowych. To znaczy, ze zaledwie 2 lyzki stolowe dostarczaja bogactwa skladników odzywczych.Pyszny i dobry na wszystkoCzy wiesz, ze olej konopny ma wskaznik SPF 6? Oznacza to, ze po nalozeniu na skóre pelni role naturalnej ochrony przed sloncem. Bedac w 100% produktem roslinnym, jest odpowiedni zarówno dla wegan, jak i osób na lekkostrawnej diecie. Olej konopny ma same zalety.Superzywnosc na bazie konopi daje mnóstwo wyjatkowych korzysciPrzez setki lat olej konopny pozyskiwany z nasion konopi stosowany byl z uwagi na swoje wlasciwosci zdrowotne. Nasiona konopi sa odzywcze z wielu powodów, ale najwazniejsze sa wysokiej jakosci tluszcze powstajace podczas wytwarzania oleju w procesie tloczenia na zimno. Bogactwo fitoskladników, zdrowych tluszczów i antyoksydantów w wieloraki sposób poprawia stan zdrowia. Wplywa miedzy innymi na równowage hormonalna, zapobiega starzeniu sie i chroni skóre.Ukojenie dla skóry: Witamina E zawarta w oleju konopnym zmniejsza stan zapalny i nawilza, dzieki czemu doskonale lagodzi podrazniona skóre przy takich schorzeniach, jak egzema, luszczyca i wysypka.Wlosy pelne blasku: Spozywanie oleju konopnego lub nakladanie go co tydzien w formie maski na wlosy moze w duzym stopniu poprawic nawilzenie wlosów. A to oznacza bardziej lsniace i zdrowo wygladajace wlosy.Ulga w bólu artretycznym: Dzialanie immunomodelujace nienasyconych kwasów tluszczowych w polaczeniu z przeciwzapalnym dzialaniem witaminy E oraz kwasów omega-3 moze pomóc zlagodzic objawy zapalenia stawów.Przeciwutleniacze w walce z procesami starzenia: Kluczem do starzenia sie z wdziekiem sa przeciwutleniacze. Z biegiem czasu w organizmie kumuluja sie szkodliwe czynniki wywolane dzialaniem wolnych rodników. Spozywanie produktów z wysoka zawartoscia przeciwutleniaczy neutralizuje dzialanie wolnych rodników, co chroni komórki przed uszkodzeniem.Równowaga hormonalna: Badania wykazaly, ze kwasy ?-linolenowe (GLA) sa pozyteczne w przywracaniu równowagi hormonalnej. W przypadku kobiet moga one zlagodzic objawy zespolu napiecia przedmiesiaczkowego i zmniejszyc bóle menstruacyjne.Wieksza odpornosc: Konopie sa odzywcze z wielu powodów, ale najwazniejszym sa wysokiej jakosci tluszcze zawarte w oleju tloczonym na zimno. Kwasy tluszczowe sa niezbedne do modulowania czynnosci ukladu odpornosciowego.Mocne serce i odporny uklad nerwowy: Wiadomo juz, ze nienasycone kwasy tluszczowe wplywaja na wzmocnienie serca. GLA pomaga obnizyc stezenie zlego cholesterolu i zapobiega odkladaniu sie w tetnicach tluszczów nasyconych. Niezbedne kwasy tluszczowe sa nieodzowne takze dla ukladu nerwowego.Produkty Sensi Seeds Hemp Foods nie zawieraja zadnych dodatków i sa calkowicie naturalne. Nasze najwyzszej jakosci produkty organiczne sa przebadane i posiadaja certyfikat EKO.Wiec wzmocnij swój organizm, kupujac juz teraz olej z konopi BIO!

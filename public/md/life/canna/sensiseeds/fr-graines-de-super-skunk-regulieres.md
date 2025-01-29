@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1500021"
+title: "Graines de Super Skunk Régulières"
+description: "La Super Skunk Régulière : idéale pour les cultivateurs débutants et experts. Importants rendements et high relaxant. 80 % indica et 20 % sativa."
+image: "https://img.sensiseeds.com/fr/graines-de-cannabis/sensi-seeds/super-skunk-image.png"
+slug: "/fr-graines-de-super-skunk-regulieres"
+url: "https://sensiseeds.com/fr/graines-de-cannabis/sensi-seeds/super-skunk?a_aid=cannastore"
+price: 48
+currency: "eur"
+number_of_seeds: 10
+category: "Intérieur / Serre"
+flowering_min: 45
+flowering_max: 50
+strain_type: "Regular"
+climate_zone: "Tempéré/ Continental"
+yield: "Récolte abondante"
+heigh_gain: "Gain de taille moyen"
+locale: "fr"
+---
+La Super Skunk a été maintes fois primée et gagne des adeptes depuis sa mise sur le marché en 1990. Les plantes solides et les puissants effets sont attribués à l’hybridation de Skunk #1, une variété mondialement reconnue, avec une variété indica afghane robuste au fort rendement. Les effets fortement relaxants sont agrémentés par l’ascendance sativa, en procurant un high de longue durée, lequel est puissant sans être soporifique. Schéma de croissance de la Super Skunk RégulièreLes graines de Super Skunk Régulières donnent des plantes solides et uniformes de forme conique et qui produisent des branches épaisses et serrées. Grâce à l’ascendance à dominante indica de cette variété , les plantes dépassent rarement une taille moyenne, ce qui en fait des plantes faciles à gérer pour les cultivateurs en intérieur. Les courtes périodes de végétation permettent de s’assurer que les plantes de Super Skunk demeurent compactes. Il est possible d’augmenter les rendements en étendant la taille de la période de végétation. Il s’agit de la variété régulière, ce qui signifie que les graines produiront des plantes mâles et femelles. Cet avantage permet de créer des hybrides. Cette variété est également un choix sensé pour les personnes qui recherchent une variété qui peut résister aux fluctuations environnementales et qui est idéale aux premiers essais de culture en extérieur. La Super Skunk est un mélange à 80 % indica et à 20 % sativa. Sa période de floraison est courte, soit environ sept semaines. Dès que la floraison commence, les têtes se développent rapidement. Ces têtes sont purement indica : grosses, lourdes et recouvertes de trichomes. Il faut s’attendre à un fort rendement de cette plante ! Cette variété est particulièrement bien adaptée à la culture en intérieur sous des lampes. Toutefois, il est possible de les cultiver en extérieur dans des climats tempérés. Dans des conditions estivales normales, les plantes produiront d’excellentes récoltes de grosses têtes. Elles sont également idéales pour effectuer une culture en serre, bien qu’une circulation d’air adéquate doive être présente, en particulier dans les dernières semaines de la floraison. Les cultivateurs plus expérimentés pourraient souhaiter expérimenter des techniques comme le fimming, l’étêtage et le lollipopping, puisque la variété Super Skunk répond bien à ces dernières. L’étêtage et le fimming sont particulièrement adaptées à l’augmentation du rendement ; les colas des nouvelles branches principales deviendront sensiblement plus gros. L’effet, le goût et l’odeur de la Super Skunk RégulièreLa Super Skunk produit un parfum particulièrement intense, en particulier lors des dernières étapes de la période de floraison. L’odeur diffère de celle des autres membres de la famille Skunk en raison de son arôme d’agrumes sucrés, combiné à des notes de base terreuses et épicées. Il faut toutefois être conscient de la puissante odeur. Les cultivateurs en intérieur pourraient vouloir utiliser des purificateurs d’air pour empêcher la propagation des odeurs à l’extérieur de l’espace de croissance. Lors de la consommation, on notera que l’odeur est répliquée dans le goût : une dominante en agrumes avec des notes terreuses et une touche de sucre. On a même comparé son goût à celui de la mandarine. Les effets de la Super Skunk sont puissants et ses qualités de détente en font une variété de choix pour les personnes recherchant un soulagement du stress. L’équilibre indica et sativa crée un high tonique et agréable, tout en procurant un sentiment de calme et de tranquillité. Le saviez-vous ?La Super Skunk a été mise sur le marché en 1990 et demeure, à ce jour, une variété très populaire.Elle a remporté le prix Mostly Cannabis peu de temps après sa mise sur le marché initiale.Sensi Seeds propose également les variantes Super Skunk Féminisée et Super Skunk à Autofloraison.Cette variété convient tant aux cultivateurs novices qu’aux experts.

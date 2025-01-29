@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1560011"
+title: "Northern Lights Feminized Seeds"
+description: "Northern Lights Feminized by Sensi Seeds is a 90% indica strain. It was named after the Aurora Borealis for its high, which is deeply calming for the body and mind. The compact strain is easy to cultivate and delivers generous yields. Northern Lights Feminized produces a distinctive earthy scent, with hints of fruit and herb."
+image: "https://img.sensiseeds.com/en/feminized-seeds/sensi-seeds/northern-lights-image.png"
+slug: "/en-northern-lights-feminized-seeds"
+url: "https://sensiseeds.com/en/feminized-seeds/sensi-seeds/northern-lights?a_aid=cannastore"
+price: 130
+currency: "eur"
+number_of_seeds: 10
+category: "Feminized Seeds"
+flowering_min: 45
+flowering_max: 50
+strain_type: "Feminized"
+climate_zone: "Sunny / Mediterranean"
+yield: "Heavy Yield"
+heigh_gain: "Compact plant"
+locale: "en"
+---
+Northern Lights Feminized is easy-to-grow, and delivers excellent yields. It’s a 90% indica-dominant strain, which means it’s compact and can be cultivated discreetly. Users report a blissfully relaxing stone, which soothes the muscles and calms the mind. The aroma is very indica in personality; earthy, rich and pungent. This carries through to the taste, which also features a hint of fruit and herb. Growth pattern of Northern Lights FeminizedNorthern Lights Feminized cannabis seeds are 90% indica, 10% sativa. The strain has both Thai and Afghani landrace genetics, and was redeveloped by Sensi Seeds. Now, it showcases many of the benefits of an indica-dominant plant; compact size, a relaxing high, plus a short flowering time. This is a feminized variant of the strain, which means that growing male plants is extremely unlikely. This makes cultivation simpler, which is useful for novice growers. Along with this, Northern Lights Feminized has an extremely short flowering time (just 45-50 days). Those who want swift results, or who want to achieve multiple grows throughout the year, will find this an advantage. Like many indica-dominant strains, Northern Lights Feminized is relatively small in size. When grown indoors, plants are usually about 80 to 130 cm in height. This is welcome news for growers that only have limited space within their property. Be aware though, when cultivated outside, the plants can reach heights of 150 to 200 cm, which means they’ll require more room to flourish. Northern Lights Feminized is bushy, multi-branched and sturdy in appearance. When grown in optimum conditions, it will develop many broad leaves and big buds, and produce extensive yields. Inside, the plants are likely to generate around 500 grams per square metre. Growers cultivating the plants outside can expect around 600 grams per plant. The buds are distinctive in appearance. As they develop, they gain a thick coating of resin, and they’re usually densely clustered. The plants thrive in warmer climates, especially in locations like the Mediterranean. They can also be grown indoors, or in a greenhouse. The SOG (Sea of Green) training system is ideal for Northern Lights Feminized, and produces excellent results. SCROG (Screen of Green) also works well, and lollipopping and supercropping is effective too. Effect, taste, and smell of Northern Lights FeminizedNorthern Lights Feminized’s genetics are mostly indica (90%), and this really shows in the resulting high. As can be expected from an indica-dominant strain, the stone is deeply sedative and intense, with users claiming that it relaxes the muscles and soothes the mind. It’s a fairly powerful high, which inexperienced users should be aware of. The aroma is typically indica in personality too. It’s pungent, earthy and rich, though not too overpowering. This is beneficial for those growing the plant inside, or looking for discretion when growing outside. The smell intensifies slightly as the buds become ready to harvest, and take on more complexity after curing. The scents of fruit and herb become particularly noticeable then, and can be detected upon tasting too. Did you know? Northern Lights has won several awards over the years.It’s such a prolific award-winner, that some have even asked for it to be left out of cannabis cups, to give other strains a chance. Northern Lights Feminized has been mentioned in various songs; particularly rap tracks. This strain is also available in two other variants; Northern Lights Regular and Northern Lights Automatic.It tends to grow well with higher levels of nitrogen.Northern Lights Feminized doesn’t produce much odour while growing, which is ideal for those cultivating it in their own homes.

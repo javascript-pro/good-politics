@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1540003"
+title: "Sementes de Pineapple Kush Cake Automáticas"
+description: "A Pineapple Kush Cake Automáticas está pronta para colher em 80/90 dias. Botões verdes-claros grossos cobrem cada ramo desta variedade de sabor tropical."
+image: "https://img.sensiseeds.com/pt/breeding-grounds/humboldt-seed-company/pineapple-kush-cake-automatica-image.png"
+slug: "/pt-sementes-de-pineapple-kush-cake-automaticas"
+url: "https://sensiseeds.com/pt/breeding-grounds/humboldt-seed-company/pineapple-kush-cake-automatica?a_aid=cannastore"
+price: 54.99
+currency: "eur"
+number_of_seeds: 10
+category: "Breeding Grounds"
+flowering_min: 0
+flowering_max: 0
+strain_type: "Regular"
+climate_zone: ""
+yield: ""
+heigh_gain: ""
+locale: "pt"
+---
+Prepare-se para um paladar agradável de frutas tropicais, limão amargo e um tom de notas de chocolate. As sementes de canábis da Pineapple Kush Cake Automática crescem até se tornarem numa planta aromática com efeitos previsíveis, esta cultivar frutada foi desenvolvida em colaboração com a Humboldt Seed Company como parte do projeto Breeding Grounds. Esta variedade automática iniciará a floração por si só e, como também é feminizada, não há plantas macho para remover! Os produtores de todos os níveis podem desfrutar de excelentes colheitas de flores densas, verdes claras e cobertas de tricomas. Padrão de crescimento da Pineapple Kush Cake Automática A Pineapple Kush Cake Automática resulta do cruzamento da Banana Kush Cake Automática da Sensi Seeds com a Pineapple Muffin Automática. O resultado é um híbrido 50/50 que expressa as características desejadas de cada linhagem genética. A morfologia é índica tradicional, com um corpo compacto com espaçamento internodal curto. A Pineapple Kush Auto possui ramos resistentes e uma folhagem verde brilhante.A Pineapple Kush Cake Automática também é uma variedade feminizada, eliminando a necessidade de identificar e remover plantas machos. Cada semente da Pineapple Kush Cake Automática transformar-se-á numa planta produtora de flores. Além disso, sendo uma variedade automática, o produtor não precisa ajustar o cronograma de iluminação para iniciar o período de floração. A altura interior acabada tem geralmente uns modestos 70 a 110 cm de altura. Os produtores de exteriores em climas temperados/continentais registam geralmente um crescimento mais significativo, até à marca dos 80a 120 cm de altura. A Pineapple Kush Cake Automática é capaz de ir da muda à colheita em 80 a 90 dias, em condições ideais. Devido ao tempo de conclusão rápido e à baixa estatura da planta, não é comum utilizar técnicas de cultivo como SCROG SOG, Supercropping ou mesmo Lollipopping.Para o tamanho da Pineapple Kush Automática, esta produzirá grandes rendimentos nas condições adequadas. Os cultivadores de interior obtiveram rendimentos próximos de 250 a 300 gramas por m2. Os produtores de exterior conseguem melhorar esse número, que pode estar na faixa de 160 a 200 gramas por planta. Os botões da Pineapple Kush Cake Automática são volumosos e densos, mas no final da floração, algumas das brácteas irão empilhar e apontar ligeiramente para cima.Efeito, sabor e aroma da Pineapple Kush Cake AutomáticaA Pineapple Kush Cake Automática oferece uma experiência agradável, tanto para o conhecedor avançado, como para o conhecedor em ascensão. O início inclui uma sensação reconfortante de felicidade, à medida que os efeitos edificantes e cerebrais se desencadeiam. Como a mente está num estado pacífico e eufórico, o corpo é consumido por um zumbido revigorante. Essa sensação dá lugar a um estado de relaxamento físico, mas que ainda está pronto para realizar as tarefas quotidianas.Enquanto cresce, a Pineapple Kush Cake Automática enche o ar com um aroma floral ligeiramente pungente. Este perfume fica mais forte nas últimas semanas de floração. Após os botões terem sido secos e curados, o perfil terpeno exibe um paladar tropical de aromas frutados. Existem cheiros doces, terrosos e amargos que abrangem o olfato em geral.A Pineapple Kush Cake Automática tem um perfil de sabor que irá desencadear uma conversa. Os sabores tropicais revestem o paladar com uma espessa camada de sabor. Ananás, laranjas e toranjas recentemente descascados são completados por sabores de mojito de lima cítrica e subtons de chocolate. Imagens de praias tropicais ensolaradas correm para o primeiro plano da mente sempre que a sua língua toca os seus lábios. Sabia que? Excelente variedade para iniciantesIncrível perfil de terpeno tropical Parente da Banana Kush Cake é um cruzamento da Banana Kush e da Wedding Cheesecake

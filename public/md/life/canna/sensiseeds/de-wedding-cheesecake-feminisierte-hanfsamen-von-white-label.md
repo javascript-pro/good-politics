@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1520031"
+title: "Wedding Cheesecake Feminisierte Hanfsamen von White Label"
+description: "Die Wedding Cheesecake Feminisiert von White Label: 70 % Indica, 30 % Sativa. Pflanzen kompakt, Erträge groß. High intensiv, entspannend und kreativ."
+image: "https://img.sensiseeds.com/de/feminisierte-samen/whitelabel/wedding-cake-image.png"
+slug: "/de-wedding-cheesecake-feminisierte-hanfsamen-von-white-label"
+url: "https://sensiseeds.com/de/feminisierte-samen/whitelabel/wedding-cake?a_aid=cannastore"
+price: 85
+currency: "eur"
+number_of_seeds: 10
+category: "Weibliche Samen"
+flowering_min: 55
+flowering_max: 70
+strain_type: "Feminized"
+climate_zone: "Sonniges / Mediterranes Klima"
+yield: "Großer Ertrag"
+heigh_gain: "Kompakte Pflanze"
+locale: "de"
+---
+Weiter oben im Wedding Cheesecake-Stammbaum stehen die OG Kush, die Granddaddy Purple und die Purple Urkel der Westküste. Darüber hinaus gibt es auch einige absolute Größen von Sensi Seeds - die Hindu Kush und die Big Bud und - beide Seiten der Familie beeinflussend – die Durban, die potente südafrikanische Sativa. Die Cannabis-Samen Wedding Cheesecake Feminisiert von White Label weisen wünschenswerte Eigenschaften aus fünf Generationen der Züchtung auf. Dazu gehören das komplexe Geschmacksprofil, eine unglaubliche Harzproduktion und riesige Blüten auf einem robusten, kompakten, schnell blühenden Rahmen. Dazu gehören das komplexe Geschmacksprofil, eine unglaubliche Harzproduktion und riesige Blüten auf einem robusten, kompakten, schnell blühenden Pflanzenkörper.Wachstumsmuster von Wedding Cheesecake Feminisiert von White LabelDie Cannabis-Samen Wedding Cheesecake Feminisiert sind 70 % Indica, 30 % Sativa. Sie wachsen gut in einem Gewächshaus oder im Freien in einem warmen, sonnigen Klima. Doch indoor unter Licht gedeihen die Pflanzen erst richtig. Als schnelle, pflegeleichte Sorte kann die Wedding Cheesecake auch von unerfahrenen Züchtern angebaut werden. Die wichtigsten Faktoren für diese Sorte sind helles Licht und niedrige Luftfeuchtigkeit, die das Blühpotenzial maximieren. Die Züchter sollten auch bedenken, dass diese Sorte schon zu Beginn der Blüte einen zunehmenden Geruch produzieren kann, daher ist ein gutes Luftfiltersystem wichtig.Es wird davon abgeraten, Äste vollständig zu beschneiden, um enge Abstände zu ermöglichen (besser bekannt als Lollipopping). Enge Abstände und gute Erträge können jedoch durch das Blühen kleiner Klone nach der Sea of Green (SOG)-Methode erzielt werden. Das Beschneiden/Stutzen der Hauptstämme größerer Pflanzen kann die Knospenstandorte und den Gesamtertrag erhöhen. Die Wedding Cheesecake verdoppelt sich typischerweise während der Blütezeit in der Größe, wobei einige Pflanzen um 150 % ihrer vegetativen Höhe zulegen. Seltene Exemplare können ihre Höhe in der Blütephase verdreifachen.Die White Label Wedding Cheesecake blüht schnell und kräftig und bildet auf der oberen Hälfte des Hauptstiels und der Zweige massive, gewichtige Colas aus. Kleinere, aber ebenso dichte, harzige Blütentrauben füllen die unteren Knoten, so dass auf den kompakten Rahmen der Pflanzen wenig Platz frei bleibt. Blütenkelche sind mittelgroße, stark harzige Blütenkugeln mit langen Stempeln, die sich mit zunehmender Reife manchmal eher rosa als orange verfärben. Die Kombination aus großen Blüten (bestehend aus mittelgroßen Blütenkelchen mit üppigen Trichomen) und langen Stempeln verleiht den Haupt-Colas der Wedding Cheesecake ein einzigartiges Aussehen - verschwommen und funkelnd zugleich.Wirkung, Geschmack und Geruch von Wedding Cheesecake Feminisiert von White LabelNach der Ernte bleiben die getrockneten Blüten groß, fest und klebrig mit Harz. Wenn sie aufgebrochen (oder sogar grob behandelt) werden, füllen sie die Luft mit dem beeindruckenden Terpenprofil, das aus der Abstammungslinie der Wedding Cheesecake stammt. Das stärkste Element wird von Cheese geerbt - eine fantastisch scharfe Skunk mit kräftigen, süßen Beerennoten. Dies wird von würzigen Zitrusfrüchten sowie erdigen und holzigen Noten von anderen illustren Vorfahren begleitet.Es versteht sich von selbst, dass die Wedding Cheesecake von White Label eine extrem starke Wirkung hat und auch von erfahreneren Rauchern mit Vorsicht behandelt werden sollte. Bei der ersten Begegnung ist es ratsam, einen oder zwei moderate Testzüge zu machen und dann eine kurze Weile zu warten, um zu sehen, wie stark die Wirkung ist. Bei jeder Dosis ist das High dieses Stammes typischerweise warm, positiv und erhebend. Bei mittleren bis hohen Dosen kann die Wirkung von schwerer, kontemplativer, ganzkörperlicher Entspannung bis hin zu himmelhohen, gesprächigen, kreativen und sogar psychedelischen Erfahrungen reichen.

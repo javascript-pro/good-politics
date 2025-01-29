@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1530021"
+title: "Semillas de Black Lights CBD Autoflorecientes"
+description: "La Black Lights CBD autofloreciente es una híbrida indica / sativa. La relación THC/CBD es 2:1 y el efecto es relajante y euforizante a la vez."
+image: "https://img.sensiseeds.com/es/research/black-lights-cbd-autoflorecientes-image.png"
+slug: "/es-semillas-de-black-lights-cbd-autoflorecientes"
+url: "https://sensiseeds.com/es/research/black-lights-cbd-autoflorecientes?a_aid=cannastore"
+price: 68
+currency: "eur"
+number_of_seeds: 10
+category: "Sensi Seeds Research"
+flowering_min: 75
+flowering_max: 80
+strain_type: "Auto"
+climate_zone: "Frío / Fresco"
+yield: "Rendimiento elevado"
+heigh_gain: "Planta compacta"
+locale: "es"
+---
+La Black Harlequin es el resultado de cruzar nuestra Black Domina con la variedad americana Harlequin. Debido a su contenido de CBD, Harlequin es una de las cepas CBD más populares y ganadora de múltiples premios (incluidas Cannabis Cups). Los rasgos de la Harlequin se han llevado a un nivel superior gracias a su emparejamiento con la Black Domina. Finalmente, añadimos la fuerza de la Northern Lights #5 (también ganadora de varios premios) a la Black Harlequin, para llevar una nueva experiencia a los fans del CBD.La Black Lights CBD autofloreciente es una híbrida indica / sativa / ruderalis. Es una variedad autofloreciente, lo que significa que es muy fácil de cultivar. La herencia genética de la Northern Lights #5 y la Black Harlequin CBD explica la relación de THC a CBD de 2:1 y los niveles de THC del 12 al 15 %. Los usuarios pueden prever una subida relajante y feliz con estas plantas que desprenden un aroma afrutado y dulce. Esta variedad crece bien tanto en climas fríos como templados. Patrón de crecimiento de la Black Lights CBD autofloreciente Esta variedad híbrida tiene una genética impresionante, con plantas madre que incluyen la Northern Lights #5 y la Black Harlequin, ambas ganadoras de la Cannabis Cup. La relación de THC a CBD es de 2:1, con niveles de THC del 12 a 15 %. Las semillas son feminizadas y automáticas. Esto significa que crecen y florecen como plantas hembra, mientras que sus ciclos de crecimiento y floración no se ven afectados por la cantidad de horas de luz que reciben. ¿El resultado? Una cepa que es realmente fácil de cultivar, incluso para los principiantes. El periodo de floración es de 60 a 70 días, aproximadamente dentro de la media. De igual manera, las plantas tienden a crecer hasta una altura media y normalmente alcanzan los 100 cm. Esto es gracias a su patrimonio indica y significa que se pueden cultivar discretamente, tanto en el interior como al aire libre. Son plantas tupidas y compactas, con muchas ramas laterales. Los cogollos son largos y gruesos y, normalmente, son bastante abundantes en la época de la cosecha. Aunque es una variedad autofloreciente, los rendimientos son impresionantes y no es improbable que los cultivadores puedan llegar a obtener 450 gramos por metro cuadrado. La Black Lights CBD autofloreciente produce plantas robustas que son capaces de soportar climas fríos. También se pueden cultivar en el interior en cualquier momento del año. Los cultivadores experimentados pueden tener éxito con técnicas de cultivo como SOG (Mar verde) y Lollipopping. Efecto, sabor y aroma de la Black Lights CBD autofloreciente La cepa es una mezcla de indica, sativa y ruderalis. Las dos plantas madre principales, Black Harlequin y la legendaria Northern Lights #5, se pueden detectar en la subida relajante, el aroma jugoso y el sabor afrutado. Una vez consumida, los usuarios destacan el colocón típicamente indica, profundo y relajante, seguido de una agradable sensación euforizante. Con unos niveles de THC del 12 al 15 %, los efectos relajantes de la Black Lights CBD son agradables e intensos, sin ser profundamente relajantes. Mientras las plantas crecen, desprenden un aroma dulce y afrutado que es bastante sutil. De nuevo, esto es beneficioso para aquellos que desean cultivar la cepa sin llamar la atención. El sabor es similar al olor, aunque la dulzura de la madre Black Harlequin llega al primer plano, dejando un sabor delicioso. En resumen Esta variedad es feminizada y autofloreciente, lo que significa que es fácil de cultivarTiene una relación de THC a CBD de 2:1, con niveles de THC del 12 a 15 %Es relativamente compacta y se puede cultivar discretamenteEl aroma y el sabor son dulces y afrutadosEl efecto es profundamente relajante, aunque no te deja tumbado en el sofáLas plantas madre incluyen la Northern Lights #5 y la Black HarlequinLas plantas crecen bien tanto en climas fríos como templados

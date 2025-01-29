@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1560001"
+title: "Semi di Big Bud Femminizzati"
+description: "La Big Bud Femminizzata è indica all’85%. La sua genetica offre un effetto intenso e rilassante. Ha un profumo caratteristico e la dolcezza della melassa."
+image: "https://img.sensiseeds.com/it/semi-femminizzati/sensi-seeds/big-bud-femminilizzata-image.png"
+slug: "/it-semi-di-big-bud-femminizzati"
+url: "https://sensiseeds.com/it/semi-femminizzati/sensi-seeds/big-bud-femminilizzata?a_aid=cannastore"
+price: 108
+currency: "eur"
+number_of_seeds: 10
+category: "Semi Femminizzati"
+flowering_min: 50
+flowering_max: 65
+strain_type: "Feminized"
+climate_zone: "Soleggiato / Mediterraneo"
+yield: "Resa XXL"
+heigh_gain: "Altezza media"
+locale: "it"
+---
+I coltivatori in cerca di rendimenti ingenti apprezzeranno sicuramente la Big Bud Femminizzata. Apprezzata in tutto il mondo per i suoi raccolti eccezionali, questa varietà è robusta, facile da coltivare e vanta una naturale resistenza alla muffa e ai parassiti. Sprigiona anche un aroma deliziosamente dolce, fruttato, e un sapore simile alla melassa. Grazie alla sua genetica a dominanza indica, i consumatori possono aspettarsi un effetto forte e rilassante.Coltivazione della Big Bud FemminizzataI semi di cannabis Big Bud Femminizzati sono indica all’85%. Questo è rilevabile nella struttura e nel rendimento della pianta, oltre che nel suo effetto intenso e rilassante. Sensi Seeds ha preso la Big Bud originale (che risale agli anni 80), e ha aggiunto la Skunk #1 e la Northern Lights al suo corredo genetico. Il risultato è una pianta robusta, skunk e capace di raccolti impressionanti.Questa è la versione femminizzata della varietà. Significa che è altamente improbabile che i semi producano piante maschio, ossia la coltivazione è molto più facile. La Big Bud ha un tempo di fioritura relativamente breve (da 50 a 65 giorni circa), il che la rende una buona opzione per chi ama i risultati rapidi. Quando si coltiva allaperto, il periodo migliore per la raccolta è da metà a fine ottobre.La Big Bud Femminizzata non raggiunge altezze vertiginose all’interno. Infatti, a seconda dellambiente, la crescita può limitarsi a soli 50 - 100 cm. Allesterno, invece, è diverso: quando le piante raggiungono la maturità, possono essere alte anche 200-225 cm.Strutturalmente, le piante sono relativamente strette, con meno foglie rispetto ad altre varietà. L’aspetto più notevole (come suggerisce il nome) consiste nelle cime massicce che si formano tipicamente intorno al gambo centrale, dense e pesanti. Non è raro che i rami si spezzino sotto il loro stesso peso, ma a questo si può rimediare con un filo tutore o un supporto alternativo.Queste cime rivestite di resina producono rendimenti formidabili: la principale motivo di vendita di questa varietà. Se coltivata all’interno, i consumatori possono prevedere circa 500-600 grammi al metro quadrato. Allaperto, i coltivatori possono godere di un raccolto ancora maggiore, circa 800-1200 grammi a pianta.La Big Bud Femminizzata prospera in climi caldi con estati lunghe. Luoghi come il Mediterraneo sono lideale. In alternativa, le piante possono essere coltivate all’interno, o in serra.Dal momento che la maggior parte del rendimento della Big Bud si forma sul fusto centrale, è la candidata perfetta per il metodo SOG (Sea of Green). Le piante sono flessibili e possono essere condizionate in qualsiasi posizione. Anche lo SCROG (Screen of Green) è efficace, e la varietà risponde bene al supercropping e al lollipopping.Effetto, sapore ed odore della Big Bud FemminizzataLa Big Bud Femminizzata è indica all’85%. Ciò significa che l’effetto risultante è forte, sedativo e calmante. Alcuni riferiscono anche risa ed euforia, il che può essere un accenno alla genetica sativa al 15% della varietà.Le piante producono un aroma gradevole man mano che crescono; dolce, fruttato e con un pizzico di spezie. Questo è ancora più evidente dopo la raccolta, quando le cime assumono un profumo quasi di melassa. I consumatori rileveranno questa dolce piccantezza sia nel gusto che nellodore.Lo sapevi?La Big Bud risponde in modo eccellente al metodo SOG (Sea of Green) e può essere condizionata facilmente.È stata creata originariamente negli Stati Uniti, negli anni 80. La guerra alla droga ha spinto i produttori a portare la varietà nei Paesi Bassi.La Bid Bud è disponibile in altre due varianti; Big Bud Regolare e Big Bud Autofiorente.La varietà produce rendimenti impressionanti, ed è per questo che è unopzione commerciale particolarmente popolare.La Big Bud è stata vincitrice della Cannabis Cup, nella categoria Indica Cup.

@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1540003"
+title: "Graines de Pineapple Kush Cake à Autofloraison"
+description: "De la graine à la récolte, la Pineapple Kush Cake parvient à maturité en 80 à 90 jours. Elle donne de gros bourgeons vert clair de saveurs tropicales."
+image: "https://img.sensiseeds.com/fr/breeding-grounds/humboldt-seed-company/pineapple-kush-cake-autofloraison-image.png"
+slug: "/fr-graines-de-pineapple-kush-cake-a-autofloraison"
+url: "https://sensiseeds.com/fr/breeding-grounds/humboldt-seed-company/pineapple-kush-cake-autofloraison?a_aid=cannastore"
+price: 54.99
+currency: "eur"
+number_of_seeds: 10
+category: "Breeding Grounds"
+flowering_min: 0
+flowering_max: 0
+strain_type: "Regular"
+climate_zone: ""
+yield: ""
+heigh_gain: ""
+locale: "fr"
+---
+Préparez-vous à vous délecter de saveurs de fruits tropicaux, de citron vert amère et de notes chocolatées. Les graines de Pineapple Kush Cake à Autofloraison produisent des plantes aromatiques aux effets prévisibles, et ce cultivar fruité a été développé en collaboration avec la Humboldt Seed Company dans le cadre du projet Breeding Grounds. Cette variété à autofloraison commence à fleurir d’elle-même, et parce qu’elle est également féminisée, aucun mâle ne sera produit! Les producteurs de tous niveaux peuvent obtenir de bonnes récoltes de fleurs denses, vert clair, couvertes de trichomes. Schéma de croissance de la Pineapple Kush Cake à Autofloraison La Pineapple Kush Cake à Autofloraison est le résultat d’un croisement externe de notre Banana Kush Cake avec une Pineapple Muffin à Autofloraison. Le résultat est une hybride 50/50 qui exprime les caractéristiques souhaitées de chaque parente. Elle affiche une morphologie traditionnelle indica avec un court espacement entre les nœuds, ce qui produit des plantes compactes. La Pineapple Kush Cake à Autofloraison développe de solides branches et un feuillage vert vif.Comme il s’agit aussi d’une variété féminisée, vous n’aurez pas besoin d’identifier et d’éliminer les mâles. Chaque graine de Pineapple Kush Cake se développe en une plante productrice de fleurs. De plus, étant une variété à autofloraison, le producteur n’a pas besoin de modifier le régime d’éclairage pour lancer la floraison. Les plants d’intérieur atteignent généralement une modeste hauteur de 70 à 110 cm. Les producteurs de plein air de climats tempérés/continentaux obtiennent des plants se situant entre 80 et 120 cm. La Pineapple Kush Cake à Autofloraison peut parvenir à maturité, de la graine à la récolte, en 80 à 90 jours dans des conditions idéales. En raison de sa floraison rapide et de sa petite taille, les techniques horticoles de palissage — SCROG SOG, supercropping, lollipoping — ne lui sont pas souvent appliquées.Considérant sa taille, elle produit de grands rendements dans les bonnes conditions. Les cultivateurs d’intérieur obtiennent des rendements d’environ 250 à 300 grammes par m². Les producteurs de plein air ont signalé des récoltes qui avoisinent les 160 à 200 grammes par plante. Les bourgeons de la Pineapple Kush Cake à Autofloraison sont ronds et denses, mais vers la fin de la floraison, certaines bractées s’empilent et forment une excroissance pointue.Effet, goût et odeur de la Pineapple Kush Cake à AutofloraisonLa Pineapple Kush Cake à Autofloraison offre une expérience agréable aux connaisseurs comme aux novices. Les effets se manifestent d’abord en une stimulation cérébrale qui apporte un sentiment apaisant de bonheur. Alors que l’esprit baigne dans un état paisible et euphorique, le corps est enveloppé d’une énergie revigorante. Cette sensation cède la place à une relaxation corporelle qui permet quand même d’accomplir les tâches quotidiennes.En cours de croissance, la Pineapple Kush Cake à Autofloraison dégage un arôme floral légèrement piquant qui prend en force durant les dernières semaines de floraison. Une fois les bourgeons séchés et affinés, le profil terpénique produit des saveurs tropicales d’arômes fruités. Le parfum est composé de qualités sucrées, terreuses et amères.La Pineapple Kush Cake à Autofloraison présente un profil de saveurs qui va déclencher des conversations. De riches saveurs tropicales font le bonheur des papilles. Des notes d’ananas, d’oranges et de pamplemousses fraîchement pelés se marient à des saveurs de mojito aux agrumes, le tout complété de nuances de chocolat. Des images de plages tropicales ensoleillées se forment dans l’esprit lorsque vous touchez vos lèvres du bout de la langue. Le saviez-vous? Excellente variété pour les débutantsIncroyable profil terpénique tropical La parente Banana Kush Cake provient d’un croisement extérieur d’une Banana Kush et d’une Wedding Cheesecake

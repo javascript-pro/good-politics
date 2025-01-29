@@ -1,0 +1,23 @@
+---
+book: "cannastore"
+icon: "seed"
+itemtype: "Product"
+seed_id: "1500026"
+title: "Graines de Skunk Kush Régulières"
+description: "La Skunk Kush Régulière : 60 % indica et 40 % sativa. High : intense, cérébral et relaxant. Se cultive bien dans les climats plus chauds."
+image: "https://img.sensiseeds.com/fr/graines-de-cannabis/sensi-seeds/skunk-kush-image.png"
+slug: "/fr-graines-de-skunk-kush-regulieres"
+url: "https://sensiseeds.com/fr/graines-de-cannabis/sensi-seeds/skunk-kush?a_aid=cannastore"
+price: 90
+currency: "eur"
+number_of_seeds: 10
+category: "Intérieur / Serre"
+flowering_min: 50
+flowering_max: 60
+strain_type: "Regular"
+climate_zone: "Tempéré/ Continental"
+yield: "Récolte conséquente"
+heigh_gain: "Gain de taille moyen"
+locale: "fr"
+---
+Schéma de croissance de la Skunk Kush RégulièreLes graines de Skunk Kush Régulières sont à 60 % indica et à 40 % sativa. Comme son nom le suggère, la variété est un hybride des variétés Hindu Kush (aux gènes afghans purs) et Skunk #1. Cette combinaison produit des plantes vigoureuses et qui ont un bon rendement et dont l’odeur et le goût sont très distinctement Skunk. Il s’agit d’une variante régulière de la variété, ce qui signifie que les graines produisent des plantes mâles et femelles. Cela est avantageux pour les cultivateurs plus expérimentés qui souhaitent créer leurs propres hybrides. Cela est également utile aux cultivateurs souhaitant créer leurs propres graines. Toutefois, les rendements initiaux pourraient être légèrement limités par la présence de plantes mâles.Puisqu’elles sont régulières, les graines de cette variété nécessitent un climat tempéré ou continental pour atteindre leur plein potentiel. Elle profite d’une courte période de floraison, entre 50 et 60 jours (en culture en intérieur comme en extérieur). Lors d’une culture en extérieur, les têtes sont prêtes à être récoltées entre la fin septembre et le début octobre. La formation florale est impressionnante et peut être qualifiée de phénoménale.La Skunk Kush Régulière n’est pas l’une des plus grandes variétés sur le marché. La plante atteint une taille modérée (la taille maximale est généralement de 150 cm, que la plante soit cultivée en intérieur ou en extérieur). Cette taille est utile aux personnes qui cultivent ces plantes dans une tente ou dans un emplacement où la hauteur est restreinte. La Skunk Kush Régulière prend la forme d’un chandelier lorsqu’elle pousse. La légère dominante indica signifie que les feuilles sont généralement vert foncé et coriace et que les branches sont robustes et fortes. Le rendement est exceptionnellement généreux et les têtes sont généralement recouvertes de trichomes givrés. L’héritage afghan est immédiatement apparent lorsque les têtes commencent à se développer ; les calices bulbeux créeront des têtes denses et semi-ouvertes assez lourdes. Leur surface est étendue, ce qui assure une bonne production de résine. Certains trichomes développent des têtes si bulbeuses qu’il est possible de les observer enfler et changer de couleur lors des dernières étapes de la croissance. Lorsque les plantes sont laissées à elles-mêmes lors de la croissance, la tête centrale prend alors environ la moitié de la tige principale, ou jusqu’à 75 %, chez les plantes femelles plus ouvertes. La Skunk Kush Régulière prospère dans les climats méditerranéens plus chauds. Dans des conditions ensoleillées et tempérées, cette variété peut produire de très importants rendements, sans succomber à la moisissure. Les techniques de lollipopping et de super culture donnent généralement de bons résultats. L’effet, le goût et l’odeur de la Skunk Kush RégulièreLa Skunk Kush Régulière est une variété à légère dominante indica. Cela est mis en évidence dans le high qu’elle procure ; un high corporel intense à la fois capiteux et incroyablement physique. L’influence sativa suscite parfois des rires incontrôlables, tandis que l’ascendance indica suscite un sentiment de relaxation intense. Attention, cette variété ne s’adresse pas aux consommateurs novices, puisqu’elle est assez puissante ! Lors de leur croissance, les plantes produisent une odeur musquée de Skunk. L’odeur afghane sombre et résineuse est rehaussée par de fortes notes d’agrumes frais. Lorsque la récolte approche, l’arôme fruité devient plus important et les odeurs de citron et de menthol passent au premier plan. On peut également les goûter ce qui procure une expérience rafraîchissante et revigorante. Le saviez-vous ?Cette variété est également proposée sous la variante Skunk Kush Féminisée.La variété Skunk Kush est également connue sous le nom Hindu Skunk.Dans les bonnes conditions de croissance, son rendement est exceptionnel.
